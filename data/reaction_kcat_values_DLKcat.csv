@@ -1,0 +1,1880 @@
+Reaction_ID,Reaction_Name,kcat,kcat_MW
+rxn05331_c0,(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase_c0,,
+rxn05330_c0,(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase_c0,,
+rxn05334_c0,(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase_c0,,
+rxn05340_c0,(3R)-3-Hydroxydodecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase_c0,16.2206,571.9246106
+rxn05342_c0,(3R)-3-Hydroxytetradecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase_c0,0.275,9.696266964
+rxn05336_c0,(3R)-3-Hydroxypalmitoyl-[acyl-carrier-protein]:NADP+ oxidoreductase_c0,,
+rxn05343_c0,Octanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)_c0,,
+rxn05345_c0,dodecanoyl-[acyl-carrier-protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)_c0,,
+rxn05350_c0,hexanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)_c0,,
+rxn02483_c0,4-Carboxymuconolactone carboxy-lyase_c0,0.1457,9.065057811
+rxn03446_c0,O-Phospho-4-hydroxy-L-threonine phospho-lyase (adding water)_c0,7.0518,229.8083506
+rxn09992_c0,6-phospho-beta-glucosidase_c0,53.8679,910.0550201
+rxn01851_c0,4-aminobutanal:NAD+ 1-oxidoreductase_c0,13.9537,309.1697434
+rxn01257_c0,chorismate:L-glutamine aminotransferase_c0,1.1011,94.54626862
+rxn00171_c0_num1,acetaldehyde:NAD+ oxidoreductase (CoA-acetylating)_c0,5.3435,100.6836713
+rxn00533_c0_num1,Acetyl-CoA:carbon-dioxide ligase (ADP-forming)_c0,6.6168,808.0673265
+rxn08040_c0,UDP-N-acetyl-D-glucosamine:undecaprenyl-phosphate N-acetyl-D-glucosamine phosphotransferase_c0,3.152,20.78944172
+rxn05485_c0,N-Acetyl-D-glucosamine transport via PEP:Pyr PTS_c0,5.3909,103.6828141
+rxn01917_c0,ATP:N-acetyl-L-glutamate 5-phosphotransferase_c0,96.2504,5665.089576
+rxn00192_c0_num1,acetyl-CoA:L-glutamate N-acetyltransferase_c0,85.7087,3623.348908
+rxn08043_c0_num1,pyruvate:2-oxobutanoate acetaldehydetransferase (decarboxylating)_c0,40.7076,839.3036445
+rxn05349_c0,acetyl-CoA:[acyl-carrier-protein] S-acetyltransferase_c0,12.3393,1301.172567
+rxn01637_c0,N2-Acetyl-L-ornithine:2-oxoglutarate aminotransferase_c0,113.9901,4880.212302
+rxn00175_c0,Acetate:CoA ligase (AMP-forming)_c0,6.845,132.7002623
+rxn00926_c0,Adenine aminohydrolase_c0,4.9254,136.4721692
+rxn03147_c0,1-(5-Phosphoribosyl)-5-amino-4-carboxyimidazole:L-aspartate ligase (ADP-forming)_c0,0.7024,94.04894325
+rxn00838_c0,IMP:L-aspartate ligase (GDP-forming)_c0,4.9053,194.9636026
+rxn00800_c0_num1,"N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming)_c0",,
+rxn03137_c0,10-Formyltetrahydrofolate:5'-phosphoribosyl-5-amino-4-imidazolecarboxamide formyltransferase_c0,1.1329,73.36765244
+rxn00907_c0,"5,10-methylenetetrahydrofolate:NADP+ oxidoreductase_c0",50.8675,3041.235791
+rxn00790_c0_reverse,5-phosphoribosylamine:diphosphate phospho-alpha-D-ribosyltransferase (glutamate-amidating)_c0,23.7953,1579.740959
+rxn02937_c0,2-(Formamido)-N1-(5-phosphoribosyl)acetamidine cyclo-ligase (ADP-forming)_c0,4.7234,468.3269093
+rxn03084_c0,5'-Phosphoribosylformylglycinamide:L-glutamine amido-ligase (ADP-forming)_c0,12.9456,343.987886
+rxn00097_c0,ATP:AMP phosphotransferase_c0,,
+rxn03538_c0,R05223_c0,,
+rxn00139_c0_reverse,AMP:diphosphate phospho-D-ribosyltransferase_c0,12.1444,742.9901049
+rxn03136_c0,1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole AMP-lyase_c0,,
+rxn05217_c0,TRANS-RXNBWI-115637.ce.maizeexp.L-ASPARTATE_c0,,
+rxn08073_c0_num1,N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide amidase (periplasm)_c0,31.6398,4159.097498
+rxn08076_c0_num1,N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide amidase (periplasm)_c0,,
+rxn09678_c0,TRANS-RXNBWI-115637.ce.maizeexp.GLN_c0,,
+rxn02465_c0_reverse,N-acetyl-L-glutamate-5-semialdehyde:NADP+ 5-oxidoreductase (phosphrylating)_c0,42.4321,2196.194936
+rxn00851_c0,D-alanine:D-alanine ligase (ADP-forming)_c0,0.3844,17.96036604
+rxn00283_c0,alanine racemase_c0,,
+rxn00506_c0,Acetaldehyde:NAD+ oxidoreductase_c0,11.7953,261.3464439
+rxn01286_c0,D-Glyceraldehyde:NAD+ oxidoreductase_c0,17.4512,386.6632525
+rxn05303_c0,TRANS-RXNBWI-115637.ce.maizeexp.ARG_c0,,
+rxn00002_c0,urea-1-carboxylate amidohydrolase_c0,23.035,1749.578717
+rxn12634_c0_num1,methionyl aminopeptidase_c0,,
+rxn12637_c0_num1,RXN0-6987.c_c0,36.0676,4860.882842
+rxn00791_c0_reverse,N-(5-Phospho-D-ribosyl)anthranilate:pyrophosphate phosphoribosyl-transferase_c0,0.9687,49.4065811
+rxn00405_c0,L-arginine carboxy-lyase (agmatine-forming)_c0,21.5505,735.6262129
+rxn01740_c0,Shikimate:NADP+ 3-oxidoreductase_c0,5.4274,326.6138974
+rxn01255_c0,5-O-(1-Carboxyvinyl)-3-phosphoshikimate phosphate-lyase (chorismate-forming)_c0,,
+rxn01332_c0,"Phosphoenolpyruvate:D-erythrose-4-phosphate C-(1-carboxyvinyl)transferase (phosphate hydrolysing, 2-carboxy-2-oxoethyl-forming)_c0",54.1215,5320.85242
+rxn01256_c0_num1,Chorismate pyruvatemutase_c0,,
+rxn01643_c0_reverse,L-Aspartate-4-semialdehyde:NADP+ oxidoreductase (phosphorylating)_c0,330.0,29713.63172
+rxn00416_c0,L-aspartate:L-glutamine amido-ligase (AMP-forming)_c0,91.5425,4703.04908
+rxn01018_c0_num1,carbamoyl-phosphate:L-aspartate carbamoyltransferase_c0,15.2918,345.0892478
+rxn00337_c0,ATP:L-aspartate 4-phosphotransferase_c0,53.3088,2225.699261
+rxn00262_c0,L-Aspartic acid:oxygen oxidoreductase (deaminating)_c0,9.1694,318.3007274
+rxn00260_c0_num1,L-Aspartate:2-oxoglutarate aminotransferase_c0,53.3088,719.1809571
+rxn00647_c0,L-Cysteine:2-oxoglutarate aminotransferase_c0,8.1157,109.4876811
+rxn09690_c0,TRANS-RXNBWI-115637.ce.maizeexp.CYS_c0,,
+rxn05244_c0,TRANS-RXNBWI-115637.ce.maizeexp.ILE_c0,,
+rxn05669_c0,TRANS-RXNBWI-115637.ce.maizeexp.VAL_c0,,
+rxn00806_c0,L-Leucine:2-oxoglutarate aminotransferase_c0,8.1157,725.7937546
+rxn01575_c0,L-Isoleucine:2-oxoglutarate aminotransferase_c0,4.4063,394.0590486
+rxn00137_c0,"Adenosine 3',5'-bisphosphate 3'-phosphohydrolase_c0",,
+rxn00792_c0,biotin:CoA ligase (AMP-forming)_c0,1.4882,60.46122574
+rxn05514_c0_reverse,calcium transport in/out via proton antiporter_c0,,
+rxn05029_c0,ATP:cobinamide Cobeta-adenosyltransferase_c0,,
+rxn08192_c0,ABC-5-RXN.cp_c0,33.9992,465.4911432
+rxn00414_c0,"hydrogen-carbonate:L-glutamine amido-ligase (ADP-forming, carbamate-phosphorylating)_c0",31.852,369.29757
+rxn05516_c0_num1,Cadmium-translocating P-type ATPase_c0,,
+rxn00148_c0_reverse,ATP:pyruvate 2-O-phosphotransferase_c0,75.9944,2644.994879
+rxn01368_c0,Cytidine aminohydrolase_c0,145.3582,3205.702575
+rxn05518_c0_num1,cellobiose transport via PEP:Pyr PTS_c0,,
+rxn05347_c0,Acyl-[acyl-carrier-protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)_c0,,
+rxn05348_c0,Decanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)_c0,14.4164,1203.055629
+rxn00256_c0_reverse,acetyl-CoA:oxaloacetate C-acetyltransferase (thioester-hydrolysing)_c0,2100.0,144896.7547
+rxn08233_c0,Chloride/proton antiport_c0,,
+rxn05467_c0,CO2 transporter via diffusion_c0,,
+rxn08240_c0_reverse,cobalt (Co+2) transport out via proton antiport (periplasm)_c0,,
+rxn00412_c0,UTP:L-glutamine amido-ligase (ADP-forming)_c0,62.2349,935.1938919
+rxn05528_c0_num1,Copper-transporting ATPase_c0,,
+rxn00566_c0,L-Cysteine hydrogen-sulfide-lyase (deaminating; pyruvate-forming)_c0,40.2732,1698.841822
+rxn00649_c0,O3-acetyl-L-serine:hydrogen-sulfide 2-amino-2-carboxyethyltransferase_c0,2.491,141.383787
+rxn00742_c0,L-cystathionine cysteine-lyase (deaminating; 2-oxobutanoate-forming)_c0,,
+rxn01127_c0,ATP:dAMP phosphotransferase_c0,,
+rxn05040_c0,"D-ribulose 5-phosphate formate-lyase (L-3,4-dihydroxybutan-2-one 4-phosphate-forming)_c0",,
+rxn01672_c0,dCTP aminohydrolase_c0,,
+rxn01800_c0,Deoxycytidine aminohydrolase_c0,0.4118,9.081760234
+rxn05327_c0_reverse,"Decanoyl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing)_c0",2.688,235.6524146
+rxn01509_c0,ATP:dGMP phosphotransferase_c0,,
+rxn00686_c0,"5,6,7,8-tetrahydrofolate:NADP+ oxidoreductase_c0",4.6235,385.1656301
+rxn01603_c0,"7,8-dihydropteroate:L-glutamate ligase (ADP-forming)_c0",109.2607,8608.855726
+rxn02504_c0,"2-amino-4-hydroxy-6-(D-erythro-1,2,3-trihydroxypropyl)-7,8-dihydropteridine glycolaldehyde-lyase_c0",,
+rxn01465_c0,(S)-dihydroorotate amidohydrolase_c0,0.0277,1.113929952
+rxn02475_c0,"2,5-Diamino-6-hydroxy-4-(5-phosphoribosylamino)-pyrimidine 2-aminohydrolase_c0",0.2333,21.15764529
+rxn02200_c0_num1,"2-amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine:4-aminobenzoate 2-amino-4-hydroxydihydropteridine-6-methenyltransferase_c0",0.4803,40.01190703
+rxn02213_c0,3-Dehydroquinate hydro-lyase_c0,,
+rxn02212_c0,2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate phosphate-lyase (cyclyzing)_c0,,
+rxn01626_c0,"5,6-Dihydrouracil amidohydrolase_c0",8.5566,608.2549056
+rxn00100_c0,ATP:dephospho-CoA 3'-phosphotransferase_c0,,
+rxn00784_c0,2-deoxy-D-ribose-5-phosphate acetaldehyde-lyase (D-glyceraldehyde-3-phosphate-forming)_c0,,
+rxn09686_c0,TRANS-RXNAVI-26378.ce.brachyexp.TTP_c0,,
+rxn01519_c0,dUTP nucleotidohydrolase_c0,,
+rxn03958_c0,1-Deoxy-D-xylulose-5-phosphate isomeroreductase_c0,0.502,43.13153771
+rxn05324_c0_reverse,"Dodecanoyl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing)_c0",,
+rxn05322_c0_reverse,"Butyryl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing)_c0",2.113,185.2431369
+rxn05325_c0_reverse,"Octanoyl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing)_c0",1.754,153.770214
+rxn00912_c0,"5,10-Methylenetetrahydrofolate:3-methyl-2-oxobutanoate hydroxymethyltransferase_c0",,
+rxn00459_c0,2-phospho-D-glycerate hydro-lyase (phosphoenolpyruvate-forming)_c0,,
+rxn06556_c0,Dodecanoyl-[acyl-carrier-protein] hydrolase_c0,1.1907,52.35782473
+rxn04791_c0,S-(hydroxymethyl)glutathione synthase_c0,,
+rxn08433_c0,R08158_c0,0.0277,1.218032876
+rxn00549_c0,"D-Fructose-1,6-bisphosphate 1-phosphohydrolase_c0",0.1558,7.761761826
+rxn08475_c0,iron (II) transport via diffusion (extracellular to periplasm)_c0,,
+rxn05195_c0_num1,ATP phosphohydrolase (ferric-ion-transporting)_c0,,
+rxn00299_c0,"GTP 7,8-8,9-dihydrolase_c0",,
+rxn02201_c0_num1,"2-amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine-diphosphate:4-aminobenzoate 2-amino-4-hydroxydihydropteridine-6-methenyltransferase_c0",17.7061,1475.025665
+rxn01602_c0,dihydrofolate:NADP+ oxidoreductase_c0,5.1996,433.158259
+rxn08535_c0_num1,Fructose transport via PEP:Pyr PTS (f6p generating) (periplasm)_c0,2.7138,260.7418763
+rxn05560_c0_num1,D-fructose transport via PEP:Pyr PTS_c0,31.0757,597.6768307
+rxn00817_c0,melibiose galactohydrolase_c0,5.1836,113.2551491
+rxn01653_c0,5-Formyltetrahydrofolate cyclo-ligase (ADP-forming)_c0,3.1137,535.607441
+rxn00690_c0,Formate:tetrahydrofolate ligase (ADP-forming)_c0,24.5813,756.725152
+rxn00799_c0_num1,(S)-malate hydro-lyase (fumarate-forming)_c0,,
+rxn00993_c0,4-fumarylacetoacetate fumarylhydrolase_c0,4.996,556.305561
+rxn03638_c0,Acetyl-CoA:D-glucosamine-1-phosphate N-acetyltransferase_c0,12.8512,313.7640668
+rxn01675_c0,dTTP:alpha-D-glucose-1-phosphate thymidylyltransferase_c0,2.4427,140.4761728
+rxn01629_c0,"(S)-4-Amino-5-oxopentanoate 4,5-aminomutase_c0",,
+rxn02374_c0,R03314_c0,,
+rxn00194_c0,L-glutamate 1-carboxy-lyase (4-aminobutanoate-forming)_c0,2.9028,197.9154309
+rxn00701_c0,UDP-glucose:alpha-D-galactose-1-phosphate uridylyltransferase_c0,10.9894,347.4454912
+rxn00808_c0,ATP:D-galactose 1-phosphotransferase_c0,2.9525,77.30108475
+rxn00355_c0,UTP:alpha-D-galactose-1-phosphate uridylyltransferase_c0,2.7138,85.8006419
+rxn05567_c0,Galactitol transport via PEP:Pyr PTS_c0,3.0371,58.41233834
+rxn05569_c0,D-glucosamine transport via PEP:Pyr PTS_c0,7.9156,152.240198
+rxn09672_c0,TRANS-RXNBWI-115637.ce.maizeexp.MET_c0,,
+rxn05307_c0,TRANS-RXNBWI-115637.ce.maizeexp.SER_c0,,
+rxn05582_c0,TRANS-RXNBWI-115637.ce.maizeexp.GLY_c0,27.5614,2122.710884
+rxn00781_c0_num1,D-glyceraldehyde-3-phosphate:NAD+ oxidoreductase (phosphorylating)_c0,22.2528,544.5135294
+rxn03004_c0,10-Formyltetrahydrofolate:5'-phosphoribosylglycinamide formyltransferase_c0,7.8599,1244.097617
+rxn00555_c0,L-glutamine:D-fructose-6-phosphate isomerase (deaminating)_c0,1.0375,28.75469588
+rxn00350_c0_reverse,glutathione gamma-glutamylaminopeptidase_c0,,
+rxn09562_c0,Guanylate kinase_c0,,
+rxn05226_c0_num1,D-glucose transport via PEP:Pyr PTS_c0,8.6377,499.8016053
+rxn00695_c0,ATP:alpha-D-glucose-1-phosphate adenylyltransferase_c0,125.8992,1331.961593
+rxn00187_c0_num1,L-Glutamate:ammonia ligase (ADP-forming)_c0,9.0159,426.7130771
+rxn01834_c0,(R)-S-Lactoylglutathione methylglyoxal-lyase (isomerizing)_c0,,
+rxn01802_c0,"Glutaryl-CoA:(acceptor) 2,3-oxidoreductase (decarboxylating)_c0",0.6853,60.07909216
+rxn00184_c0_num1,L-Glutamate:NADP+ oxidoreductase (deaminating)_c0,,
+rxn05297_c0,TRANS-RXNBWI-115637.ce.maizeexp.GLT_c0,,
+rxn06937_c0_num1,L-glutamate:tRNA(Glu) ligase (AMP-forming)_c0,86.3828,5718.877595
+rxn05734_c0,"aldehyde dehydrogenase (glyoxylate, NAD)_c0",3.6931,81.82738481
+rxn05158_c0_num1,ATP phosphohydrolase (glycerol-3-phosphate-importing)_c0,121.6942,14211.23276
+rxn00642_c0,"GDP-mannose 4,6-hydro-lyase (GDP-4-dehydro-6-deoxy-D-mannose-forming)_c0",,
+rxn00917_c0_num1,Xanthosine-5'-phosphate:L-glutamine amido-ligase (AMP-forming)_c0,2.8506,90.90586115
+rxn05508_c0,TRANS-RXNBWI-115637.ce.maizeexp.ASN_c0,,
+rxn00611_c0,sn-Glycerol-3-phosphate:NAD+ 2-oxidoreductase_c0,3.9391,391.8947108
+rxn00758_c0,sn-Glycero-3-phosphocholine glycerophosphohydrolase_c0,3.6774,485.8634267
+rxn01073_c0,sn-Glycero-3-phosphoethanolamine glycerophosphohydrolase_c0,1.137,150.2220907
+rxn08668_c0,Glycerophosphodiester phosphodiesterase (Glycerophosphoserine)_c0,3.0676,405.2957654
+rxn08669_c0,Glycerophosphodiester phosphodiesterase_c0,15.2237,2011.377345
+rxn05740_c0,"1,4-alpha-glucan-branching enzyme_c0",116.0762,1685.256224
+rxn01106_c0_num1,"2-Phospho-D-glycerate 2,3-phosphomutase_c0",,
+rxn00205_c0,glutathione:hydrogen-peroxide oxidoreductase_c0,33.3617,2956.721234
+rxn00300_c0,"GTP 7,8-8,9-dihydrolase (diphosphate-forming)_c0",,
+rxn00915_c0_reverse,GMP:diphosphate 5-phospho-alpha-D-ribosyltransferase_c0,125.7378,11600.07719
+rxn00239_c0_num1,ATP:GMP phosphotransferase_c0,,
+rxn05319_c0,TRANS-RXNBWI-115401.ce.maizeexp.OH_c0,,
+rxn01451_c0,(S)-3-Hydroxybutanoyl-CoA:NAD+ oxidoreductase_c0,104.1918,11891.25282
+rxn03249_c0,(S)-hydroxyhexanoyl-CoA:NAD+ oxidoreductase_c0,6.484,740.0091302
+rxn02933_c0,"(2S,3S)-3-hydroxy-2-methylbutanoyl-CoA:NAD+ oxidoreductase_c0",0.4063,46.37040555
+rxn00202_c0_reverse,"acetyl-CoA:2-oxoglutarate C-acetyltransferase (thioester-hydrolysing, carboxymethyl forming)_c0",26.9179,974.6768568
+rxn05338_c0,(3R)-3-Hydroxydecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase_c0,5.4405,191.8274197
+rxn02264_c0,Hydroxymethylbilane hydro-lyase(cyclizing)_c0,,
+rxn05326_c0_reverse,"Hexanoyl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing)_c0",14.3632,1259.197456
+rxn00547_c0,ATP:D-fructose 6-phosphotransferase_c0,55.6334,1438.305514
+rxn05337_c0,(3R)-3-Hydroxyhexanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase_c0,3.1751,111.9513354
+rxn01480_c0,3-Hydroxy-2-methylpropanoate:NAD+ oxidoreductase_c0,202.3208,23090.56743
+rxn00789_c0_reverse_num1,1-(5-phospho-D-ribosyl)-ATP:diphosphate phospho-alpha-D-ribosyl-transferase_c0,0.0361,2.943722882
+rxn02160_c0,L-Histidinol-phosphate phosphohydrolase_c0,,
+rxn02834_c0,Phosphoribosyl-ATP pyrophosphohydrolase_c0,2.819,208.4450761
+rxn05299_c0,TRANS-RXNBWI-115637.ce.maizeexp.HIS_c0,,
+rxn00060_c0,porphobilinogen:(4-[2-carboxyethyl]-3-[carboxymethyl]pyrrol-2-yl)methyltransferase (hydrolysing)_c0,,
+rxn05341_c0,(3R)-3-Hydroxyoctanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase_c0,2.819,99.39555117
+rxn01301_c0,L-Homoserine:NAD+ oxidoreductase_c0,2.6586,106.866684
+rxn01302_c0,L-homoserine:NADP+ oxidoreductase_c0,2.2919,92.12659033
+rxn01300_c0,ATP:L-homoserine O-phosphotransferase_c0,17.3688,457.6363293
+rxn01304_c0,Succinyl-CoA:L-homoserine O-succinyltransferase_c0,0.2004,10.18458973
+rxn02320_c0_num1,5-Amino-2-oxopentanoate:2-oxoglutarate aminotransferase_c0,116.0762,3530.108238
+rxn00836_c0_reverse,IMP:diphosphate phospho-D-ribosyltransferase_c0,62.9854,5810.786429
+rxn01258_c0,chorismate hydroxymutase_c0,,
+rxn03437_c0,"(R)-2,3-Dihydroxy-3-methylpentanoate hydro-lyase_c0",,
+rxn01790_c0,(R)-Pantoate:NADP+ 2-oxidoreductase_c0,18.0564,970.4440426
+rxn00834_c0,IMP:NAD+ oxidoreductase_c0,,
+rxn00832_c0,"IMP 1,2-hydrolase (decyclizing)_c0",,
+rxn03062_c0,3-Isopropylmalate:NAD+ oxidoreductase_c0,102.6546,4791.35072
+rxn00514_c0,Inosine 5'-triphosphate pyrophosphohydrolase_c0,,
+rxn08762_c0_num1,K(+)-importing ATPase_c0,,
+rxn05595_c0,TRANS-RXN-3.ce_c0,,
+rxn08793_c0,L-Lactate dehydrogenase (menaquinone)_c0,114.1708,1487.08395
+rxn00816_c0,Lactose galactohydrolase_c0,70.1822,634.0762122
+rxn01871_c0_reverse,acetyl-CoA:enzyme N6-(dihydrolipoyl)lysine S-acetyltransferase_c0,9.0905,61.97737612
+rxn02789_c0_num1,2-Isopropylmalate hydro-lyase_c0,,
+rxn00902_c0_reverse,"acetyl-CoA:3-methyl-2-oxobutanoate C-acetyltransferase (thioester-hydrolysing, carboxymethyl-forming)_c0",102.6546,2332.328124
+rxn05243_c0,TRANS-RXNBWI-115637.ce.maizeexp.LEU_c0,,
+rxn08792_c0,lactate oxidation_c0,16.0913,209.5904904
+rxn05602_c0_reverse,L-lactate reversible transport via proton symport_c0,,
+rxn05305_c0,L-lysine transport out via proton antiport reversible_c0,,
+rxn05170_c0_num1,TRANS-RXNAVI-26732.ce.brachyexp.CPD-3609_c0,1.0375,90.65912328
+rxn08869_c0,maltohexaose transport via ABC system (periplasm)_c0,2.7138,237.1380518
+rxn05607_c0,maltose transport via PEP:Pyr PTS_c0,13.0245,250.4993253
+rxn05608_c0,ATP phosphohydrolase (disaccharide-importing)_c0,2.7138,237.1380518
+rxn00559_c0,D-mannose-6-phosphate aldose-ketose-isomerase_c0,,
+rxn05610_c0_num1,D-mannose transport via PEP:Pyr PTS_c0,3.7897,72.8870431
+rxn05346_c0,butyryl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)_c0,,
+rxn05344_c0,Tetradecanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)_c0,551.0,45981.2194025595
+rxn05465_c0_num1,Malonyl-CoA:[acyl-carrier-protein] S-malonyltransferase_c0,2.6274,149.4651107
+rxn00161_c0,(S)-Malate:NADP+ oxidoreductase(oxaloacetate-decarboxylating)_c0,15.3083,659.7047375
+rxn00910_c0,5-methyltetrahydrofolate:NADP+ oxidoreductase_c0,20.4762,580.1346855
+rxn00952_c0,O-acetyl-L-homoserine:hydrogen sulfide S-(3-amino-3-carboxypropyl)transferase_c0,8.3156,195.4026646
+rxn05219_c0_num1,nonpolar-amino-acid-transporting ATPase_c0,4.9927,235.4681503
+rxn05183_c0,D-methionine transport via ABC system_c0,7.726,541.3251487
+rxn00693_c0_num1,5-Methyltetrahydrofolate:L-homocysteine S-methyltransferase_c0,8.6035,91.12244851
+rxn08924_c0,Mg2+-importing ATPase_c0,,
+rxn08127_c0,Amylomaltase (maltotetraose)_c0,8.9276,273.99759
+rxn08128_c0,Amylomaltase (maltopentaose)_c0,2.7138,83.28942379
+rxn05617_c0_num1,mannitol transport via PEP:Pyr PTS_c0,8.1063,155.9079182
+rxn05618_c0,manganese transport in via proton symport_c0,,
+rxn05619_c0,ATP phosphohydrolase (molybdate-importing)_c0,29.7721,1476.496466
+rxn08126_c0,Amylomaltase (maltotriose)_c0,2.0635,63.33102144
+rxn01211_c0,"5,10-Methenyltetrahydrofolate 5-hydrolase (decyclizing)_c0",10.2221,611.1528261
+rxn03052_c0,5-Methyltetrahydropteroyltri-L-glutamate:L-homocysteine S-methyltransferase_c0,27.8769,1163.050092
+rxn05310_c0,Nicotinate transport (Plasma membrane)_c0,,
+rxn08975_c0,dihydronicotinamide adenine dinucleotide-coenzyme Q reductase_c0,,
+rxn01265_c0,Nicotinate D-ribonucleotide:diphosphate phosphoribosyltransferase_c0,3.7887,251.8043098
+rxn05209_c0_num1,TRANS-RXNBWI-115525.ce.maizeexp.NA+_c0,,
+rxn00237_c0,ATP:GDP phosphotransferase_c0,,
+rxn00117_c0,ATP:UDP phosphotransferase_c0,,
+rxn00409_c0,ATP:CDP phosphotransferase_c0,,
+rxn01353_c0,ATP:dGDP phosphotransferase_c0,,
+rxn01673_c0,ATP:dCDP phosphotransferase_c0,,
+rxn00839_c0,ATP:dADP phosphotransferase_c0,,
+rxn00515_c0,ATP:IDP phosphotransferase_c0,,
+rxn00105_c0,ATP:nicotinamide-nucleotide adenylyltransferase_c0,0.1249,9.718038769
+rxn01670_c0,Nicotinamide ribonucleotide phosphohydrolase_c0,4.3031,70.54610483
+rxn00938_c0,Nicotinamide amidohydrolase_c0,0.1333,23.5224061
+rxn02898_c0,"O-Succinylbenzoyl-CoA 1,4-dihydroxy-2-naphthoate-lyase_c0",,
+rxn01961_c0_num1,Xanthosine 5'-phosphate phosphohydrolase_c0,,
+rxn00831_c0_num1,Inosine 5'-monophosphate phosphohydrolase_c0,,
+rxn00708_c0_num1,Uridine 5'-monophosphate phosphohydrolase_c0,,
+rxn01218_c0_num1,2'-Deoxycytidine 5'-monophosphate phosphohydrolase_c0,,
+rxn00363_c0_num1,Cytidine-5'-monophosphate phosphohydrolase_c0,,
+rxn01145_c0_num1,Thymidylate 5'-phosphohydrolase_c0,,
+rxn01507_c0_num1,2'-Deoxyadenosine 5'-monophosphate phosphohydrolase_c0,,
+rxn01445_c0_num1,2'-Deoxyguanosine 5'-monophosphate phosphohydrolase_c0,,
+rxn00913_c0_num1,Guanosine 5'-monophosphate phosphohydrolase_c0,,
+rxn00241_c0,GTP phosphohydrolase_c0,,
+rxn00569_c0_reverse_num1,Nitrite reductase (NAD(P)H)_c0,,
+rxn05468_c0,TRANS-RXNAVI-26568.ce_c0,,
+rxn01208_c0_reverse_num1,R01652_c0,0.4729,42.29183762
+rxn00931_c0,L-Proline:NADP+ 5-oxidoreductase_c0,28.1983,3623.795429
+rxn01791_c0,(R)-Pantoate:beta-alanine ligase (AMP-forming)_c0,92.129,5179.304645
+rxn05239_c0,"adenosine 3',5'-bisphosphate,sulfite:oxidized-thioredoxin oxidoreductase (3'-phosphoadenosine-5'-phosphosulfate -forming)_c0",85.5563,5390.830054
+rxn00154_c0,pyruvate:NAD+ 2-oxidoreductase (CoA-acetylating)_c0,999.0,277.0
+rxn01343_c0,ATP:Sedoheptulose 7-phosphate 1-phosphotransferase_c0,14.2009,367.3648793
+rxn00545_c0,ATP:D-fructose-6-phosphate 1-phosphotransferase_c0,999.0,103373.0297
+rxn00157_c0_reverse,Acetyl-CoA:formate C-acetyltransferase_c0,0.6737,14.43198539
+rxn00558_c0,D-glucose-6-phosphate aldose-ketose-isomerase_c0,,
+rxn02380_c0,beta-D-Glucose 6-phosphate ketol-isomerase_c0,,
+rxn01100_c0,ATP:3-phospho-D-glycerate 1-phosphotransferase_c0,17.3688,1484.523253
+rxn01476_c0,"6-Phospho-D-glucono-1,5-lactone lactonohydrolase_c0",0.2004,19.12519522
+rxn09106_c0,"phosphatidylglycerol phosphate phosphatase (periplasm, n-C18:0)_c0",,
+rxn01000_c0_num1,prephenate hydro-lyase (decarboxylating; phenylpyruvate-forming)_c0,11.9934,255.2090438
+rxn05306_c0,TRANS-RXNBWI-115637.ce.maizeexp.PHE_c0,,
+rxn00493_c0_num1,L-Phenylalanine:2-oxoglutarate aminotransferase_c0,2.8895,87.87544521
+rxn05312_c0_reverse,Inorganic phosphate transporter_c0,,
+rxn05145_c0_num1,phosphate-transporting ATPase_c0,,
+rxn01799_c0,deoxyuridine:orthophosphate 2-deoxy-D-ribosyltransferase_c0,10.9999,685.0768109
+rxn01859_c0,Deoxyadenosine:orthophosphate ribosyltransferase_c0,12.4284,774.0441856
+rxn01358_c0,inosine:phosphate alpha-D-ribosyltransferase_c0,16.965,1056.584887
+rxn01138_c0,Adenosine:phosphate alpha-D-ribosyltransferase_c0,0.5433,33.8368741
+rxn12510_c0,ATP:pantothenate 4'-phosphotransferase_c0,3.9122,258.8271075
+rxn05308_c0,Pantothenate reversible transport via proton symport_c0,,
+rxn00077_c0,ATP:NAD+ 2'-phosphotransferase_c0,,
+rxn00001_c0,diphosphate phosphohydrolase_c0,,
+rxn00029_c0,5-aminolevulinate hydro-lyase (adding 5-aminolevulinate and cyclizing; porphobilinogen-forming)_c0,,
+rxn00242_c0,"guanosine-3',5'-bis(diphosphate) 3'-diphosphohydrolase_c0",0.0725,1.59758295
+rxn00104_c0,polyphosphate kinase_c0,,
+rxn02895_c0,5-Phospho-D-ribosylamine:glycine ligase (ADP-forming)_c0,5.5766,455.3465744
+rxn02508_c0,N-(5-Phospho-beta-D-ribosyl)anthranilate ketol-isomerase_c0,,
+rxn02835_c0,"1-(5-phospho-D-ribosyl)-AMP 1,6-hydrolase_c0",8.8675,1292.437344
+rxn03175_c0,N-(5'-Phospho-D-ribosylformimino)-5-amino-1- (5''-phospho-D-ribosyl)-4-imidazolecarboxamide ketol-isomerase_c0,11.276,1558.857905
+rxn05638_c0,TRANS-RXNBWI-115637.ce.maizeexp.PRO_c0,,
+rxn02476_c0,Phosphoenolpyruvate:3-phosphoshikimate 5-O-(1-carboxyvinyl)-transferase_c0,108.7134,8856.840326
+rxn02914_c0,3-Phosphoserine:2-oxoglutarate aminotransferase_c0,118.4785,5355.324668
+rxn00173_c0,acetyl-CoA:phosphate acetyltransferase_c0,0.5527,1000.0
+rxn00670_c0,propanoyl-CoA:phosphate propanoyltransferase_c0,0.1947,5.020617236
+rxn02175_c0,ATP:pantetheine-4'-phosphate adenylyltransferase_c0,0.1388,4.471602089
+rxn05163_c0_num1,putrescine transport via ABC system_c0,5.0583,257.6811237
+rxn05687_c0,"Transport of putrescine, extracellular_c0",,
+rxn01446_c0,Deoxyguanosine:orthophosphate ribosyltransferase_c0,0.3366,20.96354099
+rxn01985_c0,Deoxyinosine:orthophosphate ribosyltransferase_c0,6.0096,374.2795483
+rxn01649_c0,Xanthosine:orthophosphate ribosyltransferase_c0,2.4054,149.8089765
+rxn00929_c0,L-Proline:NAD+ 5-oxidoreductase_c0,0.2358,30.30292472
+rxn00250_c0,Pyruvate:carbon-dioxide ligase (ADP-forming)_c0,5.6848,161.2812295
+rxn01807_c0,ATP:pyridoxal 5'-phosphotransferase_c0,0.0134,0.791869335
+rxn00138_c0,deamido-NAD+:ammonia ligase (AMP-forming)_c0,14.8017,765.8949657
+rxn02402_c0_reverse,Nicotinate-nucleotide:pyrophosphate phosphoribosyltransferase (carboxylating)_c0,31.0177,1879.740974
+rxn02988_c0_reverse,glycerone phosphate:iminosuccinate alkyltransferase (cyclizing)_c0,43.0073,4669.940687
+rxn00818_c0,Raffinose galactohydrolase_c0,104.405,2281.118112
+rxn00392_c0,ATP:riboflavin 5'-phosphotransferase_c0,0.1088,3.797106953
+rxn03150_c0,R04594_c0,5.9482,855.9562469
+rxn02474_c0,5-amino-6-(5-phosphoribitylamino)uracil:NADP+ 1'-oxidoreductase_c0,2.688,243.7708982
+rxn05645_c0,riboflavin transport in via proton symport_c0,2.8859,251.7902396
+rxn01646_c0,N-Ribosylnicotinamide:orthophosphate ribosyltransferase_c0,,
+rxn00689_c0,Tetrahydrofolate:L-glutamate gamma-ligase (ADP-forming)_c0,,
+rxn05233_c0,2'-Deoxyguanosine 5'-diphosphate:oxidized-thioredoxin 2'-oxidoreductase_c0,26.5623,1673.668043
+rxn05236_c0,2'-Deoxyuridine 5'-triphosphate:oxydized-thioredoxin 2'-oxidoreductase_c0,2.7138,110.4716733
+rxn01116_c0,D-Ribulose-5-phosphate 3-epimerase_c0,,
+rxn00126_c0,ATP:L-methionine S-adenosyltransferase_c0,,
+rxn09696_c0,S-adenosylmethionine permease SAM3_c0,,
+rxn09242_c0_num1,D-sorbitol transport via PEP:Pyr PTS (periplasm)_c0,133.0227,2558.416568
+rxn01329_c0_num1,"D-mannose 6-phosphate 1,6-phosphomutase_c0",,
+rxn03445_c0,O-Phospho-4-hydroxy-L-threonine:2-oxoglutarate aminotransferase_c0,11.0239,498.2892559
+rxn01101_c0_num1,3-Phospho-D-glycerate:NAD+ 2-oxidoreductase_c0,16.2721,714.7197626
+rxn00165_c0,L-serine ammonia-lyase_c0,,
+rxn00543_c0,ethanol:NAD+ oxidoreductase_c0,0.4582,7.140774896
+rxn01739_c0,ATP:shikimate 3-phosphotransferase_c0,51.4509,9426.841041
+rxn00692_c0,"5,10-Methylenetetrahydrofolate:glycine hydroxymethyltransferase_c0",33.5039,1340.03381
+rxn05957_c0,O4-succinyl-L-homoserine:hydrogen sulfide S-(3-amino-3-carboxypropyl)transferase_c0,10.7151,251.7868935
+rxn05651_c0,sulfate transport in via proton symport_c0,,
+rxn00127_c0,S-adenosyl-L-methionine carboxy-lyase [(5-deoxy-5-adenosyl)(3-aminopropyl)methylsulfonium-forming]_c0,5.689,562.0103927
+rxn05175_c0_num1,spermidine transport via ABC system_c0,10.1569,298.3991172
+rxn05652_c0,spermidine transport in via proton antiport_c0,,
+rxn00206_c0_reverse,superoxide:superoxide oxidoreductase_c0,,
+rxn05655_c0_num1,sucrose transport via PEP:Pyr PTS_c0,22.4247,806.0082723
+rxn00575_c0,sucrose glucohydrolase_c0,3.85,125.2443254
+rxn01333_c0,sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glyceronetransferase_c0,52.2958,8113.503428
+rxn05496_c0,TRANS-RXNBWI-115637.ce.maizeexp.L-ALPHA-ALANINE_c0,23.7526,1829.366525
+rxn05301_c0,TRANS-RXNBWI-115637.ce.maizeexp.TYR_c0,,
+rxn02000_c0,"dTDP-4-dehydro-6-deoxy-D-glucose 3,5-epimerase_c0",,
+rxn01652_c0,S-Aminomethyldihydrolipoylprotein:(6S)-tetrahydrofolate aminomethyltransferase (ammonia-forming)_c0,9.8647,394.552023
+rxn02484_c0,ATP:4-amino-5-hydroxymethyl-2-methylpyrimidine 5-phosphotransferase_c0,6.1822,404.9591001
+rxn03108_c0,ATP:4-amino-2-methyl-5-phosphomethylpyrimidine phosphotransferase_c0,27.3363,1790.638195
+rxn09657_c0,Thiamine transporter_c0,,
+rxn00440_c0,ATP:thiamine diphosphotransferase_c0,0.1409,21.34568646
+rxn01069_c0,O-phospho-L-homoserine phosphate-lyase (adding water;L-threonine-forming)_c0,,
+rxn00737_c0,L-threonine ammonia-lyase (2-oxobutanoate-forming)_c0,,
+rxn05300_c0,TRANS-RXNBWI-115637.ce.maizeexp.THR_c0,,
+rxn02305_c0,2-methyl-4-amino-5-hydroxymethylpyrimidine-diphosphate:4-methyl-5-(2-phosphoethyl)-thiazole 2-methyl-4-aminopyridine-5-methenyltransferase_c0,2.7138,102.6214218
+rxn05289_c0,NADPH:oxidized-thioredoxin oxidoreductase_c0,,
+rxn02005_c0,trehalose transport via PEP:Pyr PTS_c0,79.8856,1536.434327
+rxn00650_c0_num1,L-cysteinylglycine dipeptidase_c0,0.4685,63.14042552
+rxn00966_c0_reverse,chorismate pyruvate-lyase (4-hydroxybenzoate-forming)_c0,,
+rxn00727_c0,Chorismate pyruvate-lyase (amino-accepting)_c0,17.3688,419.6515623
+rxn01269_c0,Prephenate:NADP+ oxidoreductase(decarboxylating)_c0,9.1764,1101.356222
+rxn00527_c0_num1,L-tyrosine:2-oxoglutarate aminotransferase_c0,3.2288,98.19423343
+rxn01492_c0,ATP:D-fructose-1-phosphate 6-phosphotransferase_c0,8.6652,467.8306696
+rxn01548_c0,guanosine:phosphate alpha-D-ribosyltransferase_c0,50.0035,3114.231794
+rxn05466_c0,TRANS-RXN-173.ce_c0,,
+rxn01219_c0_num1,ATP:dCMP phosphotransferase_c0,,
+rxn00364_c0_num1,ATP:CMP phosphotransferase_c0,,
+rxn01366_c0,Uridine:phosphate alpha-D-ribosyltransferase_c0,16.2636,1103.117972
+rxn01521_c0_num1,2'-Deoxyuridine 5'-monophosphate phosphohydrolase_c0,,
+rxn00132_c0,Adenosine 5'-monophosphate phosphohydrolase_c0,,
+rxn00189_c0_num1,L-Glutamine amidohydrolase_c0,3.9478,204.2738433
+rxn00423_c0,acetyl-CoA:L-serine O-acetyltransferase_c0,2.7721,205.2181765
+rxn01268_c0_num1,Prephenate:NAD+ oxidoreductase(decarboxylating)_c0,3.1673,380.1409661
+rxn00122_c0,ATP:FMN adenylyltransferase_c0,0.189,6.596077335
+rxn01396_c0,ATP:pyridoxine 5'-phosphotransferase_c0,4.0746,240.7873726
+rxn00124_c0,ATP:pyridoxal 5'-phosphotransferase_c0,0.0288,1.701928123
+rxn09177_c0,(R)-4'-Phosphopantothenate:L-cysteine ligase_c0,10.2466,338.0807767
+rxn02341_c0,N-[(R)-4'-Phosphopantothenoyl]-L-cysteine carboxy-lyase_c0,1.0193,46.96646295
+rxn00297_c0,UDP-N-acetyl-D-glucosamine 2-epimerase_c0,,
+rxn00293_c0,UTP:N-acetyl-alpha-D-glucosamine-1-phosphate uridylyltransferase_c0,11.7153,286.0308898
+rxn04308_c0,"(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate cistransferase (adding 8 isopentenyl units)_c0",1.1639,75.6541021
+rxn00214_c0,UDP-glucose 4-epimerase_c0,,
+rxn00211_c0,UDP-glucose:NAD+ 6-oxidoreductase_c0,0.6409,49.35433216
+rxn00711_c0_reverse,UMP:diphosphate phospho-alpha-D-ribosyltransferase_c0,33.1771,1382.870422
+rxn01362_c0_reverse,Orotidine-5'-phosphate:diphosphate phospho-alpha-D-ribosyl-transferase_c0,772.682,56045.40561
+rxn00710_c0,orotidine-5'-phosphate carboxy-lyase (UMP-forming)_c0,153.593,8437.402399
+rxn00410_c0,UTP:ammonia ligase (ADP-forming)_c0,729.9124,10968.27693
+rxn00101_c0_num1,Urea amidohydrolase_c0,8.1157,342.9766341
+rxn00119_c0,ATP:UMP phosphotransferase_c0,,
+rxn00903_c0,L-Valine:2-oxoglutarate aminotransferase_c0,1.7043,152.4169568
+rxn05663_c0,TRANS-RXNBWI-115637.ce.maizeexp.TRP_c0,,
+rxn09693_c0,Biotin uptake_c0,,
+rxn01544_c0_reverse,XMP:pyrophosphate phosphoribosyltransferase_c0,26.6648,2302.12793
+rxn01962_c0,XTP pyrophosphohydrolase_c0,,
+rxn05671_c0,D-xylose transport in via proton symport_c0,11.2996,124.8546212
+rxn00213_c0,UTP:alpha-D-glucose-1-phosphate uridylyltransferase_c0,,
+rxn00022_c0,maltose glucohydrolase_c0,,
+rxn02155_c0,ATP:nicotinamide-nucleotide adenylyltransferase_c0,,
+rxn01678_c0,ATP:dUDP phosphotransferase_c0,,
+rxn01512_c0,ATP:dTDP phosphotransferase_c0,,
+rxn05150_c0_num1,zinc transport via ABC system_c0,,
+rxn07917_c0,"1,2 diacylglycerol transport via flipping (periplasm to cytoplasm, n-C18:0)_c0",,
+rxn05335_c0,(3R)-3-Hydroxypalmitoyl-[acyl-carrier-protein] hydro-lyase_c0,,
+rxn07977_c0,3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C14:1)_c0,,
+rxn07979_c0,3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C18:0)_c0,,
+rxn07980_c0,3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C18:1)_c0,,
+rxn08015_c0,acyl-[acyl-carrier-protein] synthetase  (n-C14:1)_c0,0.0127,1.339208189
+rxn08017_c0,acyl-[acyl-carrier-protein] synthetase  (n-C16:1)_c0,0.2128,22.43964587
+rxn08020_c0,laurate-[acyl-carrier-protein] ligase_c0,0.2284,24.0846575
+rxn08021_c0,acyl-[acyl-carrier-protein] synthetase  (n-C10:0)_c0,127.604,13455.77336
+rxn08025_c0,Arbutin 6-phosphate glucohydrolase_c0,0.4422,7.470614779
+rxn03537_c0,R05222_c0,,
+rxn00897_c0,N-acetyl-D-glucosamine 2-epimerase_c0,,
+rxn00225_c0_reverse,ATP:acetate phosphotransferase_c0,0.6992,18000.0
+rxn00868_c0_reverse,"Butanoyl-CoA:(acceptor) 2,3-oxidoreductase_c0",0.714,62.59517262
+rxn00872_c0_reverse,Butanoyl-CoA:oxygen 2-oxidoreductase_c0,0.7311,64.09430071
+rxn03251_c0,"Hexanoyl-CoA:(acceptor) 2,3-oxidoreductase_c0",0.7467,65.46192633
+rxn02679_c0,Octanoyl-CoA:oxygen 2-oxidoreductase_c0,0.7611,66.72434998
+rxn03253_c0,"Decanoyl-CoA:(acceptor) 2,3-oxidoreductase_c0",0.775,67.94293947
+rxn02720_c0,"Lauroyl-CoA:(acceptor) 2,3-oxidoreductase_c0",0.1073,9.406809556
+rxn02803_c0,"Tetradecanoyl-CoA:(acceptor) 2,3-oxidoreductase_c0",45.7798,4013.437652
+rxn00946_c0,Palmitoyl-CoA:oxygen 2-oxidoreductase_c0,19.5657,1715.291833
+rxn04016_c0,"S-adenosyl-L-methionine:(E)-prop-1-ene-1,2,3-tricarboxylate 2'-O-methyltransferase_c0",62.4896,7600.701938
+rxn00974_c0,citrate hydro-lyase (cis-aconitate-forming)_c0,,
+rxn01388_c0,isocitrate hydro-lyase (cis-aconitate-forming)_c0,,
+rxn01103_c0,3-Phospho-D-glyceroyl phosphate phosphohydrolase_c0,0.8881,310.2949127
+rxn00227_c0,Acetyl phosphate phosphohydrolase_c0,1.9508,681.5936446
+rxn10052_c0,adenylate kinase (Inorganic triphosphate)_c0,,
+rxn08070_c0,Adenosylcobalamin transport via ABC system (periplasm)_c0,4.8733,66.72151075
+rxn01972_c0,"N6-Acetyl-LL-2,6-diaminoheptanedioate amidohydrolase_c0",,
+rxn00775_c0,ADP-ribose ribophosphohydrolase_c0,8.7861,1565.929397
+rxn00858_c0,Agmatine amidinohydrolase_c0,,
+rxn08084_c0,1-tetradecanoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C14:0)_c0,1.5573,253.0849885
+rxn08089_c0,1-octadec-7-enoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C18:1)_c0,3.389,550.7641598
+rxn00143_c0,S-Adenosyl-L-homocysteine homocysteinylribohydrolase_c0,62.2349,9143.992362
+rxn05733_c0,"O3-acetyl-L-serine:thiosulfate 2-amino-2-carboxyethyltransferase (reducing, L-cysteine-forming)_c0",40.2732,2285.819963
+rxn05115_c0,5-carboxyamino-1-(5-phospho-D-ribosyl)imidazole carboxymutase_c0,,
+rxn00763_c0,Glycerol:NAD+ oxidoreductase_c0,6.3005,98.18955092
+rxn01710_c0,"Propane-1,3-diol:NAD+ 1-oxidoreductase_c0",21.0102,327.43149
+rxn02853_c0,Imidazole acetaldehyde:NAD+ oxidoreductase_c0,32.2241,713.9838701
+rxn00653_c0,3-aminopropanal:NAD+ oxidoreductase_c0,30.5663,677.2522792
+rxn08123_c0_num1,anhydrous-N-Acetylmuramyl-tripeptide amidase_c0,9.153,1203.175096
+rxn08124_c0_num1,anhydrous-N-Acetylmuramyl-tetrapeptide amidase_c0,7.4341,977.2232033
+rxn08129_c0,Amylomaltase (maltohexaose)_c0,2.5217,77.39366938
+rxn10094_c0,S-adenosylmethione:2-demethylmenaquinone methyltransferase_c0,,
+rxn08131_c0,4-amino-2-methyl-5-phosphomethylpyrimidine synthetase_c0,0.4685,2.97237468
+rxn00726_c0,chorismate pyruvate-lyase (amino-accepting; anthranilate-forming)_c0,14.8117,357.8688824
+rxn02916_c0,R04175_c0,,
+rxn01630_c0,5-Aminopentanamide amidohydrolase_c0,,
+rxn05501_c0,arbutin transport via PEP:Pyr PTS_c0,20.3434,391.2632326
+rxn00338_c0,L-aspartate:oxygen oxidoreductase_c0,16.3516,567.6190562
+rxn00347_c0,L-Aspartate ammonia-lyase_c0,,
+rxn00222_c0,cellobiose glucohydrolase_c0,0.2537,9.066826055
+rxn06672_c0,biotin-carboxyl-carrier-protein:carbon-dioxide ligase (ADP-forming)_c0,3.0894,87.22210436
+rxn01084_c0,ATP:cob(I)alamin Co-beta-adenosyltransferase_c0,9.769,1882.120507
+rxn03908_c0,ATP:4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol 2-phosphotransferase_c0,1.4882,107.9513963
+rxn10770_c0_num1,R08557_c0,57.4944,896.0160807
+rxn10481_c0_num1,Copper transport via ABC system_c0,,
+rxn03535_c0,"ATP:cob(I)yrinic acid-a,c-diamide Cobeta-adenosyltransferase_c0",,
+rxn00953_c0,L-Serine hydro-lyase (adding homocysteine)_c0,,
+rxn08294_c0,diacylglycerol kinase (n-C12:0)_c0,,
+rxn08295_c0,diacylglycerol kinase (n-C14:0)_c0,,
+rxn08296_c0,diacylglycerol kinase (n-C14:1)_c0,,
+rxn08297_c0,diacylglycerol kinase (n-C16:0)_c0,,
+rxn08298_c0,diacylglycerol kinase (n-C16:1)_c0,11.4424,2299.061584
+rxn08299_c0,diacylglycerol kinase (n-C18:0)_c0,,
+rxn08300_c0,diacylglycerol kinase (n-C18:1)_c0,0.3983,80.02833575
+rxn00313_c0,"meso-2,6-diaminoheptanedioate carboxy-lyase (L-lysine-forming)_c0",,
+rxn10484_c0,diaminopimelate dehydrogenase_c0,,
+rxn01974_c0,"LL-2,6-Diaminoheptanedioate 2-epimerase_c0",,
+rxn08306_c0,CDP-diacylglycerol synthetase (n-C12:0)_c0,,
+rxn08307_c0,CDP-diacylglycerol synthetase (n-C14:0)_c0,,
+rxn08308_c0,CDP-diacylglycerol synthetase (n-C14:1)_c0,,
+rxn08309_c0,CDP-diacylglycerol synthetase (n-C16:0)_c0,,
+rxn08310_c0,CDP-diacylglycerol synthetase (n-C16:1)_c0,14.8666,1698.037953
+rxn08311_c0,CDP-diacylglycerol synthetase (n-C18:0)_c0,17.2724,1972.824367
+rxn08312_c0,CDP-diacylglycerol synthetase (n-C18:1)_c0,401.3099,45836.93925
+rxn00407_c0,CTP aminohydrolase_c0,,
+rxn00745_c0_num1,Phosphoenolpyruvate:glycerone phosphotransferase_c0,10.083,2041.292426
+rxn02929_c0,"2,3,4,5-Tetrahydrodipicolinate:NADP+ oxidoreductase_c0",0.3911,12.76618386
+rxn01644_c0,L-Aspartate-4-semialdehyde hydro-lyase (adding pyruvate and cyclizing)_c0,24.5774,686.8471335
+rxn08333_c0,"1,4-dihydroxy-2-naphthoate octaprenyltransferase_c0",,
+rxn02190_c0,"5,6-Dihydrothymine amidohydrolase_c0",0.5643,40.11385869
+rxn01213_c0,GPPSYN-RXN_c0,3.5469,396.9725473
+rxn08352_c0,R08210_c0,3.6601,181.2809537
+rxn10506_c0,"2,5-diamino-6-ribitylamino-4(3H)-pyrimidinone 5'-phosphate deaminase_c0",,
+rxn03909_c0,1-Deoxy-D-xylulose-5-phosphate pyruvate-lyase (carboxylating)_c0,0.4932,12.88175769
+rxn08438_c0,R08157_c0,6.9953,307.599472
+rxn06033_c0,Oleoyl-[acyl-carrier protein] hydrolase_c0,,
+rxn00786_c0_num1,"D-fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase (glycerone-phosphate-forming)_c0",,
+rxn01870_c0,D-Fructose 1-phosphate D-glyceraldehyde-3-phosphate-lyase_c0,,
+rxn01334_c0_num1,"Sedoheptulose 1,7-bisphosphate D-glyceraldehyde-3-phosphate-lyase_c0",,
+rxn08502_e0,enterobactin Fe(III) binding (spontaneous)_e0,,
+rxn05255_c0,folate transport via proton simport_c0,,
+rxn08546_c0,glycerol-3-phosphate acyltransferase (C12:0)_c0,6.9953,737.6506332
+rxn08548_c0,glycerol-3-phosphate acyltransferase (C14:1)_c0,6.9953,737.6506332
+rxn08549_c0,glycerol-3-phosphate acyltransferase (C16:0)_c0,121.6942,12832.58812
+rxn00621_c0,CTP:sn-glycerol-3-phosphate cytidylyltransferase_c0,,
+rxn00612_c0,sn-Glycerol-3-phosphate:NADP+ 2-oxidoreductase_c0,42.444,4222.685158
+rxn02373_c0_reverse,L-glutamate-5-semialdehyde:NADP+ 5-oxidoreductase (phosphorylating)_c0,5.4863,37.348207
+rxn02596_c0,R03634_c0,58.636,1281.12295
+rxn00779_c0,D-glyceraldehyde 3-phosphate:NADP+ oxidoreductase_c0,,
+rxn03962_c0,"GDP-L-fucose:NADP+ 4-oxidoreductase (3,5-epimerizing)_c0",302.4636,30689.53928
+rxn08615_c0,glycogen synthase (ADPGlc)_c0,302.4636,5067.942328
+rxn03406_c0,Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-_c0,302.4636,22028.14745
+rxn03407_c0,Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine:ammonia ligase (ADP-forming)_c0,64.7771,4717.656969
+rxn03409_c0,Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-_c0,9.0159,656.619754
+rxn00179_c0,ATP:L-glutamate 5-phosphotransferase_c0,6.0868,62.61466123
+rxn00193_c0,glutamate racemase_c0,,
+rxn00085_c0,L-Glutamate:NADP+ oxidoreductase (transaminating)_c0,41.9,2814.257121
+rxn06591_c0,L-glutamate-semialdehyde: NADP+ oxidoreductase(L-glutamyl-tRNA(Glu)-forming)_c0,,
+rxn00762_c0,glycerol:NAD+ 2-oxidoreductase_c0,,
+rxn01466_c0,Geranyl-diphosphate:isopentenyl-diphosphate geranyltrans-transferase_c0,10.2466,1146.809581
+rxn00303_c0,ATP:GTP 3'-diphosphotransferase_c0,,
+rxn05329_c0,(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase_c0,,
+rxn05339_c0,(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]:NADP+ oxidoreductase_c0,9.123,321.6692491
+rxn03893_c0,all-trans-octaprenyl-diphosphate:4-hydroxybenzoate 3-octaprenyltransferase_c0,,
+rxn05148_c0,Heme transport via ABC system_c0,,
+rxn12008_c0_reverse,R05611_c0,79.9602,5197.454365
+rxn08715_c0_num1,Mercury (Hg+2) ABC transporter (periplasm)_c0,,
+rxn02503_c0,"ATP:2-amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine 6'-pyrophosphotransferase_c0",2.3628,455.7884438
+rxn03135_c0_reverse_num1,R04558_c0,18.0564,2388.607176
+rxn02473_c0,D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate hydro-lyase_c0,,
+rxn00879_c0,myo-Inositol:NAD+ 2-oxidoreductase_c0,,
+rxn02811_c0_num1,3-Isopropylmalate hydro-lyase_c0,,
+rxn08766_c0,FabH_c0,4.527,227.9813535
+rxn05206_c0,TRANS-RXN-187.ce_c0,,
+rxn00499_c0,(S)-Lactate:NAD+ oxidoreductase_c0,13.902,181.0746799
+rxn00322_c0,L-lysine carboxy-lyase (cadaverine-forming)_c0,6.4253,493.2491956
+rxn00546_c0,D-Mannitol-1-phosphate:NAD+ 5-oxidoreductase_c0,14.8498,599.6210788
+rxn08890_c0,"murein D,D-carboxypeptidase (murein5px4p) (periplasm)_c0",9.6993,100.7194786
+rxn08893_c0,"murein D,D-carboxypeptidase (murein5p4p) (periplasm)_c0",,
+rxn08895_c0,"murein D,D-endopeptidase (murein4px4p) (periplasm)_c0",,
+rxn08898_c0,"murein D,D-endopeptidase (murein4px4px4p) (periplasm)_c0",82.7253,859.0361244
+rxn12633_c0_num1,RXN0-6975.c_c0,13.816,1862.002388
+rxn12639_c0_num1,RXN0-6976.c_c0,33.0174,4449.802957
+rxn12640_c0_num1,methionyl aminopeptidase_c0,,
+rxn12641_c0_num1,RXN0-6977.c_c0,,
+rxn12642_c0_num1,RXN0-6978.c_c0,59.6786,8042.971608
+rxn12643_c0_num1,RXN0-6979.c_c0,44.7047,6024.917355
+rxn12644_c0_num1,methionyl aminopeptidase_c0,,
+rxn12645_c0_num1,methionyl aminopeptidase_c0,,
+rxn12646_c0_num1,RXN0-6983.c_c0,9.0499,1219.668168
+rxn12635_c0_num1,RXN0-6974.c_c0,3.1046,418.4114516
+rxn12638_c0_num1,methionyl aminopeptidase_c0,7.8731,1061.069123
+rxn12636_c0_num1,methionyl aminopeptidase_c0,5.0455,679.9893638
+rxn05293_c0,"2C-methyl-D-erythritol 2,4 cyclodiphosphate dehydratase_c0",7.8731,741.6961057
+rxn03910_c0,2-Phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol CMP-lyase (cyclizing)_c0,,
+rxn10570_c0,Methanol diffusion_c0,,
+rxn03907_c0,CTP: 2-C-Methyl-D-erythritol 4-phosphate cytidylyltransferase_c0,5.0455,365.9916478
+rxn05613_c0,L-methionine S-oxide transport via ABC system_c0,3.6528,116.5950285
+rxn05614_c0,L-methionine R-oxide transport via ABC system_c0,12.1117,386.5976804
+rxn06077_c0,L-methionine:oxidized-thioredoxin S-oxidoreductase_c0,17.9461,1785.822696
+rxn00748_c0,glycerone-phosphate phosphate-lyase (methylglyoxal-forming)_c0,,
+rxn08933_c0,Maltodextrin glucosidase (maltotetraose)_c0,3.733,105.22655
+rxn08936_c0,Maltodextrin glucosidase (maltoheptaose)_c0,18.8725,531.9818014
+rxn08941_c0,Maltodextrin phosphorylase (maltopentaose)_c0,13.8177,200.6127434
+rxn08942_c0,Maltodextrin phosphorylase (maltohexaose)_c0,15.1194,219.5115188
+rxn01132_c0,Maltose:phosphate 1-beta-D-glucosyltransferase_c0,18.946,275.0681399
+rxn01021_c0,Methylthioadenosine methylthioribohydrolase_c0,0.7475,109.8279951
+rxn08971_c0,NADH dehydrogenase (menaquinone-8 & 0 protons)_c0,15.2176,903.5670357
+rxn10124_c0_reverse,NADH dehydrogenase (demethylmenaquinone-8 & 2.8 protons)_c0,,
+rxn08976_c0,quinone reductase_c0,28.1689,1672.569227
+rxn08981_c0,nicotinic acid mononucleotide pyrophosphorylase_c0,67.2097,4466.886299
+rxn01669_c0,Nicotinamide-D-ribonucleotide amidohydrolase_c0,1.4882,19.02332082
+rxn02897_c0,Nicotinate-nucleotide:dimethylbenzimidazole phospho-D-ribosyltransferase_c0,,
+rxn01351_c0,2'-Deoxyguanosine 5'-triphosphate diphosphohydrolase_c0,,
+rxn02518_c0,2'-Deoxyinosine-5'-triphosphate pyrophosphohydrolase_c0,,
+rxn00301_c0,GTP diphosphohydrolase (diphosphate-forming)_c0,,
+rxn00367_c0,CTP diphosphohydrolase (diphosphate-forming)_c0,,
+rxn00063_c0,ATP diphosphohydrolase (diphosphate-forming)_c0,,
+rxn09014_c0,RXN0-5107.c_c0,,
+rxn00463_c0,Uridine triphosphate pyrophosphohydrolase_c0,,
+rxn00568_c0_reverse_num1,NIRBD-RXN.c_c0,,
+rxn09022_c0,O16 antigen polymerase (periplasm)_c0,,
+rxn09023_c0,O16 antigen polymerase (periplasm)_c0,1.827,157.7368799
+rxn04794_c0,propanoyl-CoA:formate C-propanoyltransferase_c0,,
+rxn03395_c0,"S-adenosyl-L-methionine:3-(all-trans-octaprenyl)benzene-1,2-diol 2-O-methyltransferase_c0",,
+rxn03393_c0,3-octaprenyl-4-hydroxybenzoate carboxy-lyase_c0,,
+rxn03903_c0,UDPMurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala):undecaprenyl-phosphate phospho-N-acetylmuramoyl-pentapeptide-transferase_c0,76.0904,3762.645022
+rxn03904_c0,"UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine:undecaprenyl-phosphate phospho-N-acetylmuramoyl-pentapeptide-transferase_c0",7.3695,364.4193287
+rxn01485_c0,"D-Glucosamine 1-phosphate 1,6-phosphomutase_c0",,
+rxn00608_c0,6-phospho-beta-D-glucosyl-(1->4)-D-glucose 6-phosphoglucohydrolase_c0,6.8956,116.4956383
+rxn00980_c0,2-Phosphoglycolate phosphohydrolase_c0,0.0906,2.713025324
+rxn09108_c0,Phosphatidylglycerol synthase (n-C12:0)_c0,0.1236,11.32359097
+rxn09109_c0,Phosphatidylglycerol synthase (n-C14:0)_c0,0.0906,8.300302121
+rxn09110_c0,Phosphatidylglycerol synthase (n-C14:1)_c0,0.0953,8.730891746
+rxn09111_c0,Phosphatidylglycerol synthase (n-C16:0)_c0,0.0906,8.300302121
+rxn09112_c0,Phosphatidylglycerol synthase (n-C16:1)_c0,0.0906,8.300302121
+rxn09113_c0,Phosphatidylglycerol synthase (n-C18:0)_c0,4.0746,373.2937199
+rxn09114_c0,Phosphatidylglycerol synthase (n-C18:1)_c0,0.0802,7.347508059
+rxn09176_c0,polyphosphate kinase_c0,,
+rxn12512_c0,(R)-4'-Phosphopantothenate:L-cysteine ligase_c0,27.8031,917.3475731
+rxn09202_c0,Phosphatidylserine decarboxylase (n-C18:0)_c0,,
+rxn09210_c0,Phosphatidylserine syntase (n-C18:0)_c0,81.7774,2212.162647
+rxn02128_c0,ATP:pantothenate 4'-phosphotransferase_c0,0.8673,57.37967138
+rxn00856_c0,putrescine:2-oxoglutarate aminotransferase_c0,35.7337,859.1235907
+rxn02989_c0_reverse,R04293_c0,,
+rxn05958_c0,S-ribosylhomocysteine lyase_c0,,
+rxn03080_c0,5-amino-6-(D-ribitylamino)uracil butanedionetransferase_c0,1.0375,226.5726888
+rxn05232_c0,2'-Deoxyadenosine 5'-triphosphate:oxydized-thioredoxin 2'-oxidoreductase_c0,2.7138,110.4716733
+rxn05234_c0,2'-Deoxyguanosine 5'-triphosphate:oxydized-thioredoxin 2'-oxidoreductase_c0,,
+rxn05235_c0,2'-Deoxyuridine 5'-triphosphate:oxydized-thioredoxin 2'-oxidoreductase_c0,,
+rxn05647_c0,salicin transport via PEP:Pyr PTS_c0,51.4509,989.5516706
+rxn02774_c0,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase_c0,,
+rxn02056_c0_reverse,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase_c0,,
+rxn15395_c0,O-Succinyl-L-homoserine succinate-lyase (adding cysteine)_c0,29.8965,702.5176491
+rxn01406_c0,S-adenosylmethioninamine:putrescine 3-aminopropyltransferase_c0,56.4668,1487.403065
+rxn02831_c0,O-Succinylbenzoate:CoA ligase (AMP-forming)_c0,,
+rxn00245_c0_num1,"(R,R)-tartrate hydro-lyase (oxaloacetate-forming)_c0",,
+rxn03066_c0,"dTDP-4-amino-4,6-dideoxy-D-galactose:2-oxoglutarate aminotransferase_c0",9.7472,399.4974513
+rxn02003_c0,dTDP-6-deoxy-L-mannose:NADP+ 4-oxidoreductase_c0,2.3068,135.6484662
+rxn01997_c0,"dTDPglucose 4,6-hydro-lyase_c0",,
+rxn00785_c0_num1,D-Fructose 6-phosphate:D-glyceraldehyde-3-phosphate glycolaldehyde transferase_c0,12.6996,1375.53549
+rxn00747_c0,D-glyceraldehyde-3-phosphate aldose-ketose-isomerase_c0,,
+rxn01964_c0,L-serine hydro-lyase [adding 1-C-(indol-3-yl)glycerol 3-phosphate; L-tryptophan and glyceraldehyde-3-phosphate-forming]_c0,11.2738,283.7256058
+rxn00474_c0,L-serine hydro-lyase (adding indole; L-tryptophan-forming)_c0,6.4943,163.4408276
+rxn01682_c0,"(1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate D-glyceraldehyde-3-phosphate-lyase_c0",,
+rxn02011_c0,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate:(L)-meso-2,6-diaminoheptanedioate gamma-ligase (ADP-forming)_c0",8.19,281.1881248
+rxn00292_c0,UDP-N-acetyl-D-glucosamine 2-epimerase_c0,0.0852,3.543981769
+rxn00295_c0_num1,UDP-N-acetyl-D-glucosamine 4-epimerase_c0,,
+rxn06729_c0,(R)-3-Hydroxytetradecanoly-[acyl-carrier-protein]:UDP-N-acetyl-glucosamine 3-O-(3-hydroxytetradecanoyl)transferase_c0,12.8181,1351.66177
+rxn00461_c0,Phosphoenolpyruvate:UDP-N-acetyl-D-glucosamine 1-carboxyvinyl-transferase_c0,12.294,330.8005945
+rxn03933_c0,UDP-N-acetyl-D-glucosamine:N-acetyl-alpha-D-muramyl(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-Ala)-diphosphoundecaprenol 4-beta-N-acetylglucosaminlytransferase_c0,3.0413,138.2844125
+rxn02008_c0,UDP-N-acetylmuramoyl-L-alanine:D-glutamate ligase(ADP-forming)_c0,2.8685,51.48570249
+rxn02286_c0,UDP-N-acetylmuramate:L-alanine ligase (ADP-forming)_c0,9.8546,364.1475387
+rxn02285_c0,UDP-N-acetylmuramate:NADP+ oxidoreductase_c0,5.9454,222.0547168
+rxn03901_c0_num1,undecaprenyl-diphosphate phosphohydrolase_c0,0.103,12.33808875
+rxn00358_c0,UDP-D-galactopyranose furanomutase_c0,,
+rxn03164_c0,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminoheptanedioate:D-alanyl-D-alanine ligase(ADP-forming)_c0",14.2484,523.2156973
+rxn02287_c0,S-adenosyl-L-methionine:uroporphyrin-III C-methyltransferase_c0,,
+rxn00654_c0,N-Carbamoyl-beta-alanine amidohydrolase_c0,32.1464,2593.688327
+rxn03397_c0,UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase_c0,1.8742,27.25270448
+rxn01019_c0,Carbamoyl-phosphate:L-ornithine carbamoyltransferase_c0,4.7479,43.40429784
+rxn25839_c0_reverse,ATP:[ThiS] adenylyltransferase_c0,0.9769,57.71163397
+rxn00298_c0,UDP-N-acetyl-D-glucosamine:NAD+ 6-oxidoreductase_c0,7.755,584.3878323
+rxn04056_c0,2-dehydro-D-gluconate:NADP+ 2-oxidoreductase_c0,6.8419,387.3042859
+rxn01200_c0_num1,Sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glycolaldehyde transferase_c0,9.0467,979.8778634
+rxn17731_c0,biotin synthase_c0,8.8207,444.0628996
+rxn18486_c0,ATP phosphohydrolase (disaccharide-importing)_c0,0.7655,51.27163659
+rxn03141_c0,UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysine:alanyl-D-alanine_c0,0.1197,4.395505388
+rxn00113_c0,"Carbon-dioxide:ammonia ligase (ADP-forming,carbamate-phosphorylating)_c0",1.4882,22.36294346
+rxn01171_c0,D-glucose 1-epimerase_c0,,
+rxn00802_c0,2-(Nomega-L-arginino)succinate arginine-lyase (fumarate-forming)_c0,,
+rxn01434_c0,L-Citrulline:L-aspartate ligase (AMP-forming)_c0,57.4944,1149.209634
+rxn42230_c0,rxn42230_c0,10.083,1942.61655
+rxn15167_c0,L-serine hydro-lyase (adding homocysteine; L-cystathionine-forming)_c0,0.8859,49.01140192
+rxn40037_c0,"L-aspartate-4-semialdehyde hydro-lyase [adding pyruvate and cyclizing; (2S,4S)-4-hydroxy-2,3,4,5-tetrahydrodipicolinate-forming]_c0",284.5261,7951.448738
+rxn00719_c0_num1,"5,6-Dihydrouracil:NAD+ oxidoreductase_c0",0.0391,5.183361868
+rxn01819_c0,"Nomega,Nomega'-dimethyl-L-arginine dimethylamidohydrolase_c0",0.0668,3.756133319
+rxn00068_c0,Fe2+:NAD+ oxidoreductase_c0,,
+rxn01636_c0,N2-Acetyl-L-ornithine:L-glutamate N-acetyltransferase_c0,1.2496,52.82703852
+rxn00863_c0,L-histidinal:NAD+ oxidoreductase_c0,2.6032,204.3688473
+rxn02159_c0,L-Histidinol:NAD+ oxidoreductase_c0,11.4601,899.6955389
+rxn06023_c0,CoA:apo-[acyl-carrier-protein] pantetheinephosphotransferase_c0,134.3827,35194.98779
+rxn00109_c0,ammonia:NAD+ oxidoreductase_c0,75.2368,1589.941029
+rxn02507_c0,1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate carboxy-lyase(cyclizing)_c0,5.7797,360.1321392
+rxn02177_c0,Isochorismate pyruvate-hydrolase_c0,57.9699,2456.779538
+rxn04113_c0,isopentenyl-diphosphate:NAD(P)+ oxidoreductase_c0,6.6804,330.8732775
+rxn00066_c0,NADH:hydrogen-peroxide oxidoreductase_c0,,
+rxn01361_c0_num1,(S)-dihydroorotate:NAD+ oxidoreductase_c0,7.4341,496.4155666
+rxn02832_c0_reverse,"(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate hydrolyase (2-succinylbenzoate-forming)_c0",,
+rxn00770_c0,ATP:D-ribose-5-phosphate diphosphotransferase_c0,124.1332,1789.498761
+rxn20643_c0,thiC (gene name)_c0,10.2466,65.0090382
+rxn00777_c0_num1,D-ribose-5-phosphate aldose-ketose-isomerase_c0,,
+rxn00048_c0,"6,7-Dimethyl-8-(1-D-ribityl)lumazine:6,7-dimethyl-8-(1-D-ribityl)lumazine 2,3-butanediyltransferase_c0",3.5503,570.7811691
+rxn04750_c0,(S)-3-hydroxyacyl-CoA:NAD+ oxidoreductase_c0,16.7134,1907.475107
+rxn03843_c0,Farnesyl diphosphate:Isopentenyl diphosphate farnesyl cistransferase_c0,73.3912,4770.465966
+rxn26127_c0,maltodextrin phosphorylase_c0,53.8679,782.0829227
+rxn05064_c0,carbamate hydro-lyase_c0,,
+rxn03481_c0,Arbutin 6-phosphate glucohydrolase_c0,11.2236,189.6137314
+rxn03482_c0,Salicin 6-phosphate glucohydrolase_c0,15.7693,266.4096916
+rxn42709_c0,rxn42709_c0,,
+rxn47768_c0,3-oxo-glutaryl-[acp] methyl ester synthase_c0,,
+rxn21857_c0,3-oxo-glutaryl-[acp] methyl ester reductase_c0,0.8751,30.85528444
+rxn21858_c0,RXN-11477.c_c0,,
+rxn21859_c0,RXN-11478.c_c0,0.7939,69.59987051
+rxn21861_c0,3-oxo-pimeloyl-[acp] methyl ester reductase_c0,14.0936,496.928393
+rxn21862_c0,RXN-11481.c_c0,,
+rxn21863_c0,RXN-11482.c_c0,4.2559,373.1075563
+rxn15949_c0,carboxyspermidine carboxy-lyase (spermidine-forming)_c0,11.9573,514.3518442
+rxn15947_c0,carboxyspermidine:NADP+ oxidoreductase_c0,23.4118,941.8185596
+rxn00011_c0_reverse,pyruvate:thiamin diphosphate acetaldehydetransferase (decarboxylating)_c0,20.8659,388.2782413
+rxn23042_c0,thiamine-phosphate diphosphorylase_c0,13.9537,527.6544085
+rxn23043_c0,thiamin phosphate synthase_c0,37.5472,1419.834568
+rxn23589_c0_reverse,RXN-13329.c_c0,,
+rxn04413_c0,R06558_c0,4.3534,838.7371702
+rxn01459_c0,4-Aminobutyraldehyde:NAD+ oxidoreductase_c0,3.2469,71.94100775
+rxn02400_c0_num1,Nicotinate D-ribonucleotide phosphohydrolase_c0,1.4882,24.3979255
+rxn03039_c0,1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide:pyrophosphate phosphoribosyltransferase_c0,2.7753,169.7918743
+rxn43581_c0,rxn43581_c0,3.0249,284.9648233
+rxn45996_c0,rxn45996_c0,,
+rxn03012_c0,R04336_c0,,
+rxn07441_c0,"LL-2,6-diaminoheptanedioate:2-oxoglutarate aminotransferase_c0",4.0187,166.2468778
+rxn05109_c0,R07399_c0,,
+rxn24718_c0,RXN-8243.c_c0,,
+rxn45425_c0,rxn45425_c0,88.7905,9024.665433
+rxn16574_c0,ATP:molybdopterin adenylyltransferase_c0,1.3226,277.0401831
+rxn16583_c0,adenylyl-molybdopterin:molybdate molybdate transferase (AMP-forming)_c0,0.163,13.4453312
+rxn02314_c0,ATP:D-tagatose-6-phosphate 1-phosphotransferase_c0,0.2525,6.531954455
+rxn03852_c0,"UDP-N-acetyl-D-mannosamine:N-acetyl-beta-D-glucosaminyldiphosphoundecaprenol beta-1,4-N-acetylmannosaminyltransferase_c0",,
+rxn27289_c0_reverse,thiazole synthase_c0,7.7548,253.7168413
+rxn16108_c0,"(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase (adding 4 isopentenyl units)_c0",10.0828,830.1407587
+rxn12666_c0,Pyridoxal transport_c0,,
+rxn05323_c0_reverse,"Tetradecanoyl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing)_c0",4.099,359.3523986
+rxn05328_c0_reverse,"Hexadecanoyl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing)_c0",,
+rxn04675_c0,menaquinone biosynthesis protein-related_c0,,
+rxn00675_c0,Propionyladenylate:CoA propionyltransferase_c0,,
+rxn01210_c0,10-Formyltetrahydrofolate:L-glutamate ligase (ADP-forming)_c0,105.7077,8328.908184
+rxn06864_c0,Biotinyl-5'-AMP:apo-[carboxylase] ligase (AMP-forming)_c0,427.0243,17348.75191
+rxn05461_c0,3-Hydroxyoctodecanoyl-ACP:NADP+ oxidoreductase_c0,401.3099,14149.847
+rxn03269_c0,dTDP-6-deoxy-L-mannose:NADP+ 4-oxidoreductase_c0,0.2342,13.77183578
+rxn00735_c0,"(2R,3S)-3-methylmalate:NAD+ oxidoreductase_c0",,
+rxn02186_c0,"2,3-Dihydroxy-3-methylbutanoate:NADP+ oxidoreductase (isomerizing)_c0",78.3,7852.733117
+rxn03068_c0,"(R)-2,3-Dihydroxy-3-methylbutanoate:NADP+ oxidoreductase (isomerizing)_c0",,
+rxn03435_c0,"(R)-2,3-Dihydroxy-3-methylpentanoate:NADP+ oxidoreductase (isomerizing)_c0",38.1044,3821.502986
+rxn03396_c0,R04989_c0,,
+rxn04139_c0,"2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone ,NADPH2:oxygen oxidoreductase_c0",,
+rxn39451_c0,"2,3,4,5-tetrahydrodipicolinate:NAD+ 4-oxidoreductase_c0",,
+rxn06874_c0_num1,reduced ferredoxin:dinitrogen oxidoreductase (ATP-hydrolysing)_c0,,
+rxn05938_c0_reverse,pyruvate ferredoxin oxidoreductase_c0,109.0,3080.240974
+rxn14048_c0_reverse_num1,2-oxoglutarate:ferredoxin oxidoreductase (decarboxylating)_c0,7.2085,301.1253068
+rxn07438_c0,peptide-methionine:thioredoxin-disulfide S-oxidoreductase_c0,32.4192,3226.045945
+rxn11944_c0_reverse,Methyltransferase_c0,40.7076,1698.358782
+rxn11946_c0_num1,R05614_c0,12.8879,91.48785648
+rxn03005_c0,R04326_c0,,
+rxn03194_c0_num1,(S)-2-Aceto-2-hydroxybutanoate pyruvate-lyase (carboxylating)_c0,7.6525,349.3393504
+rxn05460_c0,3-Oxooctodecanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)_c0,7.6496,638.3628601
+rxn05459_c0,stearyl-ACP:[acyl-carrier-protein] transferase_c0,,
+rxn03408_c0,"UDP-N-acetyl-D-glucosamine:undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine 4-beta-N-acetylglucosaminlytransferase_c0",,
+rxn10193_c0,Poly(glycerol-phosphate) alpha-glucosyltransferase_c0,,
+rxn10300_c0,"stearoyl-lipoteichoic acid synthesis (n=24), linked, glucose substituted_c0",,
+rxn00577_c0,sucrose:phosphate alpha-D-glucosyltransferase_c0,,
+rxn01647_c0,Nicotinate D-ribonucleoside:orthophosphate ribosyltransferase_c0,,
+rxn10253_c0,isoheptadecanoyl-Diacylglycerol kinase_c0,1.3375,268.7368794
+rxn10254_c0,anteisoheptadecanoyl-Diacylglycerol kinase_c0,4.1021,824.2134976
+rxn10255_c0,isotetradecanoyl-Diacylglycerol kinase_c0,4.1021,824.2134976
+rxn10256_c0,isopentadecanoyl-Diacylglycerol kinase_c0,4.1021,824.2134976
+rxn10257_c0,anteisopentadecanoyl-Diacylglycerol kinase_c0,4.1021,824.2134976
+rxn10258_c0,isohexadecanoyl-Diacylglycerol kinase_c0,4.1021,824.2134976
+rxn10060_c0,NAD kinase (dTTP)_c0,,
+rxn03047_c0,ATP:pantothenate 4'-phosphotransferase_c0,5.1946,343.6693658
+rxn00304_c0,GTP:pyruvate 2-O-phosphotransferase_c0,7.453,259.4026249
+rxn00411_c0,CTP:pyruvate 2-O-phosphotransferase_c0,5.1946,180.798722
+rxn00460_c0,UTP:pyruvate 2-O-phosphotransferase_c0,5.1946,180.798722
+rxn00840_c0,dATP:pyruvate 2-O-phosphotransferase_c0,7.453,259.4026249
+rxn01354_c0,dGTP:pyruvate 2-O-phosphotransferase_c0,7.453,259.4026249
+rxn00712_c0,UTP:uridine 5'-phosphotransferase_c0,5.1946,245.2386924
+rxn01128_c0,dATP:cytidine 5'-phosphotransferase_c0,5.1946,245.2386924
+rxn01129_c0,dATP:uridine 5'-phosphotransferase_c0,5.1946,245.2386924
+rxn01370_c0,dGTP:uridine 5'-phosphotransferase_c0,7.453,351.8584635
+rxn01510_c0,dGTP:cytidine 5'-phosphotransferase_c0,7.453,351.8584635
+rxn01515_c0,dTTP:cytidine 5'-phosphotransferase_c0,3.0557,144.2605537
+rxn01516_c0,dTTP:uridine 5'-phosphotransferase_c0,,
+rxn01674_c0,dCTP:uridine 5'-phosphotransferase_c0,26.5624,1254.01922
+rxn01679_c0,dUTP:uridine 5'-phosphotransferase_c0,,
+rxn01705_c0,dCTP:cytidine 5'-phosphotransferase_c0,,
+rxn01706_c0,dUTP:cytidine 5'-phosphotransferase_c0,,
+rxn06934_c0_num1,Protein-N(pai)-phosphohistidine:sugar N(pai)-phosphotransferase_c0,,
+rxn00107_c0,ATP:2'-deoxy-5-hydroxymethylcytidine-5'-diphosphate phosphotransferase_c0,,
+rxn10220_c0,isoheptadecanoyl-phosphatidate cytidylyltransferase_c0,3.152,360.0161185
+rxn10221_c0,anteisoheptadecanoyl-phosphatidate cytidylyltransferase_c0,,
+rxn10222_c0,isotetradecanoyl-phosphatidate cytidylyltransferase_c0,3.152,360.0161185
+rxn10223_c0,isopentadecanoyl-phosphatidate cytidylyltransferase_c0,,
+rxn10224_c0,anteisopentadecanoyl-phosphatidate cytidylyltransferase_c0,3.152,360.0161185
+rxn10225_c0,isohexadecanoyl-phosphatidate cytidylyltransferase_c0,,
+rxn10307_c0,"palmitoyl-lipoteichoic acid synthesis (n=24), linked, N-acetylglucosamine substituted_c0",3.152,20.78944172
+rxn10308_c0,"myristoyl-lipoteichoic acid synthesis (n=24), linked, N-acetylglucosamine substituted_c0",3.152,20.78944172
+rxn10309_c0,"stearoyl-lipoteichoic acid synthesis (n=24), linked, N-acetylglucosamine substituted_c0",3.152,20.78944172
+rxn10312_c0,"isotetradecanoyl-lipoteichoic acid synthesis (n=24), linked, N-acetylglucosamine substituted_c0",3.152,20.78944172
+rxn10313_c0,"isopentadecanoyl-lipoteichoic acid synthesis (n=24), linked, N-acetylglucosamine substituted_c0",0.0906,0.597564537
+rxn10314_c0,"anteisopentadecanoyl-lipoteichoic acid synthesis (n=24), linked, N-acetylglucosamine substituted_c0",0.0906,0.597564537
+rxn10315_c0,"isohexadecanoyl-lipoteichoic acid synthesis (n=24), linked, N-acetylglucosamine substituted_c0",0.0906,0.597564537
+rxn10192_c0,CDP-glycerol:poly(glycerophosphate) glycerophosphotransferase_c0,,
+rxn10291_c0,"stearoyl-lipoteichoic acid synthesis (n=24), linked, unsubstituted_c0",,
+rxn10259_c0,isoheptadecanoyl-CDPdiacylglycerol:sn-glycerol-3-phosphate 3-phosphatidyltransferase_c0,0.0906,8.300302121
+rxn10260_c0,anteisoheptadecanoyl-CDPdiacylglycerol:sn-glycerol-3-phosphate 3-phosphatidyltransferase_c0,0.0906,8.300302121
+rxn10261_c0,isotetradecanoyl-CDPdiacylglycerol:sn-glycerol-3-phosphate 3-phosphatidyltransferase_c0,0.0906,8.300302121
+rxn10262_c0,isopentadecanoyl-CDPdiacylglycerol:sn-glycerol-3-phosphate 3-phosphatidyltransferase_c0,21.7908,1996.360082
+rxn10263_c0,anteisopentadecanoyl-CDPdiacylglycerol:sn-glycerol-3-phosphate 3-phosphatidyltransferase_c0,34.1479,3128.453497
+rxn10264_c0,isohexadecanoyl-CDPdiacylglycerol:sn-glycerol-3-phosphate 3-phosphatidyltransferase_c0,13.4761,1234.610391
+rxn01259_c0,Isomaltose 6-alpha-D-glucanohydrolase_c0,1.5519,43.74526733
+rxn03838_c0,R05549_c0,3.3041,72.19043488
+rxn12845_c0_num1,Gly-Leu aminopeptidase_c0,,
+rxn12846_c0_num1,Gly-Phe aminopeptidase_c0,,
+rxn12847_c0_num1,Gly-Try aminopeptidase_c0,,
+rxn12844_c0_num1,Gly-Cys aminopeptidase_c0,,
+rxn03188_c0,3-Ureidoisobutyrate amidohydrolase_c0,,
+rxn00302_c0,"GTP 8,9-hydrolase_c0",,
+rxn03174_c0_reverse_num1,"2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl) dihydropteridine triphosphate hydrolase_c0",,
+rxn03419_c0,formamidopyrimidine nucleoside triphosphate amidohydrolase_c0,,
+rxn03421_c0_num1,"2,5-Diaminopyrimidine nucleoside triphosphate mutase_c0",,
+rxn10194_c0,Teichoic acid (unsubstituted) export_c0,,
+rxn10195_c0,Teichoic acid (glucose substituted) export_c0,6.6168,168.9992422
+rxn10196_c0,Teichoic acid (D-alanine substituted) export_c0,6.2646,160.0037258
+rxn05365_c0,6-methyl-3-hydroxy-octanoyl-ACP hydro-lyase_c0,,
+rxn05377_c0,12-methyl-3-hydroxy-tetra-decanoyl-ACP hydro-lyase_c0,,
+rxn05390_c0,7-methyl-3-hydroxy-octanoyl-ACP hydro-lyase_c0,,
+rxn05394_c0,9-methyl-3-hydroxy-decanoyl-ACP hydro-lyase_c0,,
+rxn05402_c0,13-methyl-3-hydroxy-tetra-decanoyl-ACP hydro-lyase_c0,,
+rxn05462_c0,trans-Octodec-2-enoyl-ACP hydro-lyase_c0,,
+rxn00898_c0,"2,3-Dihydroxy-3-methylbutanoate hydro-lyase_c0",,
+rxn00636_c0,D-mannose aldose-ketose-isomerase_c0,,
+rxn10191_c0,D-alanine-poly(phosphoribitol) ligase_c0,,
+rxn06673_c0,Acetyl-CoA:carbon-dioxide ligase (ADP-forming)_c0,20.4762,1207.577811
+rxn06078_c0,O-acetyl-L-homoserine acetate-lyase (L-homocysteine forming)_c0,8619.2072,202536.925
+rxn39452_c0,"2,3,4,5-tetrahydrodipicolinate:NADP+ 4-oxidoreductase_c0",0.7498,24.47477539
+rxn04132_c0,R06063_c0,,
+rxn04133_c0,R06064_c0,,
+rxn04457_c0,R06605_c0,,
+rxn05144_c0_num1,Pyridoxal 5-phosphate synthase_c0,1.3526,19.59450954
+rxn05157_c0_num1,Urea-ABC transport_c0,2.8582,226.7214613
+rxn05187_c0,Vitamin ABC transport_c0,9.8349,134.6519578
+rxn05223_c0,Biotin ABC transporter_c0,,
+rxn09989_c0,Maltodextrin glucosidase (dextrin)_c0,17.7359,499.9430935
+rxn09996_c0,"teichuronic acid (n=45), unlinked, GalNAc-GlcA repeated_c0",2.8746,178.6657381
+rxn10199_c0,Peptidoglycan subunit synthesis_c0,0.3914,9.531152448
+rxn10273_c0,stearoyl-UDP-glucosyltransferase (diglucosyl)_c0,,
+rxn10282_c0,stearoyl-UDP-glucosyltransferase (monoglucosyl)_c0,,
+rxn10318_c0,"stearoyl-lipoteichoic acid synthesis (n=24), unlinked, D-alanine substituted_c0",,
+rxn10336_c0,stearoyl-cardiolipin synthase_c0,,
+rxn10344_c0_num1,Lead (Pb+2) ABC transporter_c0,,
+rxn11268_c0_reverse,phosphate ABC transporter permease protein_c0,,
+rxn13778_c0,S-Adenosyl-L-homocysteine transporter_c0,,
+rxn13782_c0_reverse_num1,Protein biosynthesis_c0,,
+rxn13783_c0_reverse_num1,DNA replication_c0,,
+rxn13784_c0_reverse,RNA transcription_c0,,
+rxn05735_c0,"aldehyde dehydrogenase (aminoacetaldehyde, NAD)_c0",303.8399,6732.128677
+rxn10197_c0,TECA4S_c0,,
+rxn12225_c0,2-octaprenylphenol hydroxylase_c0,,
+rxn06865_c0_reverse_num1,,535.5674,82516.02505
+rxn06848_c0_reverse_num1,,2.5821,397.829719
+rxn00251_c0_reverse,,,
+rxn00003_c0_reverse_num1,,,
+EX_cpd00027_e0_reverse,Exchange for D-Glucose_e0,,
+rxn05573_c0,,,
+rxn19672_c0,,,
+rxn14057_c0,,,
+rxn12990_c0,,,
+rxn12239_c0,,,
+rxn11676_c0,,,
+rxn11197_c0,,,
+rxn08958_c0,,,
+rxn08929_c0,,,
+rxn08927_c0,,,
+rxn08896_c0,,,
+rxn08892_c0,,,
+rxn08891_c0,,4.6375,33.15364184
+rxn08889_c0,,,
+rxn08802_c0,,,
+rxn08799_c0,,,
+rxn08764_c0,,33.1803,3327.663354
+rxn08711_c0,,,
+rxn08018_c0_num1,,32.7996,5330.434976
+rxn07206_c0,,,
+rxn05887_c0,,,
+rxn05458_c0,,,
+rxn05333_c0,,,
+rxn05332_c0,,,
+rxn03917_c0,,,
+rxn03511_c0,,,
+rxn03439_c0,,,
+rxn03182_c0,,,
+rxn03159_c0,,,
+rxn03146_c0,,,
+rxn02404_c0,,,
+rxn01875_c0,,,
+rxn01874_c0,,,
+rxn01513_c0,,,
+rxn01307_c0,,,
+rxn01117_c0,,,
+rxn00617_c0,,,
+rxn00438_c0,,,
+rxn00285_c0,,,
+rxn00278_c0,,,
+EX_cpd11574_e0,Exchange for Molybdate_e0,,
+EX_cpd10516_e0,Exchange for fe3_e0,,
+EX_cpd10515_e0,Exchange for Fe2+_e0,,
+EX_cpd04097_e0,Exchange for Pb_e0,,
+EX_cpd01012_e0,Exchange for Cd2+_e0,,
+EX_cpd00971_e0,Exchange for Na+_e0,,
+EX_cpd00531_e0,Exchange for Hg2+_e0,,
+EX_cpd00254_e0,Exchange for Mg_e0,,
+EX_cpd00205_e0,Exchange for K+_e0,,
+EX_cpd00149_e0,Exchange for Co2+_e0,,
+EX_cpd00099_e0,Exchange for Cl-_e0,,
+EX_cpd00067_e0,Exchange for H+_e0,,
+EX_cpd00063_e0,Exchange for Ca2+_e0,,
+EX_cpd00058_e0,Exchange for Cu2+_e0,,
+EX_cpd00048_e0,Exchange for Sulfate_e0,,
+EX_cpd00034_e0,Exchange for Zn2+_e0,,
+EX_cpd00030_e0,Exchange for Mn2+_e0,,
+EX_cpd00013_e0,Exchange for NH3_e0,,
+EX_cpd00012_e0,Exchange for PPi_e0,,
+EX_cpd00009_e0,Exchange for Phosphate_e0,,
+EX_cpd00001_e0,Exchange for H2O_e0,,
+rxn48128_c0,,,
+rxn30018_c0,,2.0259,65.90453995
+rxn18574_c0,,,
+rxn18495_c0,,,
+rxn13645_c0_num1,,,
+rxn13299_c0_num1,,,
+rxn12220_c0,,,
+rxn11258_c0,,,
+rxn11196_c0,,,
+rxn11051_c0,,,
+rxn10954_c0,,7.452,621.8730435
+rxn10053_c0,,,
+rxn10030_c0,,10.0506,315.6591473
+rxn09310_c0,,3.3617,70.38818743
+rxn09225_c0,,,
+rxn09211_c0,,5.0368,136.2506123
+rxn09208_c0,,,
+rxn09203_c0,,,
+rxn09200_c0,,,
+rxn09107_c0,,,
+rxn09104_c0,,,
+rxn09067_c0,,,
+rxn08954_c0,,,
+rxn08713_c0,,,
+rxn08712_c0,,,
+rxn08710_c0,,,
+rxn08709_c0,,,
+rxn08708_c0,,,
+rxn08620_c0,,,
+rxn08619_c0,,,
+rxn08618_c0,,,
+rxn08583_c0,,,
+rxn08551_c0,,2.893,147.5113381
+rxn08518_c0,,,
+rxn08232_c0,,,
+rxn08229_c0,,,
+rxn08202_c0,,,
+rxn08088_c0,,15.7879,1034.344447
+rxn08086_c0,,27.2659,1786.325746
+rxn08016_c0_num1,,13.4221,2181.295848
+rxn06723_c0,,,
+rxn05803_c0,,,
+rxn05598_c0,,,
+rxn05162_c0,,,
+rxn05035_c0,,,
+rxn03919_c0,,,
+rxn03918_c0,,,
+rxn03916_c0,,,
+rxn03181_c0,,,
+rxn03167_c0,,,
+rxn03130_c0,,,
+rxn02405_c0,,,
+rxn02331_c0,,,
+rxn02304_c0,,,
+rxn02288_c0,,,
+rxn01633_c0,,,
+rxn01520_c0,,,
+rxn00961_c0,,,
+rxn00958_c0,,,
+rxn00943_c0,,,
+rxn00664_c0,,,
+rxn00606_c0,,,
+rxn00420_c0,,,
+rxn00346_c0,,,
+rxn00269_c0,,,
+rxn00198_c0,,,
+rxn00196_c0,,,
+rxn00125_c0,,,
+rxn00062_c0,,,
+nadph,,,
+nadh,,,
+EX_cpd26831_e0,D-Xylose exchange,,
+EX_cpd20885_e0,Turanose exchange,,
+EX_cpd15311_e0,"Exchange for 1,2-Diacyl-sn-glycerol dioctadecanoyl_e0",,
+EX_cpd11602_e0,Lnulin exchange,,
+EX_cpd11576_e0,Exchange for L-methionine R-oxide_e0,,
+EX_cpd08865_e0,Arbutin exchange,,
+EX_cpd06159_e0,Esculin exchange,,
+EX_cpd05161_e0,Melezitose exchange,,
+EX_cpd03844_e0,Cellobiose exchange,,
+EX_cpd03726_e0,Exchange for Fe-enterochlin_e0,,
+EX_cpd03696_e0,Exchange for Ursin_e0,,
+EX_cpd03453_e0,Exchange for Enterobactin_e0,,
+EX_cpd03424_e0,Exchange for Vitamin B12_e0,,
+EX_cpd03198_e0,Melibiose exchange,,
+EX_cpd02227_e0,Exchange for S-Ribosylhomocysteine_e0,,
+EX_cpd01914_e0,Exchange for L-Methionine S-oxide_e0,,
+EX_cpd01354_e0,Lactose exchange,,
+EX_cpd01329_e0,Exchange for Maltohexaose_e0,,
+EX_cpd01262_e0,Exchange for Amylotriose_e0,,
+EX_cpd01171_e0,Exchange for Dulcose_e0,,
+EX_cpd01157_e0,Exchange for Chitobiose_e0,,
+EX_cpd01068_e0,L-Xylose exchange,,
+EX_cpd01031_e0,sorbose exchange,,
+EX_cpd01030_e0,Exchange for Salicin_e0,,
+EX_cpd00794_e0,Exchange for TRHL_e0,,
+EX_cpd00751_e0,L-Fucose exchange,,
+EX_cpd00750_e0,D-Fucose exchange,,
+EX_cpd00644_e0,Exchange for PAN_e0,,
+EX_cpd00637_e0,Exchange for D-Methionine_e0,,
+EX_cpd00635_e0,Exchange for Cbl_e0,,
+EX_cpd00589_e0,D-Tagatose exchange,,
+EX_cpd00588_e0,Exchange for Sorbitol_e0,,
+EX_cpd00396_e0,L-Rhamnose exchange,,
+EX_cpd00393_e0,Exchange for Folate_e0,,
+EX_cpd00392_e0,Phycite exchange,,
+EX_cpd00382_e0,Melitose exchange,,
+EX_cpd00368_e0,D-Lyxose exchange,,
+EX_cpd00357_e0,Exchange for TTP_e0,,
+EX_cpd00322_e0,Exchange for L-Isoleucine_e0,,
+EX_cpd00314_e0,Exchange for D-Mannitol_e0,,
+EX_cpd00306_e0,Xylitol exchange,,
+EX_cpd00305_e0,Exchange for Thiamin_e0,,
+EX_cpd00276_e0,Exchange for GLUM_e0,,
+EX_cpd00264_e0,Exchange for Spermidine_e0,,
+EX_cpd00224_e0,L-Arabinose exchange,,
+EX_cpd00220_e0,Exchange for Riboflavin_e0,,
+EX_cpd00218_e0,Exchange for Niacin_e0,,
+EX_cpd00215_e0,Exchange for Pyridoxal_e0,,
+EX_cpd00208_e0,LACT exchange,,
+EX_cpd00185_e0,D-Arabinose exchange,,
+EX_cpd00179_e0,Exchange for Maltose_e0,,
+EX_cpd00166_e0,Exchange for Calomide_e0,,
+EX_cpd00161_e0,Exchange for L-Threonine_e0,,
+EX_cpd00159_e0,Exchange for L-Lactate_e0,,
+EX_cpd00158_e0,Exchange for CELB_e0,,
+EX_cpd00156_e0,Exchange for L-Valine_e0,,
+EX_cpd00155_e0,Glycogen exchange,,
+EX_cpd00154_e0,Exchange for Xylose_e0,,
+EX_cpd00138_e0,Exchange for D-Mannose_e0,,
+EX_cpd00132_e0,Exchange for L-Asparagine_e0,,
+EX_cpd00129_e0,Exchange for L-Proline_e0,,
+EX_cpd00122_e0,Exchange for N-Acetyl-D-glucosamine_e0,,
+EX_cpd00121_e0,L-Inositol exchange,,
+EX_cpd00119_e0,Exchange for L-Histidine_e0,,
+EX_cpd00118_e0,Exchange for Putrescine_e0,,
+EX_cpd00116_e0,Exchange for Methanol_e0,,
+EX_cpd00108_e0,Galactose exchange,,
+EX_cpd00107_e0,Exchange for L-Leucine_e0,,
+EX_cpd00105_e0,Ribose exchange,,
+EX_cpd00104_e0,Exchange for BIOT_e0,,
+EX_cpd00084_e0,Exchange for L-Cysteine_e0,,
+EX_cpd00082_e0,Exchange for D-Fructose_e0,,
+EX_cpd00080_e0,Exchange for Glycerol-3-phosphate_e0,,
+EX_cpd00076_e0,Exchange for Sucrose_e0,,
+EX_cpd00073_e0,Exchange for Urea_e0,,
+EX_cpd00069_e0,Exchange for L-Tyrosine_e0,,
+EX_cpd00066_e0,Exchange for L-Phenylalanine_e0,,
+EX_cpd00065_e0,Exchange for L-Tryptophan_e0,,
+EX_cpd00060_e0,Exchange for L-Methionine_e0,,
+EX_cpd00054_e0,Exchange for L-Serine_e0,,
+EX_cpd00053_e0,Exchange for L-Glutamine_e0,,
+EX_cpd00051_e0,Exchange for L-Arginine_e0,,
+EX_cpd00041_e0,Exchange for L-Aspartate_e0,,
+EX_cpd00039_e0,Exchange for L-Lysine_e0,,
+EX_cpd00035_e0,Exchange for L-Alanine_e0,,
+EX_cpd00033_e0,Exchange for Glycine_e0,,
+EX_cpd00028_e0,Exchange for Heme_e0,,
+EX_cpd00023_e0,Exchange for L-Glutamate_e0,,
+EX_cpd00017_e0,Exchange for S-Adenosyl-L-methionine_e0,,
+EX_cpd00011_e0,Exchange for CO2_e0,,
+EX_cpd00007_e0,Exchange for O2_e0,,
+ADD_tpp,,,
+ADD_heme,,,
+atpm,,,
+DM_cpd15302_c0,Demand for glycogen(n-1)_c0,,
+DM_cpd11640_c0,,,
+DM_cpd00363_c0,,,
+DM_cpd00166_c0,Calomide demand,,
+DM_cpd00029_c0,Heme demand,,
+bio1_biomass,GramPositiveBiomass auto biomass,,
+rxn00379_c0_num1,,,
+rxn05039_c0_num1,,,
+rxn05331_c0_reverse,,1.4564,327.1474832
+rxn05330_c0_reverse,,1.4141,317.6457401
+rxn05334_c0_reverse,,8.25,1853.176831
+rxn05340_c0_reverse,,344.7,48615.31960112355
+rxn05342_c0_reverse,,344.7,48615.31960112355
+rxn05336_c0_reverse,,3.3432,117.878399
+rxn01257_c0_reverse,,5.1513,442.3178581
+rxn00171_c0_reverse_num1,,141.7544,2670.974719
+rxn08040_c0_reverse,,,
+rxn05485_c0_reverse,,93.217,1792.83624
+rxn01917_c0_reverse,,1.5895,93.55451905
+rxn05349_c0_reverse,,29.7721,3139.451977
+rxn01637_c0_reverse,,33.7595,1445.331895
+rxn00800_c0_reverse_num1,,,
+rxn03137_c0_reverse,,,
+rxn00907_c0_reverse,,,
+rxn00097_c0_reverse,,,
+rxn03136_c0_reverse,,21.4887,1442.841855
+rxn05217_c0_reverse,,,
+rxn08073_c0_reverse_num1,,19.5122,2564.906927
+rxn08076_c0_reverse_num1,,19.0206,2500.285396
+rxn09678_c0_reverse,,,
+rxn00283_c0_reverse,,,
+rxn05303_c0_reverse,,,
+rxn12634_c0_reverse_num1,,11.2154,1511.515749
+rxn12637_c0_reverse_num1,,153.7618,20722.70113
+rxn01740_c0_reverse,,25.6496,1543.559683
+rxn00337_c0_reverse,,13.2034,551.2560333
+rxn00260_c0_reverse_num1,,131.3435,1771.935291
+rxn00647_c0_reverse,,277.5089,3743.830593
+rxn09690_c0_reverse,,,
+rxn05244_c0_reverse,,,
+rxn05669_c0_reverse,,,
+rxn00806_c0_reverse,,312.4966,27946.82906
+rxn01575_c0_reverse,,172.4085,15418.63457
+rxn05518_c0_reverse_num1,,21.1776,3412.365956
+rxn05467_c0_reverse,,,
+rxn01127_c0_reverse,,,
+rxn01509_c0_reverse,,,
+rxn00686_c0_reverse,,1.2473,103.9076653
+rxn02504_c0_reverse,,80.303,21187.13065
+rxn01465_c0_reverse,,6.3715,256.2239959
+rxn02200_c0_reverse_num1,,2.9357,244.5616395
+rxn00784_c0_reverse,,36.1876,1462.854772
+rxn03958_c0_reverse,,7.6761,659.5258896
+rxn00912_c0_reverse,,3.3432,40.48946462
+rxn00459_c0_reverse,,0.0588,1.152553846
+rxn04791_c0_reverse,,,
+rxn08475_c0_reverse,,,
+rxn01602_c0_reverse,,0.4397,36.62968045
+rxn08535_c0_reverse_num1,,24.258,2330.708392
+rxn05560_c0_reverse_num1,,24.258,466.552469
+rxn00817_c0_reverse,,2.9525,64.5084165
+rxn00799_c0_reverse_num1,,1.2496,112.8598894
+rxn00993_c0_reverse,,3.3432,372.2659631
+rxn01629_c0_reverse,,,
+rxn00701_c0_reverse,,3.3432,105.700017
+rxn05567_c0_reverse,,6.0586,116.5246429
+rxn05569_c0_reverse,,32.4192,623.5162751
+rxn09672_c0_reverse,,,
+rxn05307_c0_reverse,,,
+rxn05582_c0_reverse,,127.8783,9848.870495
+rxn00781_c0_reverse_num1,,63.5348,1554.660905
+rxn03004_c0_reverse,,34.1018,5397.774541
+rxn00555_c0_reverse,,6.7644,187.4778456
+rxn09562_c0_reverse,,,
+rxn01834_c0_reverse,,31.9422,4167.760871
+rxn00184_c0_reverse_num1,,3.4385,115.4752161
+rxn05297_c0_reverse,,,
+rxn05734_c0_reverse,,13.5228,299.6223658
+rxn05508_c0_reverse,,,
+rxn00611_c0_reverse,,,
+rxn08668_c0_reverse,,350.4933,46307.68363
+rxn05740_c0_reverse,,136.6894,1984.529663
+rxn01106_c0_reverse_num1,,,
+rxn00239_c0_reverse_num1,,,
+rxn05319_c0_reverse,,,
+rxn01451_c0_reverse,,,
+rxn03249_c0_reverse,,17.5041,1997.716504
+rxn02933_c0_reverse,,17.5041,1997.716504
+rxn05338_c0_reverse,,5.7217,201.7422934
+rxn05337_c0_reverse,,344.7,48615.3196
+rxn01480_c0_reverse,,1.826,208.398623
+rxn05299_c0_reverse,,,
+rxn05341_c0_reverse,,344.7,48615.3196
+rxn01301_c0_reverse,,66.7938,2684.883743
+rxn01302_c0_reverse,,179.0279,7196.313103
+rxn02320_c0_reverse_num1,,3.3022,100.4264735
+rxn01790_c0_reverse,,18.3478,986.1053812
+rxn00834_c0_reverse,,,
+rxn00832_c0_reverse,,,
+rxn03062_c0_reverse,,1.2496,58.32443806
+rxn05595_c0_reverse,,,
+rxn00816_c0_reverse,,5.0024,45.19526096
+rxn02789_c0_reverse_num1,,3.3432,270.4066892
+rxn05243_c0_reverse,,,
+rxn05305_c0_reverse,,,
+rxn05607_c0_reverse,,3.6665,70.51754586
+rxn00559_c0_reverse,,,
+rxn05610_c0_reverse_num1,,8.9276,171.7039254
+rxn05465_c0_reverse_num1,,8.319,473.2436081
+rxn00910_c0_reverse,,9.153,259.3241312
+rxn00693_c0_reverse_num1,,3.3432,35.40891147
+rxn08127_c0_reverse,,2.7864,85.51759542
+rxn08128_c0_reverse,,8.6035,264.0506145
+rxn05617_c0_reverse_num1,,51.3609,987.8207067
+rxn08126_c0_reverse,,2.1312,65.40880683
+rxn01211_c0_reverse,,22.3865,1338.430728
+rxn03052_c0_reverse,,5.7217,238.7146244
+rxn05310_c0_reverse,,,
+rxn01265_c0_reverse,,29.1478,1937.21901
+rxn05209_c0_reverse_num1,,,
+rxn00237_c0_reverse,,,
+rxn00117_c0_reverse,,,
+rxn00409_c0_reverse,,,
+rxn01353_c0_reverse,,,
+rxn01673_c0_reverse,,,
+rxn00839_c0_reverse,,,
+rxn00515_c0_reverse,,,
+rxn00931_c0_reverse,,0.086,11.05195728
+rxn00558_c0_reverse,,,
+rxn02380_c0_reverse,,,
+rxn01100_c0_reverse,,2633.0,31515.0
+rxn05306_c0_reverse,,,
+rxn00493_c0_reverse_num1,,35.6283,1083.527505
+rxn01799_c0_reverse,,35.6283,2218.940367
+rxn01859_c0_reverse,,7.5046,467.3885613
+rxn01358_c0_reverse,,176.7173,11006.00227
+rxn01138_c0_reverse,,1.7713,110.3170534
+rxn05308_c0_reverse,,,
+rxn00077_c0_reverse,,,
+rxn00104_c0_reverse,,,
+rxn02508_c0_reverse,,,
+rxn02835_c0_reverse,,,
+rxn03175_c0_reverse,,,
+rxn05638_c0_reverse,,,
+rxn02476_c0_reverse,,0.0202,1.645686499
+rxn02914_c0_reverse,,2.49,225.1000548
+rxn00670_c0_reverse,,2.9584,76.28656411
+rxn05687_c0_reverse,,,
+rxn01446_c0_reverse,,24.9322,1552.784304
+rxn01985_c0_reverse,,8.5201,530.6341818
+rxn01649_c0_reverse,,0.1088,6.776094058
+rxn00929_c0_reverse,,2.9584,380.1873304
+rxn00250_c0_reverse,,60.0,1702.23645
+rxn00392_c0_reverse,,3.3432,116.6772791
+rxn02474_c0_reverse,,0.4578,41.5172311
+rxn05645_c0_reverse,,2.7864,243.109021
+rxn01646_c0_reverse,,8.7109,542.5172585
+rxn01116_c0_reverse,,,
+rxn09696_c0_reverse,,,
+rxn09242_c0_reverse_num1,,86.4141,1661.996525
+rxn01329_c0_reverse_num1,,,
+rxn03445_c0_reverse,,7.258,328.0675096
+rxn01101_c0_reverse_num1,,9.7303,427.3841548
+rxn00543_c0_reverse,,7.9435,123.7947302
+rxn00692_c0_reverse,,999.0,79912.7132
+rxn05652_c0_reverse,,,
+rxn05655_c0_reverse_num1,,3.3432,120.1642321
+rxn01333_c0_reverse,,5.2068,807.8161085
+rxn05496_c0_reverse,,1.3143,101.2241365
+rxn05301_c0_reverse,,,
+rxn02000_c0_reverse,,,
+rxn01652_c0_reverse,,2.5531,102.1146887
+rxn09657_c0_reverse,,,
+rxn05300_c0_reverse,,,
+rxn02005_c0_reverse,,16.8409,323.8998876
+rxn00650_c0_reverse_num1,,2.9584,398.7078652
+rxn00527_c0_reverse_num1,,13.8826,422.1974929
+rxn01548_c0_reverse,,4.6596,290.2011753
+rxn05466_c0_reverse,,,
+rxn01219_c0_reverse_num1,,,
+rxn00364_c0_reverse_num1,,,
+rxn01366_c0_reverse,,8.0245,544.2811044
+rxn00297_c0_reverse,,,
+rxn00214_c0_reverse,,,
+rxn00211_c0_reverse,,,
+rxn00119_c0_reverse,,,
+rxn00903_c0_reverse,,,
+rxn05663_c0_reverse,,,
+rxn09693_c0_reverse,,,
+rxn05671_c0_reverse,,58.002,640.8915127
+rxn02155_c0_reverse,,3.5025,272.5174603
+rxn01678_c0_reverse,,,
+rxn01512_c0_reverse,,,
+rxn05335_c0_reverse,,39.2507,8816.786403
+rxn07977_c0_reverse,,1.2496,280.6945173
+rxn07979_c0_reverse,,0.489,109.8428449
+rxn07980_c0_reverse,,1.0916,245.2033731
+rxn08025_c0_reverse,,1.1363,19.19687828
+rxn00897_c0_reverse,,,
+rxn03251_c0_reverse,,0.0757,6.636490991
+rxn02679_c0_reverse,,15.5555,1363.724381
+rxn03253_c0_reverse,,36.3382,3185.708546
+rxn02720_c0_reverse,,36.3382,3185.708546
+rxn02803_c0_reverse,,1.2496,109.5503189
+rxn00946_c0_reverse,,0.6889,60.39469807
+rxn04016_c0_reverse,,5.2948,644.0143099
+rxn00974_c0_reverse,,3.4156,177.5702909
+rxn01388_c0_reverse,,7.8169,406.3851759
+rxn10052_c0_reverse,,,
+rxn01972_c0_reverse,,4.4679,171.809665
+rxn00143_c0_reverse,,1.1625,170.8027348
+rxn05115_c0_reverse,,,
+rxn00763_c0_reverse,,,
+rxn01710_c0_reverse,,,
+rxn00653_c0_reverse,,9.3188,206.4750571
+rxn08123_c0_reverse_num1,,2.4267,318.9932268
+rxn08124_c0_reverse_num1,,3.3432,439.4684781
+rxn08129_c0_reverse,,4.1478,127.3004171
+rxn08131_c0_reverse,,10.9968,69.76864435
+rxn05501_c0_reverse,,26.24,504.6721406
+rxn00347_c0_reverse,,38.6958,1412.862117
+rxn10770_c0_reverse_num1,,604.914,9427.225459
+rxn00953_c0_reverse,,38.4536,2127.401338
+rxn08300_c0_reverse,,5.6962,1144.507673
+rxn01974_c0_reverse,,,
+rxn00745_c0_reverse_num1,,15.3345,3104.452911
+rxn02929_c0_reverse,,8.303,271.0243532
+rxn00786_c0_reverse_num1,,52.718,1554.911844
+rxn01870_c0_reverse,,34.1018,1005.828991
+rxn01334_c0_reverse_num1,,20.1317,593.7823661
+rxn05255_c0_reverse,,,
+rxn00612_c0_reverse,,16.3557,1627.202235
+rxn03962_c0_reverse,,3.9095,396.6783237
+rxn08615_c0_reverse,,12.1193,203.0654712
+rxn00193_c0_reverse,,,
+rxn00085_c0_reverse,,73.2779,463.1254274
+rxn00762_c0_reverse,,434.6246,9941.865162
+rxn05329_c0_reverse,,15.6755,3521.148292
+rxn05339_c0_reverse,,4.3091,151.9352145
+rxn05148_c0_reverse,,,
+rxn00879_c0_reverse,,,
+rxn02811_c0_reverse_num1,,16.9928,1374.421748
+rxn05206_c0_reverse,,,
+rxn00499_c0_reverse,,6.2183,80.99386291
+rxn00546_c0_reverse,,,
+rxn08890_c0_reverse,,16.9928,176.4566469
+rxn08893_c0_reverse,,55.6679,578.0666503
+rxn08895_c0_reverse,,,
+rxn08898_c0_reverse,,,
+rxn12633_c0_reverse_num1,,42.1119,5675.481933
+rxn12639_c0_reverse_num1,,42.1119,5675.481933
+rxn12640_c0_reverse_num1,,18.1027,2439.727174
+rxn12641_c0_reverse_num1,,16.9109,2279.106557
+rxn12642_c0_reverse_num1,,55.6679,7502.443743
+rxn12644_c0_reverse_num1,,42.5322,5732.126374
+rxn12645_c0_reverse_num1,,49.2815,6641.739339
+rxn12646_c0_reverse_num1,,3.369,454.0450236
+rxn12635_c0_reverse_num1,,9.8349,1325.463759
+rxn12636_c0_reverse_num1,,11.7732,1586.691265
+rxn03910_c0_reverse,,1.5551,111.3628563
+rxn10570_c0_reverse,,,
+rxn06077_c0_reverse,,13.5228,1345.658564
+rxn08933_c0_reverse,,16.7134,471.1206592
+rxn08936_c0_reverse,,13.5228,381.1833888
+rxn08941_c0_reverse,,17.9461,260.551058
+rxn08942_c0_reverse,,83.816,1216.885423
+rxn01132_c0_reverse,,28.1689,408.9711246
+rxn01021_c0_reverse,,32.6632,4799.108721
+rxn01669_c0_reverse,,14.2866,182.622346
+rxn09022_c0_reverse,,1.6516,142.5934488
+rxn09023_c0_reverse,,,
+rxn04794_c0_reverse,,,
+rxn03903_c0_reverse,,,
+rxn03904_c0_reverse,,,
+rxn01485_c0_reverse,,,
+rxn09108_c0_reverse,,1.2393,113.5382386
+rxn09109_c0_reverse,,16.5407,1515.373149
+rxn09110_c0_reverse,,1.3016,119.2458415
+rxn09111_c0_reverse,,22.9193,2099.7474
+rxn09112_c0_reverse,,1.2496,114.4818712
+rxn09113_c0_reverse,,3.3432,306.2866452
+rxn09114_c0_reverse,,0.4354,39.88908989
+rxn09176_c0_reverse,,,
+rxn00856_c0_reverse,,14.3683,345.448288
+rxn05647_c0_reverse,,49.2944,948.0758523
+rxn15395_c0_reverse,,35.1998,827.1363118
+rxn03066_c0_reverse,,11.2738,462.0664772
+rxn02003_c0_reverse,,7.8267,460.2392276
+rxn00785_c0_reverse_num1,,2.8751,311.4115473
+rxn00747_c0_reverse,,,
+rxn01682_c0_reverse,,11.4893,289.1490538
+rxn03933_c0_reverse,,13.8087,627.8657042
+rxn02285_c0_reverse,,1.4882,55.58277485
+rxn00358_c0_reverse,,,
+rxn00298_c0_reverse,,,
+rxn04056_c0_reverse,,26.24,1485.386291
+rxn01200_c0_reverse_num1,,7.7269,836.9259799
+rxn01171_c0_reverse,,,
+rxn00802_c0_reverse,,279.1958,9935.150697
+rxn42230_c0_reverse,,0.4826,92.9789494
+rxn15167_c0_reverse,,,
+rxn40037_c0_reverse,,1.1132,31.10980938
+rxn00719_c0_reverse_num1,,2.0183,267.5595718
+rxn00068_c0_reverse,,,
+rxn01636_c0_reverse,,18.5988,786.2672247
+rxn02159_c0_reverse,,87.7636,6890.037556
+rxn06023_c0_reverse,,10.1092,2647.611416
+rxn00109_c0_reverse,,2.4757,52.31770896
+rxn01361_c0_reverse_num1,,8.4566,564.6934909
+rxn00770_c0_reverse,,350.5758,5053.88534
+rxn20643_c0_reverse,,22.453,142.4519289
+rxn00777_c0_reverse_num1,,,
+rxn04750_c0_reverse,,1.7257,196.9515355
+rxn42709_c0_reverse,,7.1291,31.08587701
+rxn47768_c0_reverse,,1.6987,141.7573456
+rxn21857_c0_reverse,,9.0499,319.0918051
+rxn21859_c0_reverse,,,
+rxn21861_c0_reverse,,1.4882,52.4726709
+rxn21863_c0_reverse,,0.9488,83.17969158
+rxn15947_c0_reverse,,3.6197,145.6146319
+rxn03039_c0_reverse,,0.4517,27.63484654
+rxn43581_c0_reverse,,0.3523,33.1889012
+rxn45996_c0_reverse,,61.4684,1049.004699
+rxn45425_c0_reverse,,94.9797,9653.735653
+rxn16574_c0_reverse,,63.5335,13308.1298
+rxn02314_c0_reverse,,0.4862,12.57756933
+rxn03852_c0_reverse,,0.9641,130.6678546
+rxn12666_c0_reverse,,,
+rxn06864_c0_reverse,,244.3719,9928.117598
+rxn05461_c0_reverse,,,
+rxn03269_c0_reverse,,,
+rxn00735_c0_reverse,,13.4481,627.683159
+rxn02186_c0_reverse,,22.2528,2231.740734
+rxn03068_c0_reverse,,2.3811,238.8013132
+rxn03435_c0_reverse,,12.5688,1260.529144
+rxn39451_c0_reverse,,0.974,31.79305312
+rxn07438_c0_reverse,,32.7805,3261.999035
+rxn03005_c0_reverse,,8.1419,1288.733748
+rxn03194_c0_reverse_num1,,2.9584,135.0520136
+rxn05459_c0_reverse,,,
+rxn03408_c0_reverse,,,
+rxn00577_c0_reverse,,,
+rxn01647_c0_reverse,,2.9267,182.2756845
+rxn10253_c0_reverse,,3.0306,608.9226069
+rxn10254_c0_reverse,,,
+rxn10255_c0_reverse,,,
+rxn10256_c0_reverse,,,
+rxn10257_c0_reverse,,,
+rxn00840_c0_reverse,,,
+rxn01354_c0_reverse,,,
+rxn01128_c0_reverse,,,
+rxn01129_c0_reverse,,,
+rxn01370_c0_reverse,,,
+rxn01510_c0_reverse,,,
+rxn01674_c0_reverse,,,
+rxn01679_c0_reverse,,,
+rxn01705_c0_reverse,,,
+rxn01706_c0_reverse,,,
+rxn06934_c0_reverse_num1,,,
+rxn10307_c0_reverse,,,
+rxn10308_c0_reverse,,,
+rxn10309_c0_reverse,,,
+rxn10312_c0_reverse,,,
+rxn10313_c0_reverse,,,
+rxn10314_c0_reverse,,,
+rxn10315_c0_reverse,,1.3143,8.668643163
+rxn10259_c0_reverse,,18.2339,1670.495352
+rxn10260_c0_reverse,,1.3143,120.4093496
+rxn10261_c0_reverse,,33.5333,3072.147032
+rxn10262_c0_reverse,,1.3143,120.4093496
+rxn10263_c0_reverse,,30.6021,2803.60569
+rxn10264_c0_reverse,,1.3143,120.4093496
+rxn12845_c0_reverse_num1,,2.5531,344.0849955
+rxn12846_c0_reverse_num1,,2.9032,391.268481
+rxn12847_c0_reverse_num1,,0.0925,12.46635936
+rxn12844_c0_reverse_num1,,1.7694,238.4646081
+rxn03419_c0_reverse,,0.0925,15.8797685
+rxn03421_c0_reverse_num1,,,
+rxn10194_c0_reverse,,1.7694,45.19212598
+rxn10195_c0_reverse,,,
+rxn10196_c0_reverse,,244.3719,6241.486205
+rxn05365_c0_reverse,,,
+rxn05377_c0_reverse,,2.2024,494.7195941
+rxn05390_c0_reverse,,,
+rxn05394_c0_reverse,,18.2138,4091.320261
+rxn05402_c0_reverse,,,
+rxn05462_c0_reverse,,2.2024,494.7195941
+rxn00636_c0_reverse,,,
+rxn39452_c0_reverse,,,
+rxn09996_c0_reverse,,16.9928,1056.15778
+rxn10199_c0_reverse,,15.6755,381.720951
+rxn19672_c0_reverse,,,
+rxn14057_c0_reverse,,,
+rxn12990_c0_reverse,,,
+rxn12239_c0_reverse,,,
+rxn11676_c0_reverse,,4.3091,694.3292035
+rxn11197_c0_reverse,,,
+rxn08958_c0_reverse,,64.6016,1573.141794
+rxn08929_c0_reverse,,,
+rxn08927_c0_reverse,,,
+rxn08896_c0_reverse,,,
+rxn08892_c0_reverse,,6.2183,515.0565876
+rxn08891_c0_reverse,,5.3435,38.20085934
+rxn08889_c0_reverse,,,
+rxn08802_c0_reverse,,,
+rxn08799_c0_reverse,,,
+rxn08764_c0_reverse,,1.1443,114.7622287
+rxn08711_c0_reverse,,,
+rxn08018_c0_reverse_num1,,0.0511,8.304528936
+rxn07206_c0_reverse,,,
+rxn05887_c0_reverse,,,
+rxn05458_c0_reverse,,,
+rxn05333_c0_reverse,,3.2385,727.4561413
+rxn05332_c0_reverse,,2.873,645.354792
+rxn03917_c0_reverse,,,
+rxn03511_c0_reverse,,,
+rxn03439_c0_reverse,,,
+rxn03182_c0_reverse,,,
+rxn03159_c0_reverse,,,
+rxn03146_c0_reverse,,,
+rxn02404_c0_reverse,,,
+rxn01875_c0_reverse,,,
+rxn01874_c0_reverse,,,
+rxn01513_c0_reverse,,,
+rxn01307_c0_reverse,,,
+rxn01117_c0_reverse,,,
+rxn00617_c0_reverse,,,
+rxn00438_c0_reverse,,,
+rxn00285_c0_reverse,,,
+rxn00278_c0_reverse,,,
+EX_cpd11574_e0_reverse,,,
+EX_cpd10516_e0_reverse,,,
+EX_cpd10515_e0_reverse,,,
+EX_cpd04097_e0_reverse,,,
+EX_cpd01012_e0_reverse,,,
+EX_cpd00971_e0_reverse,,,
+EX_cpd00531_e0_reverse,,,
+EX_cpd00254_e0_reverse,,,
+EX_cpd00205_e0_reverse,,,
+EX_cpd00149_e0_reverse,,,
+EX_cpd00099_e0_reverse,,,
+EX_cpd00067_e0_reverse,,,
+EX_cpd00063_e0_reverse,,,
+EX_cpd00058_e0_reverse,,,
+EX_cpd00048_e0_reverse,,,
+EX_cpd00034_e0_reverse,,,
+EX_cpd00030_e0_reverse,,,
+EX_cpd00013_e0_reverse,,,
+EX_cpd00012_e0_reverse,,,
+EX_cpd00009_e0_reverse,,,
+EX_cpd00001_e0_reverse,,,
+rxn00379_c0_reverse_num1,,0.3265,8.919523768
+rxn00171_c0_num2,acetaldehyde:NAD+ oxidoreductase (CoA-acetylating)_c0,6.237,97.19994113
+rxn00533_c0_num2,Acetyl-CoA:carbon-dioxide ligase (ADP-forming)_c0,11.8907,1356.147934
+rxn00192_c0_num2,acetyl-CoA:L-glutamate N-acetyltransferase_c0,11.1992,2416.959535
+rxn00192_c0_num3,acetyl-CoA:L-glutamate N-acetyltransferase_c0,1.857,173.6811027
+rxn00192_c0_num4,acetyl-CoA:L-glutamate N-acetyltransferase_c0,30.4684,5703.917175
+rxn00192_c0_num5,acetyl-CoA:L-glutamate N-acetyltransferase_c0,24.6472,4259.40831
+rxn00192_c0_num6,acetyl-CoA:L-glutamate N-acetyltransferase_c0,19.5156,2317.871644
+rxn00192_c0_num7,acetyl-CoA:L-glutamate N-acetyltransferase_c0,6.8065,1216.303222
+rxn00192_c0_num8,acetyl-CoA:L-glutamate N-acetyltransferase_c0,11.9573,2456.554589
+rxn00192_c0_num9,acetyl-CoA:L-glutamate N-acetyltransferase_c0,30.7023,2406.375618
+rxn00192_c0_num10,acetyl-CoA:L-glutamate N-acetyltransferase_c0,22.4465,4531.880492
+rxn00192_c0_num11,acetyl-CoA:L-glutamate N-acetyltransferase_c0,,
+rxn08043_c0_num2,pyruvate:2-oxobutanoate acetaldehydetransferase (decarboxylating)_c0,13.8517,2644.504388
+rxn00800_c0_num2,"N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming)_c0",,
+rxn08073_c0_num2,N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide amidase (periplasm)_c0,45.0018,399.324182
+rxn08073_c0_num3,N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide amidase (periplasm)_c0,11.6395,108.5162738
+rxn08076_c0_num2,N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide amidase (periplasm)_c0,4.2327,37.5589302
+rxn08076_c0_num3,N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide amidase (periplasm)_c0,4.928,45.94425856
+rxn12634_c0_num2,methionyl aminopeptidase_c0,2.5435,237.6939435
+rxn12637_c0_num2,RXN0-6987.c_c0,0.2004,18.7276848
+rxn01256_c0_num2,Chorismate pyruvatemutase_c0,,
+rxn01018_c0_num2,carbamoyl-phosphate:L-aspartate carbamoyltransferase_c0,92.7341,1435.253334
+rxn00260_c0_num2,L-Aspartate:2-oxoglutarate aminotransferase_c0,165.126,1048.078571
+rxn00260_c0_num3,L-Aspartate:2-oxoglutarate aminotransferase_c0,21.7994,977.3910621
+rxn05516_c0_num2,Cadmium-translocating P-type ATPase_c0,,
+rxn05516_c0_num3,Cadmium-translocating P-type ATPase_c0,,
+rxn05516_c0_num4,Cadmium-translocating P-type ATPase_c0,,
+rxn05516_c0_num5,Cadmium-translocating P-type ATPase_c0,,
+rxn05518_c0_num2,cellobiose transport via PEP:Pyr PTS_c0,7.9922,1161.006742
+rxn05518_c0_num3,cellobiose transport via PEP:Pyr PTS_c0,6.4391,234.6551914
+rxn05528_c0_num2,Copper-transporting ATPase_c0,,
+rxn05528_c0_num3,Copper-transporting ATPase_c0,,
+rxn05528_c0_num4,Copper-transporting ATPase_c0,,
+rxn05528_c0_num5,Copper-transporting ATPase_c0,,
+rxn02200_c0_num2,"2-amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine:4-aminobenzoate 2-amino-4-hydroxydihydropteridine-6-methenyltransferase_c0",4.5867,884.7828234
+rxn05195_c0_num2,ATP phosphohydrolase (ferric-ion-transporting)_c0,,
+rxn02201_c0_num2,"2-amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine-diphosphate:4-aminobenzoate 2-amino-4-hydroxydihydropteridine-6-methenyltransferase_c0",28.6295,5522.68294
+rxn08535_c0_num2,Fructose transport via PEP:Pyr PTS (f6p generating) (periplasm)_c0,50.3189,2908.273783
+rxn08535_c0_num3,Fructose transport via PEP:Pyr PTS (f6p generating) (periplasm)_c0,50.3189,3029.31253
+rxn08535_c0_num4,Fructose transport via PEP:Pyr PTS (f6p generating) (periplasm)_c0,50.3189,5983.552679
+rxn05560_c0_num2,D-fructose transport via PEP:Pyr PTS_c0,3.7897,47.87278195
+rxn05560_c0_num3,D-fructose transport via PEP:Pyr PTS_c0,19.9547,252.0745711
+rxn05560_c0_num4,D-fructose transport via PEP:Pyr PTS_c0,16.162,204.1638921
+rxn00799_c0_num2,(S)-malate hydro-lyase (fumarate-forming)_c0,,
+rxn00781_c0_num2,D-glyceraldehyde-3-phosphate:NAD+ oxidoreductase (phosphorylating)_c0,7.9613,198.9912414
+rxn05226_c0_num2,D-glucose transport via PEP:Pyr PTS_c0,5.2994,152.6681289
+rxn05226_c0_num3,D-glucose transport via PEP:Pyr PTS_c0,7.5312,1598.107088
+rxn05226_c0_num4,D-glucose transport via PEP:Pyr PTS_c0,302.4636,61233.42812
+rxn05226_c0_num5,D-glucose transport via PEP:Pyr PTS_c0,54.1391,9747.603082
+rxn05226_c0_num6,D-glucose transport via PEP:Pyr PTS_c0,3.332,1321.304402
+rxn05226_c0_num7,D-glucose transport via PEP:Pyr PTS_c0,1.3103,47.14981324
+rxn00187_c0_num2,L-Glutamate:ammonia ligase (ADP-forming)_c0,445.7912,32466.56552
+rxn00184_c0_num2,L-Glutamate:NADP+ oxidoreductase (deaminating)_c0,3.0471,82.87507184
+rxn00184_c0_num3,L-Glutamate:NADP+ oxidoreductase (deaminating)_c0,0.1004,1.095108683
+rxn06937_c0_num2,L-glutamate:tRNA(Glu) ligase (AMP-forming)_c0,17.3107,1146.03572
+rxn05158_c0_num2,ATP phosphohydrolase (glycerol-3-phosphate-importing)_c0,7.3451,763.3984565
+rxn05158_c0_num3,ATP phosphohydrolase (glycerol-3-phosphate-importing)_c0,0.0231,1.697052706
+rxn05158_c0_num4,ATP phosphohydrolase (glycerol-3-phosphate-importing)_c0,7.209,508.8302669
+rxn00917_c0_num2,Xanthosine-5'-phosphate:L-glutamine amido-ligase (AMP-forming)_c0,7.1193,227.0350443
+rxn01106_c0_num2,"2-Phospho-D-glycerate 2,3-phosphomutase_c0",,
+rxn00239_c0_num2,ATP:GMP phosphotransferase_c0,,
+rxn00789_c0_reverse_num2,1-(5-phospho-D-ribosyl)-ATP:diphosphate phospho-alpha-D-ribosyl-transferase_c0,3.2305,501.4358234
+rxn02320_c0_num2,5-Amino-2-oxopentanoate:2-oxoglutarate aminotransferase_c0,85.5196,1955.519088
+rxn08762_c0_num2,K(+)-importing ATPase_c0,,
+rxn08762_c0_num3,K(+)-importing ATPase_c0,,
+rxn02789_c0_num2,2-Isopropylmalate hydro-lyase_c0,,
+rxn02789_c0_num3,2-Isopropylmalate hydro-lyase_c0,,
+rxn05170_c0_num2,TRANS-RXNAVI-26732.ce.brachyexp.CPD-3609_c0,17.7061,316.7253714
+rxn05170_c0_num3,TRANS-RXNAVI-26732.ce.brachyexp.CPD-3609_c0,4.5297,108.9418237
+rxn05610_c0_num2,D-mannose transport via PEP:Pyr PTS_c0,0.0804,7.724831179
+rxn05610_c0_num3,D-mannose transport via PEP:Pyr PTS_c0,1.8123,104.7452265
+rxn05610_c0_num4,D-mannose transport via PEP:Pyr PTS_c0,12.7096,765.1469038
+rxn05610_c0_num5,D-mannose transport via PEP:Pyr PTS_c0,9.9364,1181.563445
+rxn05465_c0_num2,Malonyl-CoA:[acyl-carrier-protein] S-malonyltransferase_c0,6.6196,698.0332697
+rxn05219_c0_num2,nonpolar-amino-acid-transporting ATPase_c0,4.0217,128.3700794
+rxn00693_c0_num2,5-Methyltetrahydrofolate:L-homocysteine S-methyltransferase_c0,3.0152,112.8367641
+rxn05617_c0_num2,mannitol transport via PEP:Pyr PTS_c0,17.3107,508.132016
+rxn05617_c0_num3,mannitol transport via PEP:Pyr PTS_c0,8.5657,963.1541047
+rxn05617_c0_num4,mannitol transport via PEP:Pyr PTS_c0,53.3088,1564.807201
+rxn05209_c0_num2,TRANS-RXNBWI-115525.ce.maizeexp.NA+_c0,,
+rxn01961_c0_num2,Xanthosine 5'-phosphate phosphohydrolase_c0,,
+rxn00831_c0_num2,Inosine 5'-monophosphate phosphohydrolase_c0,,
+rxn00708_c0_num2,Uridine 5'-monophosphate phosphohydrolase_c0,,
+rxn01218_c0_num2,2'-Deoxycytidine 5'-monophosphate phosphohydrolase_c0,,
+rxn00363_c0_num2,Cytidine-5'-monophosphate phosphohydrolase_c0,,
+rxn01145_c0_num2,Thymidylate 5'-phosphohydrolase_c0,,
+rxn01507_c0_num2,2'-Deoxyadenosine 5'-monophosphate phosphohydrolase_c0,,
+rxn01445_c0_num2,2'-Deoxyguanosine 5'-monophosphate phosphohydrolase_c0,,
+rxn00913_c0_num2,Guanosine 5'-monophosphate phosphohydrolase_c0,,
+rxn00569_c0_reverse_num2,Nitrite reductase (NAD(P)H)_c0,,
+rxn01208_c0_reverse_num2,R01652_c0,18.514,1566.316449
+rxn01000_c0_num2,prephenate hydro-lyase (decarboxylating; phenylpyruvate-forming)_c0,4.5046,95.85394123
+rxn00493_c0_num2,L-Phenylalanine:2-oxoglutarate aminotransferase_c0,9.2699,211.9685592
+rxn00493_c0_num3,L-Phenylalanine:2-oxoglutarate aminotransferase_c0,1.593,64.19695585
+rxn00493_c0_num4,L-Phenylalanine:2-oxoglutarate aminotransferase_c0,13.619,554.2170038
+rxn00493_c0_num5,L-Phenylalanine:2-oxoglutarate aminotransferase_c0,2.2358,90.38409481
+rxn05145_c0_num2,phosphate-transporting ATPase_c0,,
+rxn05145_c0_num3,phosphate-transporting ATPase_c0,,
+rxn05145_c0_num4,phosphate-transporting ATPase_c0,,
+rxn05145_c0_num5,phosphate-transporting ATPase_c0,,
+rxn05163_c0_num2,putrescine transport via ABC system_c0,1.0375,30.48066675
+rxn05163_c0_num3,putrescine transport via ABC system_c0,0.37,18.84862815
+rxn05163_c0_num4,putrescine transport via ABC system_c0,2.7138,305.2676795
+rxn09242_c0_num2,D-sorbitol transport via PEP:Pyr PTS (periplasm)_c0,,
+rxn09242_c0_num3,D-sorbitol transport via PEP:Pyr PTS (periplasm)_c0,,
+rxn09242_c0_num4,D-sorbitol transport via PEP:Pyr PTS (periplasm)_c0,,
+rxn01329_c0_num2,"D-mannose 6-phosphate 1,6-phosphomutase_c0",,
+rxn01329_c0_num3,"D-mannose 6-phosphate 1,6-phosphomutase_c0",,
+rxn01101_c0_num2,3-Phospho-D-glycerate:NAD+ 2-oxidoreductase_c0,9.1694,457.9911041
+rxn05175_c0_num2,spermidine transport via ABC system_c0,7.0319,790.9985243
+rxn05175_c0_num3,spermidine transport via ABC system_c0,33.9992,1731.995347
+rxn05175_c0_num4,spermidine transport via ABC system_c0,4.1782,212.8468599
+rxn05655_c0_num2,sucrose transport via PEP:Pyr PTS_c0,740.4781,42846.14458
+rxn05655_c0_num3,sucrose transport via PEP:Pyr PTS_c0,188.8216,5439.680032
+rxn00650_c0_num2,L-cysteinylglycine dipeptidase_c0,1921.1481,179534.2119
+rxn00527_c0_num2,L-tyrosine:2-oxoglutarate aminotransferase_c0,22.8301,522.0405186
+rxn00527_c0_num3,L-tyrosine:2-oxoglutarate aminotransferase_c0,5.2994,213.5626791
+rxn00527_c0_num4,L-tyrosine:2-oxoglutarate aminotransferase_c0,7.5312,306.4776488
+rxn00527_c0_num5,L-tyrosine:2-oxoglutarate aminotransferase_c0,6.5951,266.6124625
+rxn01219_c0_num2,ATP:dCMP phosphotransferase_c0,,
+rxn01219_c0_num3,ATP:dCMP phosphotransferase_c0,,
+rxn00364_c0_num2,ATP:CMP phosphotransferase_c0,,
+rxn00364_c0_num3,ATP:CMP phosphotransferase_c0,,
+rxn01521_c0_num2,2'-Deoxyuridine 5'-monophosphate phosphohydrolase_c0,,
+rxn00189_c0_num2,L-Glutamine amidohydrolase_c0,2.6432,40.90902496
+rxn00189_c0_num3,L-Glutamine amidohydrolase_c0,3.7031,171.1342346
+rxn01268_c0_num2,Prephenate:NAD+ oxidoreductase(decarboxylating)_c0,8.2476,671.9289092
+rxn00101_c0_num2,Urea amidohydrolase_c0,13.3223,266.1176389
+rxn05150_c0_num2,zinc transport via ABC system_c0,,
+rxn05150_c0_num3,zinc transport via ABC system_c0,,
+rxn08123_c0_num2,anhydrous-N-Acetylmuramyl-tripeptide amidase_c0,3.1862,28.27279595
+rxn08123_c0_num3,anhydrous-N-Acetylmuramyl-tripeptide amidase_c0,7.4026,69.01521275
+rxn08124_c0_num2,anhydrous-N-Acetylmuramyl-tetrapeptide amidase_c0,,
+rxn08124_c0_num3,anhydrous-N-Acetylmuramyl-tetrapeptide amidase_c0,,
+rxn10770_c0_num2,R08557_c0,6.5387,292.9488252
+rxn10481_c0_num2,Copper transport via ABC system_c0,,
+rxn10481_c0_num3,Copper transport via ABC system_c0,,
+rxn10481_c0_num4,Copper transport via ABC system_c0,,
+rxn10481_c0_num5,Copper transport via ABC system_c0,,
+rxn00745_c0_num2,Phosphoenolpyruvate:glycerone phosphotransferase_c0,5.6982,1025.945978
+rxn00745_c0_num3,Phosphoenolpyruvate:glycerone phosphotransferase_c0,2.909,1153.563777
+rxn00745_c0_num4,Phosphoenolpyruvate:glycerone phosphotransferase_c0,5.7794,1073.459051
+rxn00786_c0_num2,"D-fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase (glycerone-phosphate-forming)_c0",,
+rxn01334_c0_num2,"Sedoheptulose 1,7-bisphosphate D-glyceraldehyde-3-phosphate-lyase_c0",,
+rxn08715_c0_num2,Mercury (Hg+2) ABC transporter (periplasm)_c0,,
+rxn08715_c0_num3,Mercury (Hg+2) ABC transporter (periplasm)_c0,,
+rxn08715_c0_num4,Mercury (Hg+2) ABC transporter (periplasm)_c0,,
+rxn08715_c0_num5,Mercury (Hg+2) ABC transporter (periplasm)_c0,,
+rxn03135_c0_reverse_num2,R04558_c0,5.7794,956.685468
+rxn02811_c0_num2,3-Isopropylmalate hydro-lyase_c0,,
+rxn02811_c0_num3,3-Isopropylmalate hydro-lyase_c0,,
+rxn12633_c0_num2,RXN0-6975.c_c0,3.2062,299.6242665
+rxn12639_c0_num2,RXN0-6976.c_c0,0.0229,2.14003983
+rxn12640_c0_num2,methionyl aminopeptidase_c0,45.4656,4248.829471
+rxn12641_c0_num2,RXN0-6977.c_c0,15.5133,1449.74148
+rxn12642_c0_num2,RXN0-6978.c_c0,2.3391,218.5924527
+rxn12643_c0_num2,RXN0-6979.c_c0,,
+rxn12644_c0_num2,methionyl aminopeptidase_c0,5.2449,490.1438822
+rxn12645_c0_num2,methionyl aminopeptidase_c0,,
+rxn12646_c0_num2,RXN0-6983.c_c0,1.5671,146.4478785
+rxn12635_c0_num2,RXN0-6974.c_c0,,
+rxn12638_c0_num2,methionyl aminopeptidase_c0,1.4882,139.0745535
+rxn12636_c0_num2,methionyl aminopeptidase_c0,,
+rxn00568_c0_reverse_num2,NIRBD-RXN.c_c0,,
+rxn00245_c0_num2,"(R,R)-tartrate hydro-lyase (oxaloacetate-forming)_c0",,
+rxn00785_c0_num2,D-Fructose 6-phosphate:D-glyceraldehyde-3-phosphate glycolaldehyde transferase_c0,1.3369,155.028081
+rxn00295_c0_num2,UDP-N-acetyl-D-glucosamine 4-epimerase_c0,,
+rxn03901_c0_num2,undecaprenyl-diphosphate phosphohydrolase_c0,2.4631,299.5151013
+rxn03901_c0_num3,undecaprenyl-diphosphate phosphohydrolase_c0,,
+rxn01200_c0_num2,Sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glycolaldehyde transferase_c0,9.2302,1070.34198
+rxn00719_c0_num2,"5,6-Dihydrouracil:NAD+ oxidoreductase_c0",2.8125,229.8151989
+rxn01361_c0_num2,(S)-dihydroorotate:NAD+ oxidoreductase_c0,,
+rxn00777_c0_num2,D-ribose-5-phosphate aldose-ketose-isomerase_c0,,
+rxn02400_c0_num2,Nicotinate D-ribonucleotide phosphohydrolase_c0,7.7931,844.1178159
+rxn06874_c0_num2,reduced ferredoxin:dinitrogen oxidoreductase (ATP-hydrolysing)_c0,2.8771,98.93288471
+rxn06874_c0_num3,reduced ferredoxin:dinitrogen oxidoreductase (ATP-hydrolysing)_c0,7.952,475.010428
+rxn06874_c0_num4,reduced ferredoxin:dinitrogen oxidoreductase (ATP-hydrolysing)_c0,30.7023,930.2803085
+rxn06874_c0_num5,reduced ferredoxin:dinitrogen oxidoreductase (ATP-hydrolysing)_c0,6.2153,221.7668142
+rxn06874_c0_num6,reduced ferredoxin:dinitrogen oxidoreductase (ATP-hydrolysing)_c0,3.0557,184.9701075
+rxn06874_c0_num7,reduced ferredoxin:dinitrogen oxidoreductase (ATP-hydrolysing)_c0,4.3574,308.9094775
+rxn14048_c0_reverse_num2,2-oxoglutarate:ferredoxin oxidoreductase (decarboxylating)_c0,4.2577,33.30088775
+rxn14048_c0_reverse_num3,2-oxoglutarate:ferredoxin oxidoreductase (decarboxylating)_c0,1.268,13.48225158
+rxn14048_c0_reverse_num4,2-oxoglutarate:ferredoxin oxidoreductase (decarboxylating)_c0,1.8826,26.1656929
+rxn11946_c0_num2,R05614_c0,137.7521,779.4426757
+rxn03194_c0_num2,(S)-2-Aceto-2-hydroxybutanoate pyruvate-lyase (carboxylating)_c0,779.3666,21023.14306
+rxn06934_c0_num2,Protein-N(pai)-phosphohistidine:sugar N(pai)-phosphotransferase_c0,,
+rxn06934_c0_num3,Protein-N(pai)-phosphohistidine:sugar N(pai)-phosphotransferase_c0,2.7064,100.0882472
+rxn12845_c0_num2,Gly-Leu aminopeptidase_c0,0.1956,18.2791175
+rxn12846_c0_num2,Gly-Phe aminopeptidase_c0,,
+rxn12847_c0_num2,Gly-Try aminopeptidase_c0,0.1941,18.13894022
+rxn12844_c0_num2,Gly-Cys aminopeptidase_c0,,
+rxn03174_c0_reverse_num2,"2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl) dihydropteridine triphosphate hydrolase_c0",,
+rxn03421_c0_num2,"2,5-Diaminopyrimidine nucleoside triphosphate mutase_c0",,
+rxn05144_c0_num2,Pyridoxal 5-phosphate synthase_c0,5.8443,55.64950839
+rxn05157_c0_num2,Urea-ABC transport_c0,,
+rxn05157_c0_num3,Urea-ABC transport_c0,3.4173,475.8198383
+rxn05157_c0_num4,Urea-ABC transport_c0,,
+rxn05157_c0_num5,Urea-ABC transport_c0,8.0206,944.7259806
+rxn10344_c0_num2,Lead (Pb+2) ABC transporter_c0,,
+rxn10344_c0_num3,Lead (Pb+2) ABC transporter_c0,28.2795,1312.390405
+rxn10344_c0_num4,Lead (Pb+2) ABC transporter_c0,,
+rxn10344_c0_num5,Lead (Pb+2) ABC transporter_c0,4.0024,154.9270409
+rxn13782_c0_reverse_num2,Protein biosynthesis_c0,,
+rxn13782_c0_reverse_num3,Protein biosynthesis_c0,,
+rxn13782_c0_reverse_num4,Protein biosynthesis_c0,,
+rxn13783_c0_reverse_num2,DNA replication_c0,,
+rxn13783_c0_reverse_num3,DNA replication_c0,,
+rxn06865_c0_reverse_num2,,4.609,235.0085576
+rxn06865_c0_reverse_num3,,20.6214,4420.14693
+rxn06865_c0_reverse_num4,,52.3243,4893.776048
+rxn06865_c0_reverse_num5,,0.0653,5.348348241
+rxn06865_c0_reverse_num6,,1.6552,77.65949581
+rxn06865_c0_reverse_num7,,0.1906,13.99979679
+rxn06865_c0_reverse_num8,,6.5472,1171.302673
+rxn06865_c0_reverse_num9,,10.4314,2143.067711
+rxn06865_c0_reverse_num10,,2.6552,146.7623232
+rxn06865_c0_reverse_num11,,7.7734,629.5798538
+rxn06865_c0_reverse_num12,,2.5935,94.84946614
+rxn06865_c0_reverse_num13,,19.379,1614.003492
+rxn06865_c0_reverse_num14,,5.8557,1046.397823
+rxn06865_c0_reverse_num15,,2.7085,164.8194724
+rxn06865_c0_reverse_num16,,0.1949,3.541231781
+rxn06865_c0_reverse_num17,,0.1925,36.03747017
+rxn06865_c0_reverse_num18,,2.042,106.5742344
+rxn06865_c0_reverse_num19,,6.0223,1299.704926
+rxn06865_c0_reverse_num20,,3.5462,127.6064014
+rxn06865_c0_reverse_num21,,8.4141,484.8103649
+rxn06865_c0_reverse_num22,,29.7768,505.6906759
+rxn06865_c0_reverse_num23,,4.0677,821.2563329
+rxn06848_c0_reverse_num2,,4.7843,243.9469391
+rxn06848_c0_reverse_num3,,21.5642,4622.233817
+rxn06848_c0_reverse_num4,,55.0947,5152.885433
+rxn06848_c0_reverse_num5,,0.0651,5.331967389
+rxn06848_c0_reverse_num6,,1.6006,75.09774589
+rxn06848_c0_reverse_num7,,0.2036,14.95466225
+rxn06848_c0_reverse_num8,,6.5487,1171.571025
+rxn06848_c0_reverse_num9,,10.5153,2160.304456
+rxn06848_c0_reverse_num10,,2.7085,149.7084032
+rxn06848_c0_reverse_num11,,8.2773,670.3915049
+rxn06848_c0_reverse_num12,,2.976,108.8382538
+rxn06848_c0_reverse_num13,,19.8431,1652.656623
+rxn06848_c0_reverse_num14,,6.2313,1113.516531
+rxn06848_c0_reverse_num15,,4.2559,258.982903
+rxn06848_c0_reverse_num16,,11.9573,217.2579311
+rxn06848_c0_reverse_num17,,0.8497,159.0703294
+rxn06848_c0_reverse_num18,,8.9432,466.7554816
+rxn06848_c0_reverse_num19,,19.3142,4168.301293
+rxn06848_c0_reverse_num20,,46.6841,1679.879872
+rxn06848_c0_reverse_num21,,11.163,643.1986907
+rxn06848_c0_reverse_num22,,39.6654,673.6258744
+rxn06848_c0_reverse_num23,,1.2066,243.6088923
+rxn00003_c0_reverse_num2,,8.25,259.1575185
+rxn00003_c0_reverse_num3,,33.7595,6445.212204
+rxn08018_c0_num2,,,
+rxn13645_c0_num2,,,
+rxn13299_c0_num2,,,
+rxn08016_c0_num2,,,
+rxn00379_c0_num2,,,
+rxn00379_c0_num3,,,
+rxn05039_c0_num2,,,
+rxn05039_c0_num3,,,
+rxn05039_c0_num4,,,
+rxn05039_c0_num5,,,
+rxn05039_c0_num6,,5.1041,164.6642692
+rxn05039_c0_num7,,2.5012,146.2998396
+rxn05039_c0_num8,,2.5012,179.6624555
+rxn05039_c0_num9,,6.3588,443.9941892
+rxn05039_c0_num10,,4.0253,551.9795293
+rxn05039_c0_num11,,1.8915,85.80145947
+rxn00171_c0_reverse_num2,,31.0631,484.0999666
+rxn00800_c0_reverse_num2,,0.0945,6.345128149
+rxn08073_c0_reverse_num2,,328.153,2911.870821
+rxn08073_c0_reverse_num3,,180.3927,1681.819978
+rxn08076_c0_reverse_num2,,97.7755,867.6124412
+rxn08076_c0_reverse_num3,,16.8206,156.8202101
+rxn12634_c0_reverse_num2,,5.8892,550.3546972
+rxn12637_c0_reverse_num2,,0.6543,61.14533016
+rxn00260_c0_reverse_num2,,104.5421,663.5438078
+rxn00260_c0_reverse_num3,,104.5421,4687.216811
+rxn05518_c0_reverse_num2,,140.2353,20371.62843
+rxn05518_c0_reverse_num3,,20.1317,733.64413
+rxn02200_c0_reverse_num2,,3.6232,698.9219103
+rxn08535_c0_reverse_num2,,5.9242,342.4000832
+rxn08535_c0_reverse_num3,,0.5651,34.02030869
+rxn08535_c0_reverse_num4,,18.3478,2181.785131
+rxn05560_c0_reverse_num2,,34.1938,431.9477351
+rxn05560_c0_reverse_num3,,36.1876,457.1340962
+rxn05560_c0_reverse_num4,,16.8206,212.4835518
+rxn00799_c0_reverse_num2,,5.8892,352.2592952
+rxn00781_c0_reverse_num2,,5.13,128.2234143
+rxn00184_c0_reverse_num2,,0.6543,17.79566129
+rxn00184_c0_reverse_num3,,,
+rxn01106_c0_reverse_num2,,,
+rxn00239_c0_reverse_num2,,,
+rxn02320_c0_reverse_num2,,11.9631,273.5521495
+rxn02789_c0_reverse_num2,,2.2742,131.7934709
+rxn02789_c0_reverse_num3,,7.6656,1566.906562
+rxn05610_c0_reverse_num2,,6.0086,577.3062267
+rxn05610_c0_reverse_num3,,13.7054,792.1289119
+rxn05610_c0_reverse_num4,,11.2154,675.1926563
+rxn05610_c0_reverse_num5,,37.6255,4474.147116
+rxn05465_c0_reverse_num2,,8.2268,867.5116477
+rxn00693_c0_reverse_num2,,15.5376,581.458114
+rxn05617_c0_reverse_num2,,1.2496,36.68030566
+rxn05617_c0_reverse_num3,,3.7627,423.0897591
+rxn05617_c0_reverse_num4,,2.5012,73.4193186
+rxn05209_c0_reverse_num2,,,
+rxn00493_c0_reverse_num2,,8.0703,184.538114
+rxn00493_c0_reverse_num3,,25.5539,1029.807025
+rxn00493_c0_reverse_num4,,3.4123,138.8614936
+rxn00493_c0_reverse_num5,,8.8573,358.0637995
+rxn09242_c0_reverse_num2,,,
+rxn09242_c0_reverse_num3,,,
+rxn09242_c0_reverse_num4,,,
+rxn01329_c0_reverse_num2,,,
+rxn01329_c0_reverse_num3,,,
+rxn01101_c0_reverse_num2,,3.5524,177.4344666
+rxn05655_c0_reverse_num2,,15.7637,912.1319987
+rxn05655_c0_reverse_num3,,1.2496,35.99918743
+rxn00650_c0_reverse_num2,,29.8347,2788.098092
+rxn00527_c0_reverse_num2,,34.1938,781.886592
+rxn00527_c0_reverse_num3,,34.1938,1377.989874
+rxn00527_c0_reverse_num4,,6.3588,258.7675368
+rxn00527_c0_reverse_num5,,8.0176,324.118221
+rxn01219_c0_reverse_num2,,,
+rxn01219_c0_reverse_num3,,,
+rxn00364_c0_reverse_num2,,,
+rxn00364_c0_reverse_num3,,,
+rxn08123_c0_reverse_num2,,5.1006,45.26025454
+rxn08123_c0_reverse_num3,,5.1006,47.55342638
+rxn08124_c0_reverse_num2,,5.1006,45.26025454
+rxn08124_c0_reverse_num3,,3.5898,33.46808023
+rxn10770_c0_reverse_num2,,4.0079,179.5631542
+rxn00745_c0_reverse_num2,,8.0176,1443.54787
+rxn00745_c0_reverse_num3,,6.5962,2615.722718
+rxn00745_c0_reverse_num4,,6.5962,1225.170535
+rxn00786_c0_reverse_num2,,3.3705,370.4303301
+rxn01334_c0_reverse_num2,,3.7128,408.0503574
+rxn02811_c0_reverse_num2,,5.0871,294.8054551
+rxn02811_c0_reverse_num3,,2.984,609.9521474
+rxn12633_c0_reverse_num2,,2.474,231.1990628
+rxn12639_c0_reverse_num2,,11.4486,1069.889083
+rxn12640_c0_reverse_num2,,3.0306,283.2141794
+rxn12641_c0_reverse_num2,,2.5012,233.7409442
+rxn12642_c0_reverse_num2,,3.5555,332.2668827
+rxn12644_c0_reverse_num2,,10.1163,945.3836214
+rxn12645_c0_reverse_num2,,7.8923,737.5474388
+rxn12646_c0_reverse_num2,,1.5261,142.6163661
+rxn12635_c0_reverse_num2,,54.0023,5046.59707
+rxn12636_c0_reverse_num2,,,
+rxn00785_c0_reverse_num2,,,
+rxn01200_c0_reverse_num2,,,
+rxn00719_c0_reverse_num2,,,
+rxn01361_c0_reverse_num2,,,
+rxn00777_c0_reverse_num2,,,
+rxn03194_c0_reverse_num2,,,
+rxn06934_c0_reverse_num2,,,
+rxn06934_c0_reverse_num3,,,
+rxn12845_c0_reverse_num2,,,
+rxn12846_c0_reverse_num2,,,
+rxn12847_c0_reverse_num2,,,
+rxn12844_c0_reverse_num2,,,
+rxn03421_c0_reverse_num2,,,
+rxn08018_c0_reverse_num2,,,
+rxn00379_c0_reverse_num2,,,
+rxn00379_c0_reverse_num3,,,

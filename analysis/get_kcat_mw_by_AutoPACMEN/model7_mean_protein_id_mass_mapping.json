@@ -1,0 +1,3607 @@
+{
+    "Ethha_0013": {
+        "accessions": "E6U5D7",
+        "entry_name": "E6U5D7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-3)",
+        "mw": 20094.8039,
+        "gene_name": "['pyrR', 'Ethha_0013']"
+    },
+    "Ethha_0014": {
+        "accessions": "E6U5D8",
+        "entry_name": "E6U5D8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-4)",
+        "mw": 44760.4447,
+        "gene_name": "['pyrC', 'Ethha_0014']"
+    },
+    "Ethha_0015": {
+        "accessions": "E6U5D9",
+        "entry_name": "E6U5D9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-5)",
+        "mw": 32766.8857,
+        "gene_name": "['pyrF', 'Ethha_0015']"
+    },
+    "Ethha_0016": {
+        "accessions": "E6U5E0",
+        "entry_name": "E6U5E0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-6)",
+        "mw": 38949.4248,
+        "gene_name": "['carA', 'Ethha_0016']"
+    },
+    "Ethha_0017": {
+        "accessions": "E6U5E1",
+        "entry_name": "E6U5E1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-7)",
+        "mw": 116300.9875,
+        "gene_name": "['carB', 'Ethha_0017']"
+    },
+    "Ethha_0018": {
+        "accessions": "E6U5E2",
+        "entry_name": "E6U5E2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-8)",
+        "mw": 26956.004,
+        "gene_name": "['Ethha_0018']"
+    },
+    "Ethha_0019": {
+        "accessions": "E6U5E3",
+        "entry_name": "E6U5E3_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-9)",
+        "mw": 32186.7716,
+        "gene_name": "['pyrD', 'Ethha_0019']"
+    },
+    "Ethha_0026": {
+        "accessions": "E6U5F0",
+        "entry_name": "E6U5F0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-10)",
+        "mw": 36081.3284,
+        "gene_name": "['Ethha_0026']"
+    },
+    "Ethha_0028": {
+        "accessions": "E6U5F2",
+        "entry_name": "E6U5F2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-11)",
+        "mw": 27479.2195,
+        "gene_name": "['Ethha_0028']"
+    },
+    "Ethha_0032": {
+        "accessions": "E6U5F6",
+        "entry_name": "E6U5F6_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-12)",
+        "mw": 39822.2915,
+        "gene_name": "['serC', 'Ethha_0032']"
+    },
+    "Ethha_0033": {
+        "accessions": "E6U5F7",
+        "entry_name": "E6U5F7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-13)",
+        "mw": 40980.7893,
+        "gene_name": "['Ethha_0033']"
+    },
+    "Ethha_0037": {
+        "accessions": "E6U5G1",
+        "entry_name": "E6U5G1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-14)",
+        "mw": 22231.5307,
+        "gene_name": "['rpe', 'Ethha_0037']"
+    },
+    "Ethha_0039": {
+        "accessions": "E6U5G3",
+        "entry_name": "E6U5G3_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-15)",
+        "mw": 51853.2274,
+        "gene_name": "['Ethha_0039']"
+    },
+    "Ethha_0040": {
+        "accessions": "E6U5G4",
+        "entry_name": "E6U5G4_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-16)",
+        "mw": 29701.8902,
+        "gene_name": "['Ethha_0040']"
+    },
+    "Ethha_0044": {
+        "accessions": "E6U5G8",
+        "entry_name": "E6U5G8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-17)",
+        "mw": 20630.7441,
+        "gene_name": "['Ethha_0044']"
+    },
+    "Ethha_0048": {
+        "accessions": "E6U5H2",
+        "entry_name": "E6U5H2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-18)",
+        "mw": 49298.8234,
+        "gene_name": "['Ethha_0048']"
+    },
+    "Ethha_0050": {
+        "accessions": "E6U5H4",
+        "entry_name": "E6U5H4_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-19)",
+        "mw": 47668.6513,
+        "gene_name": "['Ethha_0050']"
+    },
+    "Ethha_0066": {
+        "accessions": "E6U5I9",
+        "entry_name": "E6U5I9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-20)",
+        "mw": 29725.0658,
+        "gene_name": "['panB', 'Ethha_0066']"
+    },
+    "Ethha_0067": {
+        "accessions": "E6U5J0",
+        "entry_name": "E6U5J0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-21)",
+        "mw": 32018.2363,
+        "gene_name": "['panC', 'Ethha_0067']"
+    },
+    "Ethha_0126": {
+        "accessions": "E6U634",
+        "entry_name": "E6U634_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-22)",
+        "mw": 11619.3185,
+        "gene_name": "['Ethha_0126']"
+    },
+    "Ethha_0134": {
+        "accessions": "E6U642",
+        "entry_name": "E6U642_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-23)",
+        "mw": 31505.9387,
+        "gene_name": "['pdxS', 'Ethha_0134']"
+    },
+    "Ethha_0135": {
+        "accessions": "E6U643",
+        "entry_name": "E6U643_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-24)",
+        "mw": 20708.8623,
+        "gene_name": "['pdxT', 'Ethha_0135']"
+    },
+    "Ethha_0138": {
+        "accessions": "E6U646",
+        "entry_name": "E6U646_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-25)",
+        "mw": 44068.7822,
+        "gene_name": "['proA', 'Ethha_0138']"
+    },
+    "Ethha_0139": {
+        "accessions": "E6U647",
+        "entry_name": "E6U647_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-26)",
+        "mw": 29163.1379,
+        "gene_name": "['proB', 'Ethha_0139']"
+    },
+    "Ethha_0141": {
+        "accessions": "E6U649",
+        "entry_name": "E6U649_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-27)",
+        "mw": 54901.6189,
+        "gene_name": "['Ethha_0141']"
+    },
+    "Ethha_0143": {
+        "accessions": "E6U651",
+        "entry_name": "E6U651_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-28)",
+        "mw": 32816.3355,
+        "gene_name": "['Ethha_0143']"
+    },
+    "Ethha_0144": {
+        "accessions": "E6U652",
+        "entry_name": "E6U652_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-29)",
+        "mw": 42043.6996,
+        "gene_name": "['argD', 'Ethha_0144']"
+    },
+    "Ethha_0146": {
+        "accessions": "E6U654",
+        "entry_name": "E6U654_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-30)",
+        "mw": 30582.1678,
+        "gene_name": "['argB', 'Ethha_0146']"
+    },
+    "Ethha_0147": {
+        "accessions": "E6U655",
+        "entry_name": "E6U655_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-31)",
+        "mw": 42578.196,
+        "gene_name": "['argJ', 'Ethha_0147']"
+    },
+    "Ethha_0148": {
+        "accessions": "E6U656",
+        "entry_name": "E6U656_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-32)",
+        "mw": 34777.3227,
+        "gene_name": "['argC', 'Ethha_0148']"
+    },
+    "Ethha_0149": {
+        "accessions": "E6U657",
+        "entry_name": "E6U657_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-33)",
+        "mw": 50583.273,
+        "gene_name": "['argH', 'Ethha_0149']"
+    },
+    "Ethha_0150": {
+        "accessions": "E6U658",
+        "entry_name": "E6U658_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-34)",
+        "mw": 45026.563,
+        "gene_name": "['argG', 'Ethha_0150']"
+    },
+    "Ethha_0153": {
+        "accessions": "E6U661",
+        "entry_name": "E6U661_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-35)",
+        "mw": 58584.7377,
+        "gene_name": "['ilvD', 'Ethha_0153']"
+    },
+    "Ethha_0181": {
+        "accessions": "E6U6N5",
+        "entry_name": "E6U6N5_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-36)",
+        "mw": 57301.058,
+        "gene_name": "['Ethha_0181']"
+    },
+    "Ethha_0182": {
+        "accessions": "E6U6N6",
+        "entry_name": "E6U6N6_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-37)",
+        "mw": 18856.5087,
+        "gene_name": "['Ethha_0182']"
+    },
+    "Ethha_0183": {
+        "accessions": "E6U6N7",
+        "entry_name": "E6U6N7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-38)",
+        "mw": 35895.7825,
+        "gene_name": "['ilvC', 'Ethha_0183']"
+    },
+    "Ethha_0188 ": {
+        "accessions": "E6U6P2",
+        "entry_name": "E6U6P2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-39)",
+        "mw": 17189.9709,
+        "gene_name": "['purE', 'Ethha_0188']"
+    },
+    "Ethha_0189 ": {
+        "accessions": "E6U6P3",
+        "entry_name": "E6U6P3_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-40)",
+        "mw": 26886.4265,
+        "gene_name": "['purC', 'Ethha_0189']"
+    },
+    "Ethha_0190 ": {
+        "accessions": "E6U6P4",
+        "entry_name": "E6U6P4_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-41)",
+        "mw": 54226.0296,
+        "gene_name": "['purF', 'Ethha_0190']"
+    },
+    "Ethha_0191 ": {
+        "accessions": "E6U6P5",
+        "entry_name": "E6U6P5_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-42)",
+        "mw": 36308.4838,
+        "gene_name": "['purM', 'Ethha_0191']"
+    },
+    "Ethha_0192 ": {
+        "accessions": "E6U6P6",
+        "entry_name": "E6U6P6_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-43)",
+        "mw": 22743.9066,
+        "gene_name": "['purN', 'Ethha_0192']"
+    },
+    "Ethha_0193": {
+        "accessions": "E6U6P7",
+        "entry_name": "E6U6P7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-44)",
+        "mw": 44078.2393,
+        "gene_name": "['Ethha_0193']"
+    },
+    "Ethha_0196": {
+        "accessions": "E6U6Q0",
+        "entry_name": "E6U6Q0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-45)",
+        "mw": 20145.7988,
+        "gene_name": "['Ethha_0196']"
+    },
+    "Ethha_0197 ": {
+        "accessions": "E6U6Q1",
+        "entry_name": "E6U6Q1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-46)",
+        "mw": 55589.0759,
+        "gene_name": "['purH', 'Ethha_0197']"
+    },
+    "Ethha_0198 ": {
+        "accessions": "E6U6Q2",
+        "entry_name": "E6U6Q2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-47)",
+        "mw": 44088.9668,
+        "gene_name": "['purD', 'Ethha_0198']"
+    },
+    "Ethha_0200": {
+        "accessions": "E6U6Q4",
+        "entry_name": "E6U6Q4_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-48)",
+        "mw": 25017.0731,
+        "gene_name": "['Ethha_0200']"
+    },
+    "Ethha_0205": {
+        "accessions": "E6U6Q9",
+        "entry_name": "E6U6Q9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-49)",
+        "mw": 53749.0157,
+        "gene_name": "['Ethha_0205']"
+    },
+    "Ethha_0218": {
+        "accessions": "E6U6S2",
+        "entry_name": "E6U6S2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-50)",
+        "mw": 38522.6475,
+        "gene_name": "['Ethha_0218']"
+    },
+    "Ethha_0219 ": {
+        "accessions": "E6U6S3",
+        "entry_name": "E6U6S3_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-51)",
+        "mw": 15754.9538,
+        "gene_name": "['aroQ', 'Ethha_0219']"
+    },
+    "Ethha_0231": {
+        "accessions": "E6U783",
+        "entry_name": "E6U783_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-52)",
+        "mw": 21584.7523,
+        "gene_name": "['Ethha_0231']"
+    },
+    "Ethha_0232": {
+        "accessions": "E6U784",
+        "entry_name": "E6U784_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-53)",
+        "mw": 28214.8718,
+        "gene_name": "['Ethha_0232']"
+    },
+    "Ethha_0233": {
+        "accessions": "E6U785",
+        "entry_name": "E6U785_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-54)",
+        "mw": 38356.6351,
+        "gene_name": "['Ethha_0233']"
+    },
+    "Ethha_0234": {
+        "accessions": "E6U786",
+        "entry_name": "E6U786_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-55)",
+        "mw": 7181.5618,
+        "gene_name": "['Ethha_0234']"
+    },
+    "Ethha_0236 ": {
+        "accessions": "E6U788",
+        "entry_name": "E6U788_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-56)",
+        "mw": 47285.425,
+        "gene_name": "['thiC', 'Ethha_0236']"
+    },
+    "Ethha_0240": {
+        "accessions": "E6U792",
+        "entry_name": "E6U792_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-57)",
+        "mw": 45484.6269,
+        "gene_name": "['Ethha_0240']"
+    },
+    "Ethha_0242": {
+        "accessions": "E6U794",
+        "entry_name": "E6U794_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-58)",
+        "mw": 43568.8149,
+        "gene_name": "['Ethha_0242']"
+    },
+    "Ethha_0243 ": {
+        "accessions": "E6U795",
+        "entry_name": "E6U795_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-59)",
+        "mw": 54377.4674,
+        "gene_name": "['gltX', 'Ethha_0243']"
+    },
+    "Ethha_0244": {
+        "accessions": "E6U796",
+        "entry_name": "E6U796_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-60)",
+        "mw": 31254.5192,
+        "gene_name": "['Ethha_0244']"
+    },
+    "Ethha_0245": {
+        "accessions": "E6U797",
+        "entry_name": "E6U797_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-61)",
+        "mw": 34725.877,
+        "gene_name": "['Ethha_0245']"
+    },
+    "Ethha_0246": {
+        "accessions": "E6U798",
+        "entry_name": "E6U798_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-62)",
+        "mw": 31852.9463,
+        "gene_name": "['Ethha_0246']"
+    },
+    "Ethha_0247": {
+        "accessions": "E6U799",
+        "entry_name": "E6U799_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-63)",
+        "mw": 28167.0642,
+        "gene_name": "['Ethha_0247']"
+    },
+    "Ethha_0251": {
+        "accessions": "E6U7A3",
+        "entry_name": "E6U7A3_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-64)",
+        "mw": 10303.6172,
+        "gene_name": "['Ethha_0251']"
+    },
+    "Ethha_0252": {
+        "accessions": "E6U7A4",
+        "entry_name": "E6U7A4_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-65)",
+        "mw": 46096.3178,
+        "gene_name": "['Ethha_0252']"
+    },
+    "Ethha_0260": {
+        "accessions": "E6U7B1",
+        "entry_name": "E6U7B1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-66)",
+        "mw": 31543.3946,
+        "gene_name": "['Ethha_0260']"
+    },
+    "Ethha_0261": {
+        "accessions": "E6U7B2",
+        "entry_name": "E6U7B2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-67)",
+        "mw": 41063.8695,
+        "gene_name": "['Ethha_0261']"
+    },
+    "Ethha_0264": {
+        "accessions": "E6U7B5",
+        "entry_name": "E6U7B5_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-68)",
+        "mw": 27948.6832,
+        "gene_name": "['Ethha_0264']"
+    },
+    "Ethha_0277 ": {
+        "accessions": "E6U7C8",
+        "entry_name": "E6U7C8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-69)",
+        "mw": 52684.1806,
+        "gene_name": "['guaB', 'Ethha_0277']"
+    },
+    "Ethha_0288 ": {
+        "accessions": "E6U7D9",
+        "entry_name": "E6U7D9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-70)",
+        "mw": 14808.0293,
+        "gene_name": "['mgsA', 'Ethha_0288']"
+    },
+    "Ethha_0298": {
+        "accessions": "E6U7E9",
+        "entry_name": "E6U7E9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-71)",
+        "mw": 15955.1789,
+        "gene_name": "['Ethha_0298']"
+    },
+    "Ethha_0300": {
+        "accessions": "E6U7F1",
+        "entry_name": "E6U7F1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-72)",
+        "mw": 20892.5641,
+        "gene_name": "['Ethha_0300']"
+    },
+    "Ethha_0305": {
+        "accessions": "E6U7V9",
+        "entry_name": "E6U7V9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-73)",
+        "mw": 51716.516,
+        "gene_name": "['Ethha_0305']"
+    },
+    "Ethha_0306": {
+        "accessions": "E6U7W0",
+        "entry_name": "E6U7W0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-74)",
+        "mw": 28676.7342,
+        "gene_name": "['Ethha_0306']"
+    },
+    "Ethha_0316 ": {
+        "accessions": "E6U7X0",
+        "entry_name": "E6U7X0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-75)",
+        "mw": 8343.089,
+        "gene_name": "['acpP', 'Ethha_0316']"
+    },
+    "Ethha_0322": {
+        "accessions": "E6U7X6",
+        "entry_name": "E6U7X6_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-76)",
+        "mw": 20408.6782,
+        "gene_name": "['Ethha_0322']"
+    },
+    "Ethha_0325 ": {
+        "accessions": "E6U7X9",
+        "entry_name": "E6U7X9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-77)",
+        "mw": 23134.2975,
+        "gene_name": "['nadD', 'Ethha_0325']"
+    },
+    "Ethha_0331": {
+        "accessions": "E6U7Y5",
+        "entry_name": "E6U7Y5_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-78)",
+        "mw": 27329.1734,
+        "gene_name": "['Ethha_0331']"
+    },
+    "Ethha_0338": {
+        "accessions": "E6U7Z2",
+        "entry_name": "E6U7Z2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-79)",
+        "mw": 81685.8993,
+        "gene_name": "['Ethha_0338']"
+    },
+    "Ethha_0343": {
+        "accessions": "E6U7Z7",
+        "entry_name": "E6U7Z7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-80)",
+        "mw": 38127.2625,
+        "gene_name": "['Ethha_0343']"
+    },
+    "Ethha_0345": {
+        "accessions": "E6U7Z9",
+        "entry_name": "E6U7Z9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-81)",
+        "mw": 28901.6059,
+        "gene_name": "['Ethha_0345']"
+    },
+    "Ethha_0346": {
+        "accessions": "E6U800",
+        "entry_name": "E6U800_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-82)",
+        "mw": 33685.8211,
+        "gene_name": "['Ethha_0346']"
+    },
+    "Ethha_0354": {
+        "accessions": "E6U808",
+        "entry_name": "E6U808_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-83)",
+        "mw": 31681.6361,
+        "gene_name": "['Ethha_0354']"
+    },
+    "Ethha_0388 ": {
+        "accessions": "E6U8I2",
+        "entry_name": "E6U8I2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-84)",
+        "mw": 23168.1756,
+        "gene_name": "['adk', 'Ethha_0388']"
+    },
+    "Ethha_0389 ": {
+        "accessions": "E6U8I3",
+        "entry_name": "E6U8I3_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-85)",
+        "mw": 26711.8884,
+        "gene_name": "['map', 'Ethha_0389']"
+    },
+    "Ethha_0400": {
+        "accessions": "E6U8J4",
+        "entry_name": "E6U8J4_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-86)",
+        "mw": 24501.9496,
+        "gene_name": "['Ethha_0400']"
+    },
+    "Ethha_0401": {
+        "accessions": "E6U8J5",
+        "entry_name": "E6U8J5_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-87)",
+        "mw": 49430.8004,
+        "gene_name": "['Ethha_0401']"
+    },
+    "Ethha_0427 ": {
+        "accessions": "E6U8M1",
+        "entry_name": "E6U8M1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-88)",
+        "mw": 64945.9138,
+        "gene_name": "['glmS', 'Ethha_0427']"
+    },
+    "Ethha_0435": {
+        "accessions": "E6U8M9",
+        "entry_name": "E6U8M9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-89)",
+        "mw": 55234.0242,
+        "gene_name": "['Ethha_0435']"
+    },
+    "Ethha_0444 ": {
+        "accessions": "E6U8N8",
+        "entry_name": "E6U8N8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-90)",
+        "mw": 47140.3248,
+        "gene_name": "['lysA', 'Ethha_0444']"
+    },
+    "Ethha_0447 ": {
+        "accessions": "E6U8P1",
+        "entry_name": "E6U8P1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-91)",
+        "mw": 45004.1033,
+        "gene_name": "['glyA', 'Ethha_0447']"
+    },
+    "Ethha_0450": {
+        "accessions": "E6U8X1",
+        "entry_name": "E6U8X1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-92)",
+        "mw": 28960.6729,
+        "gene_name": "['Ethha_0450']"
+    },
+    "Ethha_0457 ": {
+        "accessions": "E6U8X8",
+        "entry_name": "E6U8X8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-93)",
+        "mw": 39587.5421,
+        "gene_name": "['murG', 'Ethha_0457']"
+    },
+    "Ethha_0459 ": {
+        "accessions": "E6U8Y0",
+        "entry_name": "E6U8Y0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-94)",
+        "mw": 46622.9108,
+        "gene_name": "['mntH', 'Ethha_0459']"
+    },
+    "Ethha_0547": {
+        "accessions": "E6U9D4",
+        "entry_name": "E6U9D4_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-95)",
+        "mw": 193068.7376,
+        "gene_name": "['Ethha_0547']"
+    },
+    "Ethha_0561": {
+        "accessions": "E6U9E7",
+        "entry_name": "E6U9E7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-96)",
+        "mw": 30960.3397,
+        "gene_name": "['Ethha_0561']"
+    },
+    "Ethha_0562": {
+        "accessions": "E6U9E8",
+        "entry_name": "E6U9E8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-97)",
+        "mw": 28517.2491,
+        "gene_name": "['Ethha_0562']"
+    },
+    "Ethha_0566": {
+        "accessions": "E6U9F2",
+        "entry_name": "E6U9F2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-98)",
+        "mw": 35902.4025,
+        "gene_name": "['Ethha_0566']"
+    },
+    "Ethha_0567": {
+        "accessions": "E6U9F3",
+        "entry_name": "E6U9F3_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-99)",
+        "mw": 8891.1318,
+        "gene_name": "['Ethha_0567']"
+    },
+    "Ethha_0568": {
+        "accessions": "E6U9F4",
+        "entry_name": "E6U9F4_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-100)",
+        "mw": 48672.2481,
+        "gene_name": "['Ethha_0568']"
+    },
+    "Ethha_0578": {
+        "accessions": "E6U9G4",
+        "entry_name": "E6U9G4_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-101)",
+        "mw": 54001.7695,
+        "gene_name": "['Ethha_0578']"
+    },
+    "Ethha_0579": {
+        "accessions": "E6U9G5",
+        "entry_name": "E6U9G5_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-102)",
+        "mw": 50230.2409,
+        "gene_name": "['Ethha_0579']"
+    },
+    "Ethha_0580": {
+        "accessions": "E6U9G6",
+        "entry_name": "E6U9G6_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-103)",
+        "mw": 40176.5052,
+        "gene_name": "['Ethha_0580']"
+    },
+    "Ethha_0584 ": {
+        "accessions": "E6U9H0",
+        "entry_name": "E6U9H0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-104)",
+        "mw": 41226.2346,
+        "gene_name": "['potA', 'Ethha_0584']"
+    },
+    "Ethha_0585": {
+        "accessions": "E6U9H1",
+        "entry_name": "E6U9H1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-105)",
+        "mw": 32003.6501,
+        "gene_name": "['Ethha_0585']"
+    },
+    "Ethha_0586": {
+        "accessions": "E6U9H2",
+        "entry_name": "E6U9H2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-106)",
+        "mw": 70668.273,
+        "gene_name": "['Ethha_0586']"
+    },
+    "Ethha_0587": {
+        "accessions": "E6U9H3",
+        "entry_name": "E6U9H3_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-107)",
+        "mw": 49275.041,
+        "gene_name": "['Ethha_0587']"
+    },
+    "Ethha_0591": {
+        "accessions": "E6U9H7",
+        "entry_name": "E6U9H7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-108)",
+        "mw": 25877.5504,
+        "gene_name": "['Ethha_0591']"
+    },
+    "Ethha_0604": {
+        "accessions": "E6U9I7",
+        "entry_name": "E6U9I7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-109)",
+        "mw": 44358.4155,
+        "gene_name": "['Ethha_0604']"
+    },
+    "Ethha_0611": {
+        "accessions": "E6U9R9",
+        "entry_name": "E6U9R9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-110)",
+        "mw": 11552.2707,
+        "gene_name": "['Ethha_0611']"
+    },
+    "Ethha_0625": {
+        "accessions": "E6U9T2",
+        "entry_name": "E6U9T2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-111)",
+        "mw": 54474.5853,
+        "gene_name": "['Ethha_0625']"
+    },
+    "Ethha_0634 ": {
+        "accessions": "E6U9U0",
+        "entry_name": "E6U9U0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-112)",
+        "mw": 16484.7759,
+        "gene_name": "['ribH', 'Ethha_0634']"
+    },
+    "Ethha_0635 ": {
+        "accessions": "E6U9U1",
+        "entry_name": "E6U9U1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-113)",
+        "mw": 44323.3189,
+        "gene_name": "['ribBA', 'Ethha_0635']"
+    },
+    "Ethha_0636": {
+        "accessions": "E6U9U2",
+        "entry_name": "E6U9U2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-114)",
+        "mw": 22392.2594,
+        "gene_name": "['Ethha_0636']"
+    },
+    "Ethha_0637": {
+        "accessions": "E6U9U3",
+        "entry_name": "E6U9U3_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-115)",
+        "mw": 39696.2889,
+        "gene_name": "['Ethha_0637']"
+    },
+    "Ethha_0653": {
+        "accessions": "E6U9V7",
+        "entry_name": "E6U9V7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-116)",
+        "mw": 46748.4798,
+        "gene_name": "['Ethha_0653']"
+    },
+    "Ethha_0654": {
+        "accessions": "E6U9V8",
+        "entry_name": "E6U9V8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-117)",
+        "mw": 43149.0811,
+        "gene_name": "['Ethha_0654']"
+    },
+    "Ethha_0655 ": {
+        "accessions": "E6U9V9",
+        "entry_name": "E6U9V9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-118)",
+        "mw": 23203.8948,
+        "gene_name": "['tal', 'Ethha_0655']"
+    },
+    "Ethha_0658": {
+        "accessions": "E6U9W1",
+        "entry_name": "E6U9W1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-119)",
+        "mw": 19945.1118,
+        "gene_name": "['Ethha_0658']"
+    },
+    "Ethha_0667": {
+        "accessions": "E6U9X0",
+        "entry_name": "E6U9X0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-120)",
+        "mw": 47773.0686,
+        "gene_name": "['Ethha_0667']"
+    },
+    "Ethha_0680": {
+        "accessions": "E6U9Y3",
+        "entry_name": "E6U9Y3_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-121)",
+        "mw": 52005.6858,
+        "gene_name": "['Ethha_0680']"
+    },
+    "Ethha_0685": {
+        "accessions": "E6U9Y8",
+        "entry_name": "E6U9Y8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-122)",
+        "mw": 32370.7911,
+        "gene_name": "['Ethha_0685']"
+    },
+    "Ethha_0705": {
+        "accessions": "E6U2I3",
+        "entry_name": "E6U2I3_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-123)",
+        "mw": 31044.9563,
+        "gene_name": "['Ethha_0705']"
+    },
+    "Ethha_0706": {
+        "accessions": "E6U2I4",
+        "entry_name": "E6U2I4_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-124)",
+        "mw": 33236.9178,
+        "gene_name": "['Ethha_0706']"
+    },
+    "Ethha_0707": {
+        "accessions": "E6U2I5",
+        "entry_name": "E6U2I5_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-125)",
+        "mw": 97330.0442,
+        "gene_name": "['Ethha_0707']"
+    },
+    "Ethha_0709": {
+        "accessions": "E6U2I7",
+        "entry_name": "E6U2I7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-126)",
+        "mw": 40254.5762,
+        "gene_name": "['Ethha_0709']"
+    },
+    "Ethha_0710 ": {
+        "accessions": "E6U2I8",
+        "entry_name": "E6U2I8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-127)",
+        "mw": 45642.2913,
+        "gene_name": "['murA', 'Ethha_0710']"
+    },
+    "Ethha_0719": {
+        "accessions": "E6U2J7",
+        "entry_name": "E6U2J7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-128)",
+        "mw": 9078.3017,
+        "gene_name": "['Ethha_0719']"
+    },
+    "Ethha_0720": {
+        "accessions": "E6U2J8",
+        "entry_name": "E6U2J8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-129)",
+        "mw": 62216.1267,
+        "gene_name": "['Ethha_0720']"
+    },
+    "Ethha_0722": {
+        "accessions": "E6U2K0",
+        "entry_name": "E6U2K0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-130)",
+        "mw": 16965.2711,
+        "gene_name": "['Ethha_0722']"
+    },
+    "Ethha_0730": {
+        "accessions": "E6U2K8",
+        "entry_name": "E6U2K8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-131)",
+        "mw": 32755.9571,
+        "gene_name": "['Ethha_0730']"
+    },
+    "Ethha_0732": {
+        "accessions": "E6U2L0",
+        "entry_name": "E6U2L0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-132)",
+        "mw": 52800.7339,
+        "gene_name": "['Ethha_0732']"
+    },
+    "Ethha_0733": {
+        "accessions": "E6U2L1",
+        "entry_name": "E6U2L1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-133)",
+        "mw": 41845.1693,
+        "gene_name": "['Ethha_0733']"
+    },
+    "Ethha_0734": {
+        "accessions": "E6U2L2",
+        "entry_name": "E6U2L2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-134)",
+        "mw": 44744.5419,
+        "gene_name": "['Ethha_0734']"
+    },
+    "Ethha_0735": {
+        "accessions": "E6U2L3",
+        "entry_name": "E6U2L3_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-135)",
+        "mw": 33225.2281,
+        "gene_name": "['speE', 'Ethha_0735']"
+    },
+    "Ethha_0736": {
+        "accessions": "E6U2L4",
+        "entry_name": "E6U2L4_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-136)",
+        "mw": 52731.8077,
+        "gene_name": "['Ethha_0736']"
+    },
+    "Ethha_0737": {
+        "accessions": "E6U2L5",
+        "entry_name": "E6U2L5_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-137)",
+        "mw": 30093.0597,
+        "gene_name": "['Ethha_0737']"
+    },
+    "Ethha_0738": {
+        "accessions": "E6U2L6",
+        "entry_name": "E6U2L6_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-138)",
+        "mw": 19929.8441,
+        "gene_name": "['Ethha_0738']"
+    },
+    "Ethha_0739": {
+        "accessions": "E6U2L7",
+        "entry_name": "E6U2L7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-139)",
+        "mw": 41768.595,
+        "gene_name": "['Ethha_0739']"
+    },
+    "Ethha_0743": {
+        "accessions": "E6U2M1",
+        "entry_name": "E6U2M1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-140)",
+        "mw": 89792.7156,
+        "gene_name": "['Ethha_0743']"
+    },
+    "Ethha_0748": {
+        "accessions": "E6U2M6",
+        "entry_name": "E6U2M6_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-141)",
+        "mw": 63856.5077,
+        "gene_name": "['Ethha_0748']"
+    },
+    "Ethha_0753": {
+        "accessions": "E6U2N1",
+        "entry_name": "E6U2N1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-142)",
+        "mw": 32131.8647,
+        "gene_name": "['Ethha_0753']"
+    },
+    "Ethha_0754": {
+        "accessions": "E6U2N2",
+        "entry_name": "E6U2N2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-143)",
+        "mw": 30421.1439,
+        "gene_name": "['Ethha_0754']"
+    },
+    "Ethha_0755": {
+        "accessions": "E6U2N3",
+        "entry_name": "E6U2N3_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-144)",
+        "mw": 113050.3314,
+        "gene_name": "['Ethha_0755']"
+    },
+    "Ethha_0756": {
+        "accessions": "E6U2N4",
+        "entry_name": "E6U2N4_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-145)",
+        "mw": 86181.1767,
+        "gene_name": "['Ethha_0756']"
+    },
+    "Ethha_0757": {
+        "accessions": "E6U2N5",
+        "entry_name": "E6U2N5_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-146)",
+        "mw": 38454.5325,
+        "gene_name": "['Ethha_0757']"
+    },
+    "Ethha_0758": {
+        "accessions": "E6U2N6",
+        "entry_name": "E6U2N6_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-147)",
+        "mw": 45544.0173,
+        "gene_name": "['Ethha_0758']"
+    },
+    "Ethha_0759": {
+        "accessions": "E6U2N7",
+        "entry_name": "E6U2N7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-148)",
+        "mw": 38186.8723,
+        "gene_name": "['Ethha_0759']"
+    },
+    "Ethha_0760": {
+        "accessions": "E6U2W2",
+        "entry_name": "E6U2W2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-149)",
+        "mw": 37336.3215,
+        "gene_name": "['Ethha_0760']"
+    },
+    "Ethha_0761": {
+        "accessions": "E6U2W3",
+        "entry_name": "E6U2W3_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-150)",
+        "mw": 38524.8273,
+        "gene_name": "['ddl', 'Ethha_0761']"
+    },
+    "Ethha_0762": {
+        "accessions": "E6U2W4",
+        "entry_name": "E6U2W4_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-151)",
+        "mw": 29361.0482,
+        "gene_name": "['murI', 'Ethha_0762']"
+    },
+    "Ethha_0766": {
+        "accessions": "E6U2W8",
+        "entry_name": "E6U2W8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-152)",
+        "mw": 35418.2161,
+        "gene_name": "['metAA', 'Ethha_0766']"
+    },
+    "Ethha_0770": {
+        "accessions": "E6U2X2",
+        "entry_name": "E6U2X2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-153)",
+        "mw": 19245.6171,
+        "gene_name": "['Ethha_0770']"
+    },
+    "Ethha_0775": {
+        "accessions": "E6U2X7",
+        "entry_name": "E6U2X7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-154)",
+        "mw": 52175.0816,
+        "gene_name": "['Ethha_0775']"
+    },
+    "Ethha_0777": {
+        "accessions": "E6U2X9",
+        "entry_name": "E6U2X9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-155)",
+        "mw": 24314.5129,
+        "gene_name": "['Ethha_0777']"
+    },
+    "Ethha_0781": {
+        "accessions": "E6U2Y3",
+        "entry_name": "E6U2Y3_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-156)",
+        "mw": 22930.1383,
+        "gene_name": "['Ethha_0781']"
+    },
+    "Ethha_0805": {
+        "accessions": "E6U307",
+        "entry_name": "E6U307_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-157)",
+        "mw": 37159.9458,
+        "gene_name": "['Ethha_0805']"
+    },
+    "Ethha_0815": {
+        "accessions": "E6U317",
+        "entry_name": "E6U317_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-158)",
+        "mw": 31143.5672,
+        "gene_name": "['Ethha_0815']"
+    },
+    "Ethha_0816": {
+        "accessions": "E6U318",
+        "entry_name": "E6U318_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-159)",
+        "mw": 29899.1996,
+        "gene_name": "['Ethha_0816']"
+    },
+    "Ethha_0817": {
+        "accessions": "E6U319",
+        "entry_name": "E6U319_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-160)",
+        "mw": 18734.39,
+        "gene_name": "['Ethha_0817']"
+    },
+    "Ethha_0818": {
+        "accessions": "E6U320",
+        "entry_name": "E6U320_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-161)",
+        "mw": 15137.1643,
+        "gene_name": "['Ethha_0818']"
+    },
+    "Ethha_0826": {
+        "accessions": "E6U328",
+        "entry_name": "E6U328_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-162)",
+        "mw": 55331.8482,
+        "gene_name": "['Ethha_0826']"
+    },
+    "Ethha_0827": {
+        "accessions": "E6U329",
+        "entry_name": "E6U329_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-163)",
+        "mw": 50079.4612,
+        "gene_name": "['Ethha_0827']"
+    },
+    "Ethha_0830": {
+        "accessions": "E6U3A7",
+        "entry_name": "E6U3A7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-164)",
+        "mw": 20848.8153,
+        "gene_name": "['xpt', 'Ethha_0830']"
+    },
+    "Ethha_0831": {
+        "accessions": "E6U3A8",
+        "entry_name": "E6U3A8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-165)",
+        "mw": 24378.5272,
+        "gene_name": "['Ethha_0831']"
+    },
+    "Ethha_0833": {
+        "accessions": "E6U3B0",
+        "entry_name": "E6U3B0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-166)",
+        "mw": 64963.575,
+        "gene_name": "['ade', 'Ethha_0833']"
+    },
+    "Ethha_0835": {
+        "accessions": "E6U3B2",
+        "entry_name": "E6U3B2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-167)",
+        "mw": 50854.7687,
+        "gene_name": "['Ethha_0835']"
+    },
+    "Ethha_0836": {
+        "accessions": "E6U3B3",
+        "entry_name": "E6U3B3_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-168)",
+        "mw": 66507.5533,
+        "gene_name": "['Ethha_0836']"
+    },
+    "Ethha_0838": {
+        "accessions": "E6U3B5",
+        "entry_name": "E6U3B5_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-169)",
+        "mw": 53899.5769,
+        "gene_name": "['Ethha_0838']"
+    },
+    "Ethha_0840": {
+        "accessions": "E6U3B7",
+        "entry_name": "E6U3B7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-170)",
+        "mw": 52645.8713,
+        "gene_name": "['Ethha_0840']"
+    },
+    "Ethha_0841": {
+        "accessions": "E6U3B8",
+        "entry_name": "E6U3B8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-171)",
+        "mw": 12390.9358,
+        "gene_name": "['Ethha_0841']"
+    },
+    "Ethha_0842": {
+        "accessions": "E6U3B9",
+        "entry_name": "E6U3B9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-172)",
+        "mw": 11171.041,
+        "gene_name": "['Ethha_0842']"
+    },
+    "Ethha_0843": {
+        "accessions": "E6U3C0",
+        "entry_name": "E6U3C0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-173)",
+        "mw": 49393.2392,
+        "gene_name": "['Ethha_0843']"
+    },
+    "Ethha_0848": {
+        "accessions": "E6U3C5",
+        "entry_name": "E6U3C5_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-174)",
+        "mw": 37589.3394,
+        "gene_name": "['Ethha_0848']"
+    },
+    "Ethha_0850": {
+        "accessions": "E6U3C7",
+        "entry_name": "E6U3C7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-175)",
+        "mw": 35419.1302,
+        "gene_name": "['moaA', 'Ethha_0850']"
+    },
+    "Ethha_0851": {
+        "accessions": "E6U3C8",
+        "entry_name": "E6U3C8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-176)",
+        "mw": 17186.5321,
+        "gene_name": "['Ethha_0851']"
+    },
+    "Ethha_0852": {
+        "accessions": "E6U3C9",
+        "entry_name": "E6U3C9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-177)",
+        "mw": 43643.4024,
+        "gene_name": "['Ethha_0852']"
+    },
+    "Ethha_0894": {
+        "accessions": "E6U3G2",
+        "entry_name": "E6U3G2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-178)",
+        "mw": 63406.3274,
+        "gene_name": "['Ethha_0894']"
+    },
+    "Ethha_0895": {
+        "accessions": "E6U3G3",
+        "entry_name": "E6U3G3_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-179)",
+        "mw": 36544.9103,
+        "gene_name": "['Ethha_0895']"
+    },
+    "Ethha_0897": {
+        "accessions": "E6U3G5",
+        "entry_name": "E6U3G5_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-180)",
+        "mw": 50433.36,
+        "gene_name": "['Ethha_0897']"
+    },
+    "Ethha_0898": {
+        "accessions": "E6U3G6",
+        "entry_name": "E6U3G6_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-181)",
+        "mw": 83165.9913,
+        "gene_name": "['Ethha_0898']"
+    },
+    "Ethha_0902": {
+        "accessions": "E6U3H0",
+        "entry_name": "E6U3H0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-182)",
+        "mw": 39696.3063,
+        "gene_name": "['Ethha_0902']"
+    },
+    "Ethha_0903": {
+        "accessions": "E6U3H1",
+        "entry_name": "E6U3H1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-183)",
+        "mw": 31807.8755,
+        "gene_name": "['Ethha_0903']"
+    },
+    "Ethha_0905": {
+        "accessions": "E6U3H3",
+        "entry_name": "E6U3H3_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-184)",
+        "mw": 44880.0987,
+        "gene_name": "['Ethha_0905']"
+    },
+    "Ethha_0911": {
+        "accessions": "E6U3Q4",
+        "entry_name": "E6U3Q4_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-185)",
+        "mw": 34637.6912,
+        "gene_name": "['Ethha_0911']"
+    },
+    "Ethha_0912": {
+        "accessions": "E6U3Q5",
+        "entry_name": "E6U3Q5_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-186)",
+        "mw": 30827.6648,
+        "gene_name": "['Ethha_0912']"
+    },
+    "Ethha_0913": {
+        "accessions": "E6U3Q6",
+        "entry_name": "E6U3Q6_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-187)",
+        "mw": 51004.0414,
+        "gene_name": "['Ethha_0913']"
+    },
+    "Ethha_0915": {
+        "accessions": "E6U3Q8",
+        "entry_name": "E6U3Q8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-188)",
+        "mw": 27247.657,
+        "gene_name": "['Ethha_0915']"
+    },
+    "Ethha_0918": {
+        "accessions": "E6U3R0",
+        "entry_name": "E6U3R0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-189)",
+        "mw": 20198.8417,
+        "gene_name": "['Ethha_0918']"
+    },
+    "Ethha_0919": {
+        "accessions": "E6U3R1",
+        "entry_name": "E6U3R1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-190)",
+        "mw": 30850.1579,
+        "gene_name": "['dapF', 'Ethha_0919']"
+    },
+    "Ethha_0920": {
+        "accessions": "E6U3R2",
+        "entry_name": "E6U3R2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-191)",
+        "mw": 43511.554,
+        "gene_name": "['dapL', 'Ethha_0920']"
+    },
+    "Ethha_0924": {
+        "accessions": "E6U3R6",
+        "entry_name": "E6U3R6_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-192)",
+        "mw": 46808.8917,
+        "gene_name": "['Ethha_0924']"
+    },
+    "Ethha_0925": {
+        "accessions": "E6U3R7",
+        "entry_name": "E6U3R7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-193)",
+        "mw": 38564.9665,
+        "gene_name": "['leuB', 'Ethha_0925']"
+    },
+    "Ethha_0926": {
+        "accessions": "E6U3R8",
+        "entry_name": "E6U3R8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-194)",
+        "mw": 17611.8734,
+        "gene_name": "['leuD', 'Ethha_0926']"
+    },
+    "Ethha_0927": {
+        "accessions": "E6U3R9",
+        "entry_name": "E6U3R9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-195)",
+        "mw": 44508.9581,
+        "gene_name": "['leuC', 'Ethha_0927']"
+    },
+    "Ethha_0929": {
+        "accessions": "E6U3S1",
+        "entry_name": "E6U3S1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-196)",
+        "mw": 60003.7742,
+        "gene_name": "['Ethha_0929']"
+    },
+    "Ethha_0978": {
+        "accessions": "E6U3W4",
+        "entry_name": "E6U3W4_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-197)",
+        "mw": 60630.1003,
+        "gene_name": "['Ethha_0978']"
+    },
+    "Ethha_0990": {
+        "accessions": "E6U443",
+        "entry_name": "E6U443_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-198)",
+        "mw": 36449.8435,
+        "gene_name": "['Ethha_0990']"
+    },
+    "Ethha_0993": {
+        "accessions": "E6U446",
+        "entry_name": "E6U446_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-199)",
+        "mw": 80177.2741,
+        "gene_name": "['Ethha_0993']"
+    },
+    "Ethha_0997": {
+        "accessions": "E6U450",
+        "entry_name": "E6U450_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-200)",
+        "mw": 38249.6313,
+        "gene_name": "['Ethha_0997']"
+    },
+    "Ethha_0998": {
+        "accessions": "E6U451",
+        "entry_name": "E6U451_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-201)",
+        "mw": 53405.8044,
+        "gene_name": "['Ethha_0998']"
+    },
+    "Ethha_1003": {
+        "accessions": "E6U456",
+        "entry_name": "E6U456_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-202)",
+        "mw": 35985.8249,
+        "gene_name": "['Ethha_1003']"
+    },
+    "Ethha_1004": {
+        "accessions": "E6U457",
+        "entry_name": "E6U457_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-203)",
+        "mw": 27016.8352,
+        "gene_name": "['Ethha_1004']"
+    },
+    "Ethha_1006": {
+        "accessions": "E6U459",
+        "entry_name": "E6U459_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-204)",
+        "mw": 126891.8898,
+        "gene_name": "['Ethha_1006']"
+    },
+    "Ethha_1013": {
+        "accessions": "E6U466",
+        "entry_name": "E6U466_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-205)",
+        "mw": 20400.9742,
+        "gene_name": "['Ethha_1013']"
+    },
+    "Ethha_1025": {
+        "accessions": "E6U478",
+        "entry_name": "E6U478_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-206)",
+        "mw": 47105.2952,
+        "gene_name": "['glmM', 'Ethha_1025']"
+    },
+    "Ethha_1044": {
+        "accessions": "E6U497",
+        "entry_name": "E6U497_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-207)",
+        "mw": 54166.3485,
+        "gene_name": "['Ethha_1044']"
+    },
+    "Ethha_1055": {
+        "accessions": "E6U4A8",
+        "entry_name": "E6U4A8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-208)",
+        "mw": 31056.5664,
+        "gene_name": "['Ethha_1055']"
+    },
+    "Ethha_1067": {
+        "accessions": "E6U4J2",
+        "entry_name": "E6U4J2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-209)",
+        "mw": 77573.106,
+        "gene_name": "['Ethha_1067']"
+    },
+    "Ethha_1080": {
+        "accessions": "E6U4K5",
+        "entry_name": "E6U4K5_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-210)",
+        "mw": 23941.1868,
+        "gene_name": "['Ethha_1080']"
+    },
+    "Ethha_1086": {
+        "accessions": "E6U4L1",
+        "entry_name": "E6U4L1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-211)",
+        "mw": 38824.9277,
+        "gene_name": "['Ethha_1086']"
+    },
+    "Ethha_1089": {
+        "accessions": "E6U4L4",
+        "entry_name": "E6U4L4_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-212)",
+        "mw": 17523.0301,
+        "gene_name": "['Ethha_1089']"
+    },
+    "Ethha_1092": {
+        "accessions": "E6U4L7",
+        "entry_name": "E6U4L7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-213)",
+        "mw": 32330.4336,
+        "gene_name": "['Ethha_1092']"
+    },
+    "Ethha_1097": {
+        "accessions": "E6U4M2",
+        "entry_name": "E6U4M2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-214)",
+        "mw": 76063.3825,
+        "gene_name": "['Ethha_1097']"
+    },
+    "Ethha_1105": {
+        "accessions": "E6U4N0",
+        "entry_name": "E6U4N0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-215)",
+        "mw": 77787.9349,
+        "gene_name": "['Ethha_1105']"
+    },
+    "Ethha_1125": {
+        "accessions": "E6U4P8",
+        "entry_name": "E6U4P8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-216)",
+        "mw": 29605.0515,
+        "gene_name": "['uppP', 'Ethha_1125']"
+    },
+    "Ethha_1144": {
+        "accessions": "E6U4Y9",
+        "entry_name": "E6U4Y9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-217)",
+        "mw": 70072.2009,
+        "gene_name": "['Ethha_1144']"
+    },
+    "Ethha_1145": {
+        "accessions": "E6U4Z0",
+        "entry_name": "E6U4Z0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-218)",
+        "mw": 135481.9803,
+        "gene_name": "['Ethha_1145']"
+    },
+    "Ethha_1148": {
+        "accessions": "E6U4Z3",
+        "entry_name": "E6U4Z3_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-219)",
+        "mw": 43462.9525,
+        "gene_name": "['Ethha_1148']"
+    },
+    "Ethha_1149": {
+        "accessions": "E6U4Z4",
+        "entry_name": "E6U4Z4_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-220)",
+        "mw": 49011.1365,
+        "gene_name": "['pgi', 'Ethha_1149']"
+    },
+    "Ethha_1156": {
+        "accessions": "E6U501",
+        "entry_name": "E6U501_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-221)",
+        "mw": 36185.1273,
+        "gene_name": "['gpsA', 'Ethha_1156']"
+    },
+    "Ethha_1161": {
+        "accessions": "E6U506",
+        "entry_name": "E6U506_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-222)",
+        "mw": 41697.2873,
+        "gene_name": "['Ethha_1161']"
+    },
+    "Ethha_1164": {
+        "accessions": "E6U509",
+        "entry_name": "E6U509_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-223)",
+        "mw": 39940.3607,
+        "gene_name": "['Ethha_1164']"
+    },
+    "Ethha_1171": {
+        "accessions": "E6U516",
+        "entry_name": "E6U516_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-224)",
+        "mw": 50642.8468,
+        "gene_name": "['Ethha_1171']"
+    },
+    "Ethha_1172": {
+        "accessions": "E6U517",
+        "entry_name": "E6U517_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-225)",
+        "mw": 27156.1206,
+        "gene_name": "['Ethha_1172']"
+    },
+    "Ethha_1173": {
+        "accessions": "E6U518",
+        "entry_name": "E6U518_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-226)",
+        "mw": 44057.1383,
+        "gene_name": "['Ethha_1173']"
+    },
+    "Ethha_1175": {
+        "accessions": "E6U520",
+        "entry_name": "E6U520_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-227)",
+        "mw": 44618.7149,
+        "gene_name": "['Ethha_1175']"
+    },
+    "Ethha_1181": {
+        "accessions": "E6U526",
+        "entry_name": "E6U526_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-228)",
+        "mw": 48168.5051,
+        "gene_name": "['Ethha_1181']"
+    },
+    "Ethha_1190": {
+        "accessions": "E6U535",
+        "entry_name": "E6U535_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-229)",
+        "mw": 17917.1538,
+        "gene_name": "['Ethha_1190']"
+    },
+    "Ethha_1212": {
+        "accessions": "E6U5K4",
+        "entry_name": "E6U5K4_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-230)",
+        "mw": 32165.5492,
+        "gene_name": "['Ethha_1212']"
+    },
+    "Ethha_1214": {
+        "accessions": "E6U5K6",
+        "entry_name": "E6U5K6_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-231)",
+        "mw": 68916.0611,
+        "gene_name": "['dxs', 'Ethha_1214']"
+    },
+    "Ethha_1216": {
+        "accessions": "E6U5K8",
+        "entry_name": "E6U5K8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-232)",
+        "mw": 31158.9984,
+        "gene_name": "['nadK', 'Ethha_1216']"
+    },
+    "Ethha_1278": {
+        "accessions": "E6U5R2",
+        "entry_name": "E6U5R2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-233)",
+        "mw": 27238.2095,
+        "gene_name": "['Ethha_1278']"
+    },
+    "Ethha_1306": {
+        "accessions": "E6U679",
+        "entry_name": "E6U679_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-234)",
+        "mw": 35158.1266,
+        "gene_name": "['moaC', 'Ethha_1306']"
+    },
+    "Ethha_1319": {
+        "accessions": "E6U692",
+        "entry_name": "E6U692_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-235)",
+        "mw": 41976.0461,
+        "gene_name": "['Ethha_1319']"
+    },
+    "Ethha_1320": {
+        "accessions": "E6U693",
+        "entry_name": "E6U693_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-236)",
+        "mw": 53536.4506,
+        "gene_name": "['trpE', 'Ethha_1320']"
+    },
+    "Ethha_1321": {
+        "accessions": "E6U694",
+        "entry_name": "E6U694_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-237)",
+        "mw": 20963.0695,
+        "gene_name": "['Ethha_1321']"
+    },
+    "Ethha_1322": {
+        "accessions": "E6U695",
+        "entry_name": "E6U695_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-238)",
+        "mw": 35292.0595,
+        "gene_name": "['trpD', 'Ethha_1322']"
+    },
+    "Ethha_1323": {
+        "accessions": "E6U696",
+        "entry_name": "E6U696_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-239)",
+        "mw": 28887.8966,
+        "gene_name": "['trpC', 'Ethha_1323']"
+    },
+    "Ethha_1324": {
+        "accessions": "E6U697",
+        "entry_name": "E6U697_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-240)",
+        "mw": 22995.9964,
+        "gene_name": "['trpF', 'Ethha_1324']"
+    },
+    "Ethha_1325": {
+        "accessions": "E6U698",
+        "entry_name": "E6U698_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-241)",
+        "mw": 43086.6229,
+        "gene_name": "['trpB', 'Ethha_1325']"
+    },
+    "Ethha_1326": {
+        "accessions": "E6U699",
+        "entry_name": "E6U699_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-242)",
+        "mw": 28436.1427,
+        "gene_name": "['trpA', 'Ethha_1326']"
+    },
+    "Ethha_1328": {
+        "accessions": "E6U6A1",
+        "entry_name": "E6U6A1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-243)",
+        "mw": 11171.824,
+        "gene_name": "['Ethha_1328']"
+    },
+    "Ethha_1330": {
+        "accessions": "E6U6A3",
+        "entry_name": "E6U6A3_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-244)",
+        "mw": 24814.5007,
+        "gene_name": "['ispD', 'Ethha_1330']"
+    },
+    "Ethha_1331": {
+        "accessions": "E6U6A4",
+        "entry_name": "E6U6A4_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-245)",
+        "mw": 16757.1133,
+        "gene_name": "['ispF', 'Ethha_1331']"
+    },
+    "Ethha_1333": {
+        "accessions": "E6U6A6",
+        "entry_name": "E6U6A6_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-246)",
+        "mw": 61898.898,
+        "gene_name": "['Ethha_1333']"
+    },
+    "Ethha_1334": {
+        "accessions": "E6U6A7",
+        "entry_name": "E6U6A7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-247)",
+        "mw": 45006.3557,
+        "gene_name": "['Ethha_1334']"
+    },
+    "Ethha_1342": {
+        "accessions": "E6U6B5",
+        "entry_name": "E6U6B5_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-248)",
+        "mw": 32129.3783,
+        "gene_name": "['murB', 'Ethha_1342']"
+    },
+    "Ethha_1347": {
+        "accessions": "E6U6C0",
+        "entry_name": "E6U6C0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-249)",
+        "mw": 34790.5059,
+        "gene_name": "['pfkA', 'Ethha_1347']"
+    },
+    "Ethha_1350": {
+        "accessions": "E6U6C3",
+        "entry_name": "E6U6C3_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-250)",
+        "mw": 34791.3952,
+        "gene_name": "['ldh', 'Ethha_1350']"
+    },
+    "Ethha_1367": {
+        "accessions": "E6U6T8",
+        "entry_name": "E6U6T8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-251)",
+        "mw": 23429.7394,
+        "gene_name": "['Ethha_1367']"
+    },
+    "Ethha_1370": {
+        "accessions": "E6U6U1",
+        "entry_name": "E6U6U1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-252)",
+        "mw": 50143.047,
+        "gene_name": "['murD', 'Ethha_1370']"
+    },
+    "Ethha_1376": {
+        "accessions": "E6U6U7",
+        "entry_name": "E6U6U7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-253)",
+        "mw": 31766.0372,
+        "gene_name": "['Ethha_1376']"
+    },
+    "Ethha_1377": {
+        "accessions": "E6U6U8",
+        "entry_name": "E6U6U8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-254)",
+        "mw": 24049.6085,
+        "gene_name": "['Ethha_1377']"
+    },
+    "Ethha_1378": {
+        "accessions": "E6U6U9",
+        "entry_name": "E6U6U9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-255)",
+        "mw": 84975.2188,
+        "gene_name": "['Ethha_1378']"
+    },
+    "Ethha_1379": {
+        "accessions": "E6U6V0",
+        "entry_name": "E6U6V0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-256)",
+        "mw": 35754.5294,
+        "gene_name": "['bioB', 'Ethha_1379']"
+    },
+    "Ethha_1380": {
+        "accessions": "E6U6V1",
+        "entry_name": "E6U6V1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-257)",
+        "mw": 19565.6697,
+        "gene_name": "['Ethha_1380']"
+    },
+    "Ethha_1381": {
+        "accessions": "E6U6V2",
+        "entry_name": "E6U6V2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-258)",
+        "mw": 35108.7981,
+        "gene_name": "['birA', 'Ethha_1381']"
+    },
+    "Ethha_1382": {
+        "accessions": "E6U6V3",
+        "entry_name": "E6U6V3_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-259)",
+        "mw": 28065.5602,
+        "gene_name": "['gpmA', 'Ethha_1382']"
+    },
+    "Ethha_1385": {
+        "accessions": "E6U6V6",
+        "entry_name": "E6U6V6_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-260)",
+        "mw": 95529.8896,
+        "gene_name": "['Ethha_1385']"
+    },
+    "Ethha_1388": {
+        "accessions": "E6U6V9",
+        "entry_name": "E6U6V9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-261)",
+        "mw": 69246.7188,
+        "gene_name": "['Ethha_1388']"
+    },
+    "Ethha_1397": {
+        "accessions": "E6U6W7",
+        "entry_name": "E6U6W7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-262)",
+        "mw": 20831.5131,
+        "gene_name": "['Ethha_1397']"
+    },
+    "Ethha_1405": {
+        "accessions": "E6U6X5",
+        "entry_name": "E6U6X5_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-263)",
+        "mw": 19229.9847,
+        "gene_name": "['Ethha_1405']"
+    },
+    "Ethha_1410": {
+        "accessions": "E6U6Y0",
+        "entry_name": "E6U6Y0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-264)",
+        "mw": 27386.5376,
+        "gene_name": "['Ethha_1410']"
+    },
+    "Ethha_1416": {
+        "accessions": "E6U6Y6",
+        "entry_name": "E6U6Y6_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-265)",
+        "mw": 28013.1376,
+        "gene_name": "['proC', 'Ethha_1416']"
+    },
+    "Ethha_1424": {
+        "accessions": "E6U6Z4",
+        "entry_name": "E6U6Z4_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-266)",
+        "mw": 39981.6492,
+        "gene_name": "['Ethha_1424']"
+    },
+    "Ethha_1425": {
+        "accessions": "E6U6Z5",
+        "entry_name": "E6U6Z5_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-267)",
+        "mw": 32204.6332,
+        "gene_name": "['dapA', 'Ethha_1425']"
+    },
+    "Ethha_1426": {
+        "accessions": "E6U6Z6",
+        "entry_name": "E6U6Z6_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-268)",
+        "mw": 27572.061,
+        "gene_name": "['dapB', 'Ethha_1426']"
+    },
+    "Ethha_1429": {
+        "accessions": "E6U6Z9",
+        "entry_name": "E6U6Z9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-269)",
+        "mw": 101425.4128,
+        "gene_name": "['Ethha_1429']"
+    },
+    "Ethha_1430": {
+        "accessions": "E6U700",
+        "entry_name": "E6U700_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-270)",
+        "mw": 19532.4481,
+        "gene_name": "['Ethha_1430']"
+    },
+    "Ethha_1431": {
+        "accessions": "E6U701",
+        "entry_name": "E6U701_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-271)",
+        "mw": 27277.3273,
+        "gene_name": "['Ethha_1431']"
+    },
+    "Ethha_1433": {
+        "accessions": "E6U703",
+        "entry_name": "E6U703_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-272)",
+        "mw": 12171.5516,
+        "gene_name": "['hisE', 'Ethha_1433']"
+    },
+    "Ethha_1434": {
+        "accessions": "E6U704",
+        "entry_name": "E6U704_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-273)",
+        "mw": 12349.9217,
+        "gene_name": "['hisI', 'Ethha_1434']"
+    },
+    "Ethha_1435": {
+        "accessions": "E6U705",
+        "entry_name": "E6U705_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-274)",
+        "mw": 27213.7841,
+        "gene_name": "['hisF', 'Ethha_1435']"
+    },
+    "Ethha_1436": {
+        "accessions": "E6U706",
+        "entry_name": "E6U706_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-275)",
+        "mw": 26040.6031,
+        "gene_name": "['hisA', 'Ethha_1436']"
+    },
+    "Ethha_1437": {
+        "accessions": "E6U707",
+        "entry_name": "E6U707_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-276)",
+        "mw": 21747.8374,
+        "gene_name": "['hisH', 'Ethha_1437']"
+    },
+    "Ethha_1438": {
+        "accessions": "E6U708",
+        "entry_name": "E6U708_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-277)",
+        "mw": 20924.5782,
+        "gene_name": "['hisB', 'Ethha_1438']"
+    },
+    "Ethha_1439": {
+        "accessions": "E6U7F3",
+        "entry_name": "E6U7F3_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-278)",
+        "mw": 38081.1811,
+        "gene_name": "['Ethha_1439']"
+    },
+    "Ethha_1440": {
+        "accessions": "E6U7F4",
+        "entry_name": "E6U7F4_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-279)",
+        "mw": 45855.9126,
+        "gene_name": "['hisD', 'Ethha_1440']"
+    },
+    "Ethha_1441": {
+        "accessions": "E6U7F5",
+        "entry_name": "E6U7F5_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-280)",
+        "mw": 23192.9979,
+        "gene_name": "['hisG', 'Ethha_1441']"
+    },
+    "Ethha_1442": {
+        "accessions": "E6U7F6",
+        "entry_name": "E6U7F6_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-281)",
+        "mw": 44148.1774,
+        "gene_name": "['hisZ', 'Ethha_1442']"
+    },
+    "Ethha_1445": {
+        "accessions": "E6U7F9",
+        "entry_name": "E6U7F9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-282)",
+        "mw": 36177.1413,
+        "gene_name": "['msrB', 'msrA', 'Ethha_1445']"
+    },
+    "Ethha_1446": {
+        "accessions": "E6U7G0",
+        "entry_name": "E6U7G0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-283)",
+        "mw": 29597.6032,
+        "gene_name": "['Ethha_1446']"
+    },
+    "Ethha_1449": {
+        "accessions": "E6U7G3",
+        "entry_name": "E6U7G3_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-284)",
+        "mw": 34711.7962,
+        "gene_name": "['Ethha_1449']"
+    },
+    "Ethha_1453": {
+        "accessions": "E6U7G7",
+        "entry_name": "E6U7G7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-285)",
+        "mw": 50298.6927,
+        "gene_name": "['Ethha_1453']"
+    },
+    "Ethha_1458": {
+        "accessions": "E6U7H2",
+        "entry_name": "E6U7H2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-286)",
+        "mw": 72684.7456,
+        "gene_name": "['ispH', 'Ethha_1458']"
+    },
+    "Ethha_1459": {
+        "accessions": "E6U7H3",
+        "entry_name": "E6U7H3_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-287)",
+        "mw": 22151.7682,
+        "gene_name": "['Ethha_1459']"
+    },
+    "Ethha_1460": {
+        "accessions": "E6U7H4",
+        "entry_name": "E6U7H4_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-288)",
+        "mw": 23955.2261,
+        "gene_name": "['cmk', 'Ethha_1460']"
+    },
+    "Ethha_1466": {
+        "accessions": "E6U7I0",
+        "entry_name": "E6U7I0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-289)",
+        "mw": 16903.2791,
+        "gene_name": "['Ethha_1466']"
+    },
+    "Ethha_1469": {
+        "accessions": "E6U7I3",
+        "entry_name": "E6U7I3_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-290)",
+        "mw": 20928.238,
+        "gene_name": "['Ethha_1469']"
+    },
+    "Ethha_1471": {
+        "accessions": "E6U7I5",
+        "entry_name": "E6U7I5_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-291)",
+        "mw": 30310.6344,
+        "gene_name": "['Ethha_1471']"
+    },
+    "Ethha_1473": {
+        "accessions": "E6U7I7",
+        "entry_name": "E6U7I7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-292)",
+        "mw": 24296.3683,
+        "gene_name": "['Ethha_1473']"
+    },
+    "Ethha_1475": {
+        "accessions": "E6U7I9",
+        "entry_name": "E6U7I9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-293)",
+        "mw": 26561.6973,
+        "gene_name": "['Ethha_1475']"
+    },
+    "Ethha_1477": {
+        "accessions": "E6U7J1",
+        "entry_name": "E6U7J1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-294)",
+        "mw": 17012.1643,
+        "gene_name": "['Ethha_1477']"
+    },
+    "Ethha_1481": {
+        "accessions": "E6U7J5",
+        "entry_name": "E6U7J5_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-295)",
+        "mw": 24017.7931,
+        "gene_name": "['Ethha_1481']"
+    },
+    "Ethha_1482": {
+        "accessions": "E6U7J6",
+        "entry_name": "E6U7J6_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-296)",
+        "mw": 30773.5129,
+        "gene_name": "['Ethha_1482']"
+    },
+    "Ethha_1484": {
+        "accessions": "E6U7J8",
+        "entry_name": "E6U7J8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-297)",
+        "mw": 62481.4103,
+        "gene_name": "['Ethha_1484']"
+    },
+    "Ethha_1485": {
+        "accessions": "E6U7J9",
+        "entry_name": "E6U7J9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-298)",
+        "mw": 9997.3685,
+        "gene_name": "['Ethha_1485']"
+    },
+    "Ethha_1486": {
+        "accessions": "E6U7K0",
+        "entry_name": "E6U7K0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-299)",
+        "mw": 33339.7552,
+        "gene_name": "['Ethha_1486']"
+    },
+    "Ethha_1490": {
+        "accessions": "E6U7K4",
+        "entry_name": "E6U7K4_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-300)",
+        "mw": 45689.9886,
+        "gene_name": "['Ethha_1490']"
+    },
+    "Ethha_1496": {
+        "accessions": "E6U7L0",
+        "entry_name": "E6U7L0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-301)",
+        "mw": 27508.304,
+        "gene_name": "['thiG', 'Ethha_1496']"
+    },
+    "Ethha_1497": {
+        "accessions": "E6U7L1",
+        "entry_name": "E6U7L1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-302)",
+        "mw": 41697.2338,
+        "gene_name": "['Ethha_1497']"
+    },
+    "Ethha_1498": {
+        "accessions": "E6U7L2",
+        "entry_name": "E6U7L2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-303)",
+        "mw": 23800.2939,
+        "gene_name": "['thiE', 'Ethha_1498']"
+    },
+    "Ethha_1502": {
+        "accessions": "E6U7L6",
+        "entry_name": "E6U7L6_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-304)",
+        "mw": 21236.3011,
+        "gene_name": "['Ethha_1502']"
+    },
+    "Ethha_1503": {
+        "accessions": "E6U7L7",
+        "entry_name": "E6U7L7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-305)",
+        "mw": 36007.4642,
+        "gene_name": "['Ethha_1503']"
+    },
+    "Ethha_1510": {
+        "accessions": "E6U7M3",
+        "entry_name": "E6U7M3_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-306)",
+        "mw": 14465.4345,
+        "gene_name": "['Ethha_1510']"
+    },
+    "Ethha_1521": {
+        "accessions": "E6U838",
+        "entry_name": "E6U838_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-307)",
+        "mw": 39178.264,
+        "gene_name": "['Ethha_1521']"
+    },
+    "Ethha_1531": {
+        "accessions": "E6U848",
+        "entry_name": "E6U848_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-308)",
+        "mw": 39881.3353,
+        "gene_name": "['pyrB', 'Ethha_1531']"
+    },
+    "Ethha_1535": {
+        "accessions": "E6U852",
+        "entry_name": "E6U852_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-309)",
+        "mw": 26559.6054,
+        "gene_name": "['Ethha_1535']"
+    },
+    "Ethha_1537": {
+        "accessions": "E6U854",
+        "entry_name": "E6U854_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-310)",
+        "mw": 38601.2179,
+        "gene_name": "['Ethha_1537']"
+    },
+    "Ethha_1538": {
+        "accessions": "E6U855",
+        "entry_name": "E6U855_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-311)",
+        "mw": 20652.3088,
+        "gene_name": "['Ethha_1538']"
+    },
+    "Ethha_1539": {
+        "accessions": "E6U856",
+        "entry_name": "E6U856_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-312)",
+        "mw": 30610.2982,
+        "gene_name": "['Ethha_1539']"
+    },
+    "Ethha_1541": {
+        "accessions": "E6U858",
+        "entry_name": "E6U858_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-313)",
+        "mw": 31299.6853,
+        "gene_name": "['Ethha_1541']"
+    },
+    "Ethha_1547": {
+        "accessions": "E6U864",
+        "entry_name": "E6U864_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-314)",
+        "mw": 42119.704,
+        "gene_name": "['pgk', 'Ethha_1547']"
+    },
+    "Ethha_1548": {
+        "accessions": "E6U865",
+        "entry_name": "E6U865_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-315)",
+        "mw": 26493.9224,
+        "gene_name": "['tpiA', 'Ethha_1548']"
+    },
+    "Ethha_1549": {
+        "accessions": "E6U866",
+        "entry_name": "E6U866_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-316)",
+        "mw": 54366.996,
+        "gene_name": "['gpmI', 'Ethha_1549']"
+    },
+    "Ethha_1558": {
+        "accessions": "E6U875",
+        "entry_name": "E6U875_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-317)",
+        "mw": 30402.2994,
+        "gene_name": "['Ethha_1558']"
+    },
+    "Ethha_1559": {
+        "accessions": "E6U876",
+        "entry_name": "E6U876_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-318)",
+        "mw": 34968.7452,
+        "gene_name": "['Ethha_1559']"
+    },
+    "Ethha_1563": {
+        "accessions": "E6U880",
+        "entry_name": "E6U880_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-319)",
+        "mw": 50447.3135,
+        "gene_name": "['Ethha_1563']"
+    },
+    "Ethha_1564": {
+        "accessions": "E6U881",
+        "entry_name": "E6U881_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-320)",
+        "mw": 59405.9011,
+        "gene_name": "['Ethha_1564']"
+    },
+    "Ethha_1567": {
+        "accessions": "E6U884",
+        "entry_name": "E6U884_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-321)",
+        "mw": 29735.9399,
+        "gene_name": "['nifH', 'Ethha_1567']"
+    },
+    "Ethha_1570": {
+        "accessions": "E6U887",
+        "entry_name": "E6U887_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-322)",
+        "mw": 36295.2308,
+        "gene_name": "['Ethha_1570']"
+    },
+    "Ethha_1577": {
+        "accessions": "E6U894",
+        "entry_name": "E6U894_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-323)",
+        "mw": 13795.4076,
+        "gene_name": "['Ethha_1577']"
+    },
+    "Ethha_1604": {
+        "accessions": "E6U8Q4",
+        "entry_name": "E6U8Q4_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-324)",
+        "mw": 16836.9679,
+        "gene_name": "['ureE', 'Ethha_1604']"
+    },
+    "Ethha_1608": {
+        "accessions": "E6U8Q8",
+        "entry_name": "E6U8Q8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-325)",
+        "mw": 43273.3603,
+        "gene_name": "['Ethha_1608']"
+    },
+    "Ethha_1611": {
+        "accessions": "E6U8R1",
+        "entry_name": "E6U8R1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-326)",
+        "mw": 32567.634,
+        "gene_name": "['Ethha_1611']"
+    },
+    "Ethha_1613": {
+        "accessions": "E6U8R3",
+        "entry_name": "E6U8R3_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-327)",
+        "mw": 36441.319,
+        "gene_name": "['speD', 'Ethha_1613']"
+    },
+    "Ethha_1617": {
+        "accessions": "E6U8R7",
+        "entry_name": "E6U8R7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-328)",
+        "mw": 38213.9798,
+        "gene_name": "['ispG', 'Ethha_1617']"
+    },
+    "Ethha_1619": {
+        "accessions": "E6U8R9",
+        "entry_name": "E6U8R9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-329)",
+        "mw": 41899.735,
+        "gene_name": "['dxr', 'Ethha_1619']"
+    },
+    "Ethha_1620": {
+        "accessions": "E6U8S0",
+        "entry_name": "E6U8S0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-330)",
+        "mw": 31518.5888,
+        "gene_name": "['Ethha_1620']"
+    },
+    "Ethha_1621": {
+        "accessions": "E6U8S1",
+        "entry_name": "E6U8S1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-331)",
+        "mw": 27692.0873,
+        "gene_name": "['Ethha_1621']"
+    },
+    "Ethha_1622": {
+        "accessions": "E6U8S2",
+        "entry_name": "E6U8S2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-332)",
+        "mw": 20549.2757,
+        "gene_name": "['frr', 'Ethha_1622']"
+    },
+    "Ethha_1623": {
+        "accessions": "E6U8S3",
+        "entry_name": "E6U8S3_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-333)",
+        "mw": 26169.7534,
+        "gene_name": "['pyrH', 'Ethha_1623']"
+    },
+    "Ethha_1628": {
+        "accessions": "E6U8S8",
+        "entry_name": "E6U8S8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-334)",
+        "mw": 27206.1796,
+        "gene_name": "['Ethha_1628']"
+    },
+    "Ethha_1630": {
+        "accessions": "E6U8T0",
+        "entry_name": "E6U8T0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-335)",
+        "mw": 54301.234,
+        "gene_name": "['Ethha_1630']"
+    },
+    "Ethha_1642": {
+        "accessions": "E6U8U2",
+        "entry_name": "E6U8U2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-336)",
+        "mw": 46938.177,
+        "gene_name": "['cinA', 'Ethha_1642']"
+    },
+    "Ethha_1645": {
+        "accessions": "E6U8U5",
+        "entry_name": "E6U8U5_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-337)",
+        "mw": 59892.8313,
+        "gene_name": "['pyrG', 'Ethha_1645']"
+    },
+    "Ethha_1649": {
+        "accessions": "E6U8U9",
+        "entry_name": "E6U8U9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-338)",
+        "mw": 30106.6758,
+        "gene_name": "['folD', 'Ethha_1649']"
+    },
+    "Ethha_1657": {
+        "accessions": "E6U8V7",
+        "entry_name": "E6U8V7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-339)",
+        "mw": 84025.8611,
+        "gene_name": "['Ethha_1657']"
+    },
+    "Ethha_1704": {
+        "accessions": "E6U972",
+        "entry_name": "E6U972_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-340)",
+        "mw": 56443.8853,
+        "gene_name": "['guaA', 'Ethha_1704']"
+    },
+    "Ethha_1706": {
+        "accessions": "E6U974",
+        "entry_name": "E6U974_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-341)",
+        "mw": 58470.8198,
+        "gene_name": "['fhs', 'Ethha_1706']"
+    },
+    "Ethha_1709": {
+        "accessions": "E6U977",
+        "entry_name": "E6U977_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-342)",
+        "mw": 16027.182,
+        "gene_name": "['Ethha_1709']"
+    },
+    "Ethha_1710": {
+        "accessions": "E6U978",
+        "entry_name": "E6U978_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-343)",
+        "mw": 23089.8496,
+        "gene_name": "['upp', 'Ethha_1710']"
+    },
+    "Ethha_1716": {
+        "accessions": "E6U984",
+        "entry_name": "E6U984_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-344)",
+        "mw": 30333.1137,
+        "gene_name": "['Ethha_1716']"
+    },
+    "Ethha_1717": {
+        "accessions": "E6U985",
+        "entry_name": "E6U985_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-345)",
+        "mw": 25300.8836,
+        "gene_name": "['Ethha_1717']"
+    },
+    "Ethha_1722": {
+        "accessions": "E6U990",
+        "entry_name": "E6U990_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-346)",
+        "mw": 32535.6945,
+        "gene_name": "['Ethha_1722']"
+    },
+    "Ethha_1723": {
+        "accessions": "E6U991",
+        "entry_name": "E6U991_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-347)",
+        "mw": 53553.0483,
+        "gene_name": "['Ethha_1723']"
+    },
+    "Ethha_1724": {
+        "accessions": "E6U992",
+        "entry_name": "E6U992_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-348)",
+        "mw": 42671.2829,
+        "gene_name": "['Ethha_1724']"
+    },
+    "Ethha_1725": {
+        "accessions": "E6U993",
+        "entry_name": "E6U993_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-349)",
+        "mw": 44232.1326,
+        "gene_name": "['Ethha_1725']"
+    },
+    "Ethha_1726": {
+        "accessions": "E6U994",
+        "entry_name": "E6U994_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-350)",
+        "mw": 39902.1719,
+        "gene_name": "['Ethha_1726']"
+    },
+    "Ethha_1727": {
+        "accessions": "E6U995",
+        "entry_name": "E6U995_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-351)",
+        "mw": 25690.2899,
+        "gene_name": "['Ethha_1727']"
+    },
+    "Ethha_1728": {
+        "accessions": "E6U996",
+        "entry_name": "E6U996_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-352)",
+        "mw": 38165.926,
+        "gene_name": "['Ethha_1728']"
+    },
+    "Ethha_1729": {
+        "accessions": "E6U997",
+        "entry_name": "E6U997_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-353)",
+        "mw": 44525.9756,
+        "gene_name": "['Ethha_1729']"
+    },
+    "Ethha_1730": {
+        "accessions": "E6U998",
+        "entry_name": "E6U998_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-354)",
+        "mw": 30701.8229,
+        "gene_name": "['Ethha_1730']"
+    },
+    "Ethha_1736": {
+        "accessions": "E6U9A4",
+        "entry_name": "E6U9A4_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-355)",
+        "mw": 38787.7185,
+        "gene_name": "['Ethha_1736']"
+    },
+    "Ethha_1745": {
+        "accessions": "E6U9B2",
+        "entry_name": "E6U9B2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-356)",
+        "mw": 55586.1415,
+        "gene_name": "['hcp', 'Ethha_1745']"
+    },
+    "Ethha_1755": {
+        "accessions": "E6U9J5",
+        "entry_name": "E6U9J5_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-357)",
+        "mw": 21231.1401,
+        "gene_name": "['kdpC', 'Ethha_1755']"
+    },
+    "Ethha_1756": {
+        "accessions": "E6U9J6",
+        "entry_name": "E6U9J6_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-358)",
+        "mw": 72575.4275,
+        "gene_name": "['kdpB', 'Ethha_1756']"
+    },
+    "Ethha_1757": {
+        "accessions": "E6U9J7",
+        "entry_name": "E6U9J7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-359)",
+        "mw": 43805.3243,
+        "gene_name": "['Ethha_1757']"
+    },
+    "Ethha_1782": {
+        "accessions": "E6U9M1",
+        "entry_name": "E6U9M1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-360)",
+        "mw": 81603.2059,
+        "gene_name": "['Ethha_1782']"
+    },
+    "Ethha_1786": {
+        "accessions": "E6U9M5",
+        "entry_name": "E6U9M5_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-361)",
+        "mw": 46413.27,
+        "gene_name": "['Ethha_1786']"
+    },
+    "Ethha_1787": {
+        "accessions": "E6U9M6",
+        "entry_name": "E6U9M6_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-362)",
+        "mw": 37491.1378,
+        "gene_name": "['Ethha_1787']"
+    },
+    "Ethha_1788": {
+        "accessions": "E6U9M7",
+        "entry_name": "E6U9M7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-363)",
+        "mw": 56259.4578,
+        "gene_name": "['Ethha_1788']"
+    },
+    "Ethha_1907": {
+        "accessions": "E6UA68",
+        "entry_name": "E6UA68_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-364)",
+        "mw": 17830.8762,
+        "gene_name": "['Ethha_1907']"
+    },
+    "Ethha_1925": {
+        "accessions": "E6U2Q5",
+        "entry_name": "E6U2Q5_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-365)",
+        "mw": 28396.6723,
+        "gene_name": "['uppP', 'Ethha_1925']"
+    },
+    "Ethha_1934": {
+        "accessions": "E6U2R1",
+        "entry_name": "E6U2R1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-366)",
+        "mw": 59181.5069,
+        "gene_name": "['hcp', 'Ethha_1934']"
+    },
+    "Ethha_1956": {
+        "accessions": "E6U2T2",
+        "entry_name": "E6U2T2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-367)",
+        "mw": 69573.6653,
+        "gene_name": "['nadE', 'Ethha_1956']"
+    },
+    "Ethha_1961": {
+        "accessions": "E6U2T7",
+        "entry_name": "E6U2T7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-368)",
+        "mw": 13745.6425,
+        "gene_name": "['acpS', 'Ethha_1961']"
+    },
+    "Ethha_1964": {
+        "accessions": "E6U2U0",
+        "entry_name": "E6U2U0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-369)",
+        "mw": 18685.5198,
+        "gene_name": "['Ethha_1964']"
+    },
+    "Ethha_1966": {
+        "accessions": "E6U2U2",
+        "entry_name": "E6U2U2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-370)",
+        "mw": 72261.9442,
+        "gene_name": "['fbp', 'Ethha_1966']"
+    },
+    "Ethha_1973": {
+        "accessions": "E6U2U9",
+        "entry_name": "E6U2U9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-371)",
+        "mw": 45288.1455,
+        "gene_name": "['purA', 'Ethha_1973']"
+    },
+    "Ethha_1977": {
+        "accessions": "E6U2V3",
+        "entry_name": "E6U2V3_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-372)",
+        "mw": 19647.4776,
+        "gene_name": "['Ethha_1977']"
+    },
+    "Ethha_1993": {
+        "accessions": "E6U339",
+        "entry_name": "E6U339_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-373)",
+        "mw": 44124.9209,
+        "gene_name": "['glgC', 'Ethha_1993']"
+    },
+    "Ethha_1994": {
+        "accessions": "E6U340",
+        "entry_name": "E6U340_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-374)",
+        "mw": 40944.559,
+        "gene_name": "['Ethha_1994']"
+    },
+    "Ethha_1995": {
+        "accessions": "E6U341",
+        "entry_name": "E6U341_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-375)",
+        "mw": 53713.5631,
+        "gene_name": "['glgA', 'Ethha_1995']"
+    },
+    "Ethha_2001": {
+        "accessions": "E6U347",
+        "entry_name": "E6U347_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-376)",
+        "mw": 71245.7029,
+        "gene_name": "['Ethha_2001']"
+    },
+    "Ethha_2002": {
+        "accessions": "E6U348",
+        "entry_name": "E6U348_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-377)",
+        "mw": 34811.839,
+        "gene_name": "['Ethha_2002']"
+    },
+    "Ethha_2004": {
+        "accessions": "E6U350",
+        "entry_name": "E6U350_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-378)",
+        "mw": 43282.875,
+        "gene_name": "['ackA', 'Ethha_2004']"
+    },
+    "Ethha_2007": {
+        "accessions": "E6U353",
+        "entry_name": "E6U353_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-379)",
+        "mw": 30459.5707,
+        "gene_name": "['Ethha_2007']"
+    },
+    "Ethha_2011": {
+        "accessions": "E6U357",
+        "entry_name": "E6U357_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-380)",
+        "mw": 30227.8623,
+        "gene_name": "['Ethha_2011']"
+    },
+    "Ethha_2036": {
+        "accessions": "E6U381",
+        "entry_name": "E6U381_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-381)",
+        "mw": 36215.2523,
+        "gene_name": "['Ethha_2036']"
+    },
+    "Ethha_2040": {
+        "accessions": "E6U385",
+        "entry_name": "E6U385_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-382)",
+        "mw": 30469.0732,
+        "gene_name": "['Ethha_2040']"
+    },
+    "Ethha_2047": {
+        "accessions": "E6U392",
+        "entry_name": "E6U392_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-383)",
+        "mw": 26537.9413,
+        "gene_name": "['Ethha_2047']"
+    },
+    "Ethha_2051": {
+        "accessions": "E6U396",
+        "entry_name": "E6U396_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-384)",
+        "mw": 44074.7438,
+        "gene_name": "['murA', 'Ethha_2051']"
+    },
+    "Ethha_2053": {
+        "accessions": "E6U398",
+        "entry_name": "E6U398_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-385)",
+        "mw": 36400.6488,
+        "gene_name": "['mraY', 'Ethha_2053']"
+    },
+    "Ethha_2054": {
+        "accessions": "E6U399",
+        "entry_name": "E6U399_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-386)",
+        "mw": 49018.2541,
+        "gene_name": "['murF', 'Ethha_2054']"
+    },
+    "Ethha_2055": {
+        "accessions": "E6U3A0",
+        "entry_name": "E6U3A0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-387)",
+        "mw": 52427.5341,
+        "gene_name": "['murE', 'Ethha_2055']"
+    },
+    "Ethha_2061": {
+        "accessions": "E6U3A6",
+        "entry_name": "E6U3A6_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-388)",
+        "mw": 18624.1974,
+        "gene_name": "['coaD', 'Ethha_2061']"
+    },
+    "Ethha_2082": {
+        "accessions": "E6U3J9",
+        "entry_name": "E6U3J9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-389)",
+        "mw": 34274.1753,
+        "gene_name": "['prs', 'Ethha_2082']"
+    },
+    "Ethha_2083": {
+        "accessions": "E6U3K0",
+        "entry_name": "E6U3K0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-390)",
+        "mw": 49149.7964,
+        "gene_name": "['glmU', 'Ethha_2083']"
+    },
+    "Ethha_2090": {
+        "accessions": "E6U3K7",
+        "entry_name": "E6U3K7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-391)",
+        "mw": 19614.3662,
+        "gene_name": "['Ethha_2090']"
+    },
+    "Ethha_2097": {
+        "accessions": "E6U3L4",
+        "entry_name": "E6U3L4_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-392)",
+        "mw": 17231.2069,
+        "gene_name": "['Ethha_2097']"
+    },
+    "Ethha_2102": {
+        "accessions": "E6U3L9",
+        "entry_name": "E6U3L9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-393)",
+        "mw": 20970.079,
+        "gene_name": "['folE', 'Ethha_2102']"
+    },
+    "Ethha_2103": {
+        "accessions": "E6U3M0",
+        "entry_name": "E6U3M0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-394)",
+        "mw": 43214.1362,
+        "gene_name": "['Ethha_2103']"
+    },
+    "Ethha_2104": {
+        "accessions": "E6U3M1",
+        "entry_name": "E6U3M1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-395)",
+        "mw": 13644.6414,
+        "gene_name": "['Ethha_2104']"
+    },
+    "Ethha_2105": {
+        "accessions": "E6U3M2",
+        "entry_name": "E6U3M2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-396)",
+        "mw": 18662.3424,
+        "gene_name": "['Ethha_2105']"
+    },
+    "Ethha_2108": {
+        "accessions": "E6U3M5",
+        "entry_name": "E6U3M5_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-397)",
+        "mw": 23763.1149,
+        "gene_name": "['Ethha_2108']"
+    },
+    "Ethha_2109": {
+        "accessions": "E6U3M6",
+        "entry_name": "E6U3M6_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-398)",
+        "mw": 33588.0666,
+        "gene_name": "['rsgA', 'Ethha_2109']"
+    },
+    "Ethha_2118": {
+        "accessions": "E6U3N5",
+        "entry_name": "E6U3N5_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-399)",
+        "mw": 22278.8922,
+        "gene_name": "['gmk', 'Ethha_2118']"
+    },
+    "Ethha_2122": {
+        "accessions": "E6U3N9",
+        "entry_name": "E6U3N9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-400)",
+        "mw": 40982.526,
+        "gene_name": "['Ethha_2122']"
+    },
+    "Ethha_2140": {
+        "accessions": "E6U3X7",
+        "entry_name": "E6U3X7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-401)",
+        "mw": 86287.6334,
+        "gene_name": "['metE', 'Ethha_2140']"
+    },
+    "Ethha_2148": {
+        "accessions": "E6U3Y5",
+        "entry_name": "E6U3Y5_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-402)",
+        "mw": 55584.1026,
+        "gene_name": "['Ethha_2148']"
+    },
+    "Ethha_2161": {
+        "accessions": "E6U3Z8",
+        "entry_name": "E6U3Z8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-403)",
+        "mw": 27063.8142,
+        "gene_name": "['Ethha_2161']"
+    },
+    "Ethha_2173": {
+        "accessions": "E6U410",
+        "entry_name": "E6U410_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-404)",
+        "mw": 46895.3223,
+        "gene_name": "['Ethha_2173']"
+    },
+    "Ethha_2174": {
+        "accessions": "E6U411",
+        "entry_name": "E6U411_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-405)",
+        "mw": 39639.3048,
+        "gene_name": "['Ethha_2174']"
+    },
+    "Ethha_2178": {
+        "accessions": "E6U415",
+        "entry_name": "E6U415_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-406)",
+        "mw": 93002.7445,
+        "gene_name": "['Ethha_2178']"
+    },
+    "Ethha_2180": {
+        "accessions": "E6U417",
+        "entry_name": "E6U417_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-407)",
+        "mw": 27207.1966,
+        "gene_name": "['coaX', 'Ethha_2180']"
+    },
+    "Ethha_2189": {
+        "accessions": "E6U426",
+        "entry_name": "E6U426_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-408)",
+        "mw": 31797.7891,
+        "gene_name": "['Ethha_2189']"
+    },
+    "Ethha_2193": {
+        "accessions": "E6U430",
+        "entry_name": "E6U430_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-409)",
+        "mw": 31733.5063,
+        "gene_name": "['Ethha_2193']"
+    },
+    "Ethha_2198": {
+        "accessions": "E6U435",
+        "entry_name": "E6U435_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-410)",
+        "mw": 44544.9378,
+        "gene_name": "['Ethha_2198']"
+    },
+    "Ethha_2204": {
+        "accessions": "E6U4B4",
+        "entry_name": "E6U4B4_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-411)",
+        "mw": 44665.6693,
+        "gene_name": "['Ethha_2204']"
+    },
+    "Ethha_2216": {
+        "accessions": "E6U4C4",
+        "entry_name": "E6U4C4_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-412)",
+        "mw": 23978.5074,
+        "gene_name": "['Ethha_2216']"
+    },
+    "Ethha_2222": {
+        "accessions": "E6U4D0",
+        "entry_name": "E6U4D0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-413)",
+        "mw": 40655.2275,
+        "gene_name": "['Ethha_2222']"
+    },
+    "Ethha_2242": {
+        "accessions": "E6U4E9",
+        "entry_name": "E6U4E9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-414)",
+        "mw": 34230.2029,
+        "gene_name": "['Ethha_2242']"
+    },
+    "Ethha_2246": {
+        "accessions": "E6U4F3",
+        "entry_name": "E6U4F3_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-415)",
+        "mw": 40146.5918,
+        "gene_name": "['hisC', 'Ethha_2246']"
+    },
+    "Ethha_2248": {
+        "accessions": "E6U4F5",
+        "entry_name": "E6U4F5_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-416)",
+        "mw": 32011.6433,
+        "gene_name": "['Ethha_2248']"
+    },
+    "Ethha_2251": {
+        "accessions": "E6U4F8",
+        "entry_name": "E6U4F8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-417)",
+        "mw": 36037.6432,
+        "gene_name": "['Ethha_2251']"
+    },
+    "Ethha_2261": {
+        "accessions": "E6U4G8",
+        "entry_name": "E6U4G8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-418)",
+        "mw": 41362.2312,
+        "gene_name": "['Ethha_2261']"
+    },
+    "Ethha_2281": {
+        "accessions": "E6U4Q9",
+        "entry_name": "E6U4Q9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-419)",
+        "mw": 19510.9081,
+        "gene_name": "['Ethha_2281']"
+    },
+    "Ethha_2288": {
+        "accessions": "E6U4R6",
+        "entry_name": "E6U4R6_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-420)",
+        "mw": 81849.6528,
+        "gene_name": "['Ethha_2288']"
+    },
+    "Ethha_2294": {
+        "accessions": "E6U4S2",
+        "entry_name": "E6U4S2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-421)",
+        "mw": 66181.3001,
+        "gene_name": "['Ethha_2294']"
+    },
+    "Ethha_2299": {
+        "accessions": "E6U4S6",
+        "entry_name": "E6U4S6_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-422)",
+        "mw": 83091.6785,
+        "gene_name": "['Ethha_2299']"
+    },
+    "Ethha_2301": {
+        "accessions": "E6U4S8",
+        "entry_name": "E6U4S8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-423)",
+        "mw": 44426.0618,
+        "gene_name": "['Ethha_2301']"
+    },
+    "Ethha_2302": {
+        "accessions": "E6U4S9",
+        "entry_name": "E6U4S9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-424)",
+        "mw": 16292.7211,
+        "gene_name": "['Ethha_2302']"
+    },
+    "Ethha_2307": {
+        "accessions": "E6U4T4",
+        "entry_name": "E6U4T4_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-425)",
+        "mw": 38538.9547,
+        "gene_name": "['Ethha_2307']"
+    },
+    "Ethha_2309": {
+        "accessions": "E6U4T6",
+        "entry_name": "E6U4T6_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-426)",
+        "mw": 30133.2332,
+        "gene_name": "['nifH', 'Ethha_2309']"
+    },
+    "Ethha_2312": {
+        "accessions": "E6U4T9",
+        "entry_name": "E6U4T9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-427)",
+        "mw": 52346.3964,
+        "gene_name": "['Ethha_2312']"
+    },
+    "Ethha_2313": {
+        "accessions": "E6U4U0",
+        "entry_name": "E6U4U0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-428)",
+        "mw": 13368.9228,
+        "gene_name": "['Ethha_2313']"
+    },
+    "Ethha_2314": {
+        "accessions": "E6U4U1",
+        "entry_name": "E6U4U1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-429)",
+        "mw": 50780.7016,
+        "gene_name": "['Ethha_2314']"
+    },
+    "Ethha_2319": {
+        "accessions": "E6U4U6",
+        "entry_name": "E6U4U6_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-430)",
+        "mw": 39068.7303,
+        "gene_name": "['Ethha_2319']"
+    },
+    "Ethha_2320": {
+        "accessions": "E6U4U7",
+        "entry_name": "E6U4U7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-431)",
+        "mw": 29951.0909,
+        "gene_name": "['Ethha_2320']"
+    },
+    "Ethha_2331": {
+        "accessions": "E6U4V7",
+        "entry_name": "E6U4V7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-432)",
+        "mw": 33550.6796,
+        "gene_name": "['Ethha_2331']"
+    },
+    "Ethha_2332": {
+        "accessions": "E6U4V8",
+        "entry_name": "E6U4V8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-433)",
+        "mw": 22768.1038,
+        "gene_name": "['Ethha_2332']"
+    },
+    "Ethha_2333": {
+        "accessions": "E6U4V9",
+        "entry_name": "E6U4V9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-434)",
+        "mw": 25854.9119,
+        "gene_name": "['Ethha_2333']"
+    },
+    "Ethha_2334": {
+        "accessions": "E6U4W0",
+        "entry_name": "E6U4W0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-435)",
+        "mw": 28104.8472,
+        "gene_name": "['Ethha_2334']"
+    },
+    "Ethha_2335": {
+        "accessions": "E6U4W1",
+        "entry_name": "E6U4W1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-436)",
+        "mw": 39785.9585,
+        "gene_name": "['Ethha_2335']"
+    },
+    "Ethha_2336": {
+        "accessions": "E6U4W2",
+        "entry_name": "E6U4W2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-437)",
+        "mw": 30563.5291,
+        "gene_name": "['Ethha_2336']"
+    },
+    "Ethha_2337": {
+        "accessions": "E6U4W3",
+        "entry_name": "E6U4W3_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-438)",
+        "mw": 45383.97,
+        "gene_name": "['Ethha_2337']"
+    },
+    "Ethha_2356": {
+        "accessions": "E6U4X6",
+        "entry_name": "E6U4X6_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-439)",
+        "mw": 35480.1338,
+        "gene_name": "['fcl', 'Ethha_2356']"
+    },
+    "Ethha_2358": {
+        "accessions": "E6U4X8",
+        "entry_name": "E6U4X8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-440)",
+        "mw": 38806.5563,
+        "gene_name": "['gmd', 'Ethha_2358']"
+    },
+    "Ethha_2383": {
+        "accessions": "E6U569",
+        "entry_name": "E6U569_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-441)",
+        "mw": 30053.2771,
+        "gene_name": "['uppP', 'Ethha_2383']"
+    },
+    "Ethha_2384": {
+        "accessions": "E6U570",
+        "entry_name": "E6U570_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-442)",
+        "mw": 33153.8001,
+        "gene_name": "['nadA', 'Ethha_2384']"
+    },
+    "Ethha_2397": {
+        "accessions": "E6U583",
+        "entry_name": "E6U583_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-443)",
+        "mw": 49002.603,
+        "gene_name": "['Ethha_2397']"
+    },
+    "Ethha_2399": {
+        "accessions": "E6U585",
+        "entry_name": "E6U585_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-444)",
+        "mw": 35372.3759,
+        "gene_name": "['Ethha_2399']"
+    },
+    "Ethha_2400": {
+        "accessions": "E6U586",
+        "entry_name": "E6U586_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-445)",
+        "mw": 41198.2806,
+        "gene_name": "['Ethha_2400']"
+    },
+    "Ethha_2411": {
+        "accessions": "E6U596",
+        "entry_name": "E6U596_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-446)",
+        "mw": 47397.6959,
+        "gene_name": "['Ethha_2411']"
+    },
+    "Ethha_2495": {
+        "accessions": "E6U5X1",
+        "entry_name": "E6U5X1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-447)",
+        "mw": 18915.3762,
+        "gene_name": "['Ethha_2495']"
+    },
+    "Ethha_2496": {
+        "accessions": "E6U5X2",
+        "entry_name": "E6U5X2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-448)",
+        "mw": 88436.0643,
+        "gene_name": "['Ethha_2496']"
+    },
+    "Ethha_2497": {
+        "accessions": "E6U5X3",
+        "entry_name": "E6U5X3_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-449)",
+        "mw": 24816.0859,
+        "gene_name": "['pyrE', 'Ethha_2497']"
+    },
+    "Ethha_2509": {
+        "accessions": "E6U5Y5",
+        "entry_name": "E6U5Y5_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-450)",
+        "mw": 48711.7943,
+        "gene_name": "['murC', 'Ethha_2509']"
+    },
+    "Ethha_2519": {
+        "accessions": "E6U6E2",
+        "entry_name": "E6U6E2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-451)",
+        "mw": 43917.5768,
+        "gene_name": "['Ethha_2519']"
+    },
+    "Ethha_2589": {
+        "accessions": "E6U712",
+        "entry_name": "E6U712_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-452)",
+        "mw": 87848.4899,
+        "gene_name": "['Ethha_2589']"
+    },
+    "Ethha_2590": {
+        "accessions": "E6U713",
+        "entry_name": "E6U713_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-453)",
+        "mw": 58648.983,
+        "gene_name": "['Ethha_2590']"
+    },
+    "Ethha_2604": {
+        "accessions": "E6U727",
+        "entry_name": "E6U727_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-454)",
+        "mw": 36780.5737,
+        "gene_name": "['Ethha_2604']"
+    },
+    "Ethha_2608": {
+        "accessions": "E6U731",
+        "entry_name": "E6U731_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-455)",
+        "mw": 61740.4492,
+        "gene_name": "['leuA', 'Ethha_2608']"
+    },
+    "Ethha_2610": {
+        "accessions": "E6U733",
+        "entry_name": "E6U733_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-456)",
+        "mw": 42872.9725,
+        "gene_name": "['Ethha_2610']"
+    },
+    "Ethha_2622": {
+        "accessions": "E6U745",
+        "entry_name": "E6U745_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-457)",
+        "mw": 33491.3901,
+        "gene_name": "['Ethha_2622']"
+    },
+    "Ethha_2643": {
+        "accessions": "E6U766",
+        "entry_name": "E6U766_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-458)",
+        "mw": 8726.6991,
+        "gene_name": "['acpP', 'Ethha_2643']"
+    },
+    "Ethha_2644": {
+        "accessions": "E6U767",
+        "entry_name": "E6U767_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-459)",
+        "mw": 29478.3358,
+        "gene_name": "['accA', 'Ethha_2644']"
+    },
+    "Ethha_2645": {
+        "accessions": "E6U768",
+        "entry_name": "E6U768_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-460)",
+        "mw": 31564.7865,
+        "gene_name": "['accD', 'Ethha_2645']"
+    },
+    "Ethha_2646": {
+        "accessions": "E6U769",
+        "entry_name": "E6U769_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-461)",
+        "mw": 50148.8014,
+        "gene_name": "['Ethha_2646']"
+    },
+    "Ethha_2647": {
+        "accessions": "E6U770",
+        "entry_name": "E6U770_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-462)",
+        "mw": 16026.5332,
+        "gene_name": "['Ethha_2647']"
+    },
+    "Ethha_2648": {
+        "accessions": "E6U771",
+        "entry_name": "E6U771_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-463)",
+        "mw": 15815.8865,
+        "gene_name": "['Ethha_2648']"
+    },
+    "Ethha_2649": {
+        "accessions": "E6U772",
+        "entry_name": "E6U772_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-464)",
+        "mw": 43139.3518,
+        "gene_name": "['Ethha_2649']"
+    },
+    "Ethha_2650": {
+        "accessions": "E6U773",
+        "entry_name": "E6U773_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-465)",
+        "mw": 25525.2873,
+        "gene_name": "['Ethha_2650']"
+    },
+    "Ethha_2651": {
+        "accessions": "E6U774",
+        "entry_name": "E6U774_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-466)",
+        "mw": 35742.3968,
+        "gene_name": "['fabH', 'Ethha_2651']"
+    },
+    "Ethha_2652": {
+        "accessions": "E6U775",
+        "entry_name": "E6U775_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-467)",
+        "mw": 31641.6318,
+        "gene_name": "['Ethha_2652']"
+    },
+    "Ethha_2653": {
+        "accessions": "E6U776",
+        "entry_name": "E6U776_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-468)",
+        "mw": 29910.9134,
+        "gene_name": "['aroE', 'Ethha_2653']"
+    },
+    "Ethha_2654": {
+        "accessions": "E6U777",
+        "entry_name": "E6U777_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-469)",
+        "mw": 19648.4951,
+        "gene_name": "['aroK', 'Ethha_2654']"
+    },
+    "Ethha_2656": {
+        "accessions": "E6U779",
+        "entry_name": "E6U779_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-470)",
+        "mw": 36617.7042,
+        "gene_name": "['Ethha_2656']"
+    },
+    "Ethha_2657": {
+        "accessions": "E6U780",
+        "entry_name": "E6U780_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-471)",
+        "mw": 29994.873,
+        "gene_name": "['Ethha_2657']"
+    },
+    "Ethha_2658": {
+        "accessions": "E6U781",
+        "entry_name": "E6U781_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-472)",
+        "mw": 37500.6559,
+        "gene_name": "['aroB', 'Ethha_2658']"
+    },
+    "Ethha_2659": {
+        "accessions": "E6U7M9",
+        "entry_name": "E6U7M9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-473)",
+        "mw": 44188.2461,
+        "gene_name": "['aroA', 'Ethha_2659']"
+    },
+    "Ethha_2660": {
+        "accessions": "E6U7N0",
+        "entry_name": "E6U7N0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-474)",
+        "mw": 38659.124,
+        "gene_name": "['aroC', 'Ethha_2660']"
+    },
+    "Ethha_2661": {
+        "accessions": "E6U7N1",
+        "entry_name": "E6U7N1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-475)",
+        "mw": 42294.9745,
+        "gene_name": "['Ethha_2661']"
+    },
+    "Ethha_2662": {
+        "accessions": "E6U7N2",
+        "entry_name": "E6U7N2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-476)",
+        "mw": 45915.4253,
+        "gene_name": "['eno', 'Ethha_2662']"
+    },
+    "Ethha_2667": {
+        "accessions": "E6U7N7",
+        "entry_name": "E6U7N7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-477)",
+        "mw": 27537.2105,
+        "gene_name": "['ureD', 'Ethha_2667']"
+    },
+    "Ethha_2668": {
+        "accessions": "E6U7N8",
+        "entry_name": "E6U7N8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-478)",
+        "mw": 21872.7948,
+        "gene_name": "['ureG', 'Ethha_2668']"
+    },
+    "Ethha_2669": {
+        "accessions": "E6U7N9",
+        "entry_name": "E6U7N9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-479)",
+        "mw": 23864.0773,
+        "gene_name": "['ureF', 'Ethha_2669']"
+    },
+    "Ethha_2670": {
+        "accessions": "E6U7P0",
+        "entry_name": "E6U7P0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-480)",
+        "mw": 60754.5307,
+        "gene_name": "['ureC', 'Ethha_2670']"
+    },
+    "Ethha_2671": {
+        "accessions": "E6U7P1",
+        "entry_name": "E6U7P1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-481)",
+        "mw": 13183.7435,
+        "gene_name": "['ureB', 'Ethha_2671']"
+    },
+    "Ethha_2672": {
+        "accessions": "E6U7P2",
+        "entry_name": "E6U7P2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-482)",
+        "mw": 11246.8874,
+        "gene_name": "['ureA', 'Ethha_2672']"
+    },
+    "Ethha_2675": {
+        "accessions": "E6U7P5",
+        "entry_name": "E6U7P5_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-483)",
+        "mw": 17126.5307,
+        "gene_name": "['Ethha_2675']"
+    },
+    "Ethha_2677": {
+        "accessions": "E6U7P7",
+        "entry_name": "E6U7P7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-484)",
+        "mw": 79788.8867,
+        "gene_name": "['ppk', 'Ethha_2677']"
+    },
+    "Ethha_2678": {
+        "accessions": "E6U7P8",
+        "entry_name": "E6U7P8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-485)",
+        "mw": 33236.0714,
+        "gene_name": "['Ethha_2678']"
+    },
+    "Ethha_2687": {
+        "accessions": "E6U7Q7",
+        "entry_name": "E6U7Q7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-486)",
+        "mw": 53615.9384,
+        "gene_name": "['Ethha_2687']"
+    },
+    "Ethha_2689": {
+        "accessions": "E6U7Q9",
+        "entry_name": "E6U7Q9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-487)",
+        "mw": 37721.9679,
+        "gene_name": "['Ethha_2689']"
+    },
+    "Ethha_2690": {
+        "accessions": "E6U7R0",
+        "entry_name": "E6U7R0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-488)",
+        "mw": 16680.9247,
+        "gene_name": "['Ethha_2690']"
+    },
+    "Ethha_2692": {
+        "accessions": "E6U7R2",
+        "entry_name": "E6U7R2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-489)",
+        "mw": 38571.7807,
+        "gene_name": "['hisC', 'Ethha_2692']"
+    },
+    "Ethha_2699": {
+        "accessions": "E6U7R9",
+        "entry_name": "E6U7R9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-490)",
+        "mw": 165024.7165,
+        "gene_name": "['Ethha_2699']"
+    },
+    "Ethha_2700": {
+        "accessions": "E6U7S0",
+        "entry_name": "E6U7S0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-491)",
+        "mw": 53598.5141,
+        "gene_name": "['Ethha_2700']"
+    },
+    "Ethha_2704": {
+        "accessions": "E6U7S4",
+        "entry_name": "E6U7S4_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-492)",
+        "mw": 45145.8885,
+        "gene_name": "['Ethha_2704']"
+    },
+    "Ethha_2705": {
+        "accessions": "E6U7S5",
+        "entry_name": "E6U7S5_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-493)",
+        "mw": 34306.0623,
+        "gene_name": "['ldh', 'Ethha_2705']"
+    },
+    "Ethha_2707": {
+        "accessions": "E6U7S7",
+        "entry_name": "E6U7S7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-494)",
+        "mw": 30513.7556,
+        "gene_name": "['Ethha_2707']"
+    },
+    "Ethha_2711": {
+        "accessions": "E6U7T1",
+        "entry_name": "E6U7T1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-495)",
+        "mw": 34902.0831,
+        "gene_name": "['Ethha_2711']"
+    },
+    "Ethha_2718": {
+        "accessions": "E6U7T8",
+        "entry_name": "E6U7T8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-496)",
+        "mw": 22227.1327,
+        "gene_name": "['coaE', 'Ethha_2718']"
+    },
+    "Ethha_2725": {
+        "accessions": "E6U7U5",
+        "entry_name": "E6U7U5_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-497)",
+        "mw": 74761.1785,
+        "gene_name": "['Ethha_2725']"
+    },
+    "Ethha_2728": {
+        "accessions": "E6U7U8",
+        "entry_name": "E6U7U8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-498)",
+        "mw": 25011.1277,
+        "gene_name": "['Ethha_2728']"
+    },
+    "Ethha_2729": {
+        "accessions": "E6U7U9",
+        "entry_name": "E6U7U9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-499)",
+        "mw": 15619.9012,
+        "gene_name": "['Ethha_2729']"
+    },
+    "Ethha_2731": {
+        "accessions": "E6U7V0",
+        "entry_name": "E6U7V0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-500)",
+        "mw": 45756.6873,
+        "gene_name": "['hemL', 'Ethha_2731']"
+    },
+    "Ethha_2732": {
+        "accessions": "E6U7V1",
+        "entry_name": "E6U7V1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-501)",
+        "mw": 22965.7164,
+        "gene_name": "['Ethha_2732']"
+    },
+    "Ethha_2733": {
+        "accessions": "E6U7V2",
+        "entry_name": "E6U7V2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-502)",
+        "mw": 127392.6304,
+        "gene_name": "['Ethha_2733']"
+    },
+    "Ethha_2738": {
+        "accessions": "E6U8B1",
+        "entry_name": "E6U8B1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-503)",
+        "mw": 62957.9304,
+        "gene_name": "['Ethha_2738']"
+    },
+    "Ethha_2751": {
+        "accessions": "E6U8C4",
+        "entry_name": "E6U8C4_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-504)",
+        "mw": 73917.609,
+        "gene_name": "['Ethha_2751']"
+    },
+    "Ethha_2752": {
+        "accessions": "E6U8C5",
+        "entry_name": "E6U8C5_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-505)",
+        "mw": 264014.081,
+        "gene_name": "['Ethha_2752']"
+    },
+    "Ethha_2754": {
+        "accessions": "E6U8C7",
+        "entry_name": "E6U8C7_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-506)",
+        "mw": 61321.1902,
+        "gene_name": "['Ethha_2754']"
+    },
+    "Ethha_2756": {
+        "accessions": "E6U8C9",
+        "entry_name": "E6U8C9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-507)",
+        "mw": 16008.0925,
+        "gene_name": "['Ethha_2756']"
+    },
+    "Ethha_2757": {
+        "accessions": "E6U8D0",
+        "entry_name": "E6U8D0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-508)",
+        "mw": 44577.5523,
+        "gene_name": "['mtlD', 'Ethha_2757']"
+    },
+    "Ethha_2758": {
+        "accessions": "E6U8D1",
+        "entry_name": "E6U8D1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-509)",
+        "mw": 9691.0264,
+        "gene_name": "['Ethha_2758']"
+    },
+    "Ethha_2765": {
+        "accessions": "E6U8D8",
+        "entry_name": "E6U8D8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-510)",
+        "mw": 43112.671,
+        "gene_name": "['Ethha_2765']"
+    },
+    "Ethha_2766": {
+        "accessions": "E6U8D9",
+        "entry_name": "E6U8D9_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-511)",
+        "mw": 32100.6527,
+        "gene_name": "['thrB', 'Ethha_2766']"
+    },
+    "Ethha_2767": {
+        "accessions": "E6U8E0",
+        "entry_name": "E6U8E0_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-512)",
+        "mw": 44779.9054,
+        "gene_name": "['Ethha_2767']"
+    },
+    "Ethha_2770": {
+        "accessions": "E6U8E3",
+        "entry_name": "E6U8E3_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-513)",
+        "mw": 23760.897,
+        "gene_name": "['Ethha_2770']"
+    },
+    "Ethha_2772": {
+        "accessions": "E6U8E5",
+        "entry_name": "E6U8E5_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-514)",
+        "mw": 20310.0175,
+        "gene_name": "['Ethha_2772']"
+    },
+    "Ethha_2775": {
+        "accessions": "E6U8E8",
+        "entry_name": "E6U8E8_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-515)",
+        "mw": 20032.7864,
+        "gene_name": "['dcd', 'Ethha_2775']"
+    },
+    "Ethha_2779": {
+        "accessions": "E6U8F2",
+        "entry_name": "E6U8F2_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-516)",
+        "mw": 34384.0723,
+        "gene_name": "['Ethha_2779']"
+    },
+    "Ethha_2788": {
+        "accessions": "E6U8G1",
+        "entry_name": "E6U8G1_ETHHY",
+        "organism": "Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-517)",
+        "mw": 27289.9038,
+        "gene_name": "['Ethha_2788']"
+    }
+}

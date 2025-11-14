@@ -1,0 +1,516 @@
+gene_id,accessions,entry_name,organism,mw,gene_name
+Ethha_0013,E6U5D7,E6U5D7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-3),20094.8039,"['pyrR', 'Ethha_0013']"
+Ethha_0014,E6U5D8,E6U5D8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-4),44760.4447,"['pyrC', 'Ethha_0014']"
+Ethha_0015,E6U5D9,E6U5D9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-5),32766.8857,"['pyrF', 'Ethha_0015']"
+Ethha_0016,E6U5E0,E6U5E0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-6),38949.4248,"['carA', 'Ethha_0016']"
+Ethha_0017,E6U5E1,E6U5E1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-7),116300.9875,"['carB', 'Ethha_0017']"
+Ethha_0018,E6U5E2,E6U5E2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-8),26956.004,['Ethha_0018']
+Ethha_0019,E6U5E3,E6U5E3_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-9),32186.7716,"['pyrD', 'Ethha_0019']"
+Ethha_0026,E6U5F0,E6U5F0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-10),36081.3284,['Ethha_0026']
+Ethha_0028,E6U5F2,E6U5F2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-11),27479.2195,['Ethha_0028']
+Ethha_0032,E6U5F6,E6U5F6_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-12),39822.2915,"['serC', 'Ethha_0032']"
+Ethha_0033,E6U5F7,E6U5F7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-13),40980.7893,['Ethha_0033']
+Ethha_0037,E6U5G1,E6U5G1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-14),22231.5307,"['rpe', 'Ethha_0037']"
+Ethha_0039,E6U5G3,E6U5G3_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-15),51853.2274,['Ethha_0039']
+Ethha_0040,E6U5G4,E6U5G4_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-16),29701.8902,['Ethha_0040']
+Ethha_0044,E6U5G8,E6U5G8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-17),20630.7441,['Ethha_0044']
+Ethha_0048,E6U5H2,E6U5H2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-18),49298.8234,['Ethha_0048']
+Ethha_0050,E6U5H4,E6U5H4_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-19),47668.6513,['Ethha_0050']
+Ethha_0066,E6U5I9,E6U5I9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-20),29725.0658,"['panB', 'Ethha_0066']"
+Ethha_0067,E6U5J0,E6U5J0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-21),32018.2363,"['panC', 'Ethha_0067']"
+Ethha_0126,E6U634,E6U634_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-22),11619.3185,['Ethha_0126']
+Ethha_0134,E6U642,E6U642_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-23),31505.9387,"['pdxS', 'Ethha_0134']"
+Ethha_0135,E6U643,E6U643_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-24),20708.8623,"['pdxT', 'Ethha_0135']"
+Ethha_0138,E6U646,E6U646_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-25),44068.7822,"['proA', 'Ethha_0138']"
+Ethha_0139,E6U647,E6U647_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-26),29163.1379,"['proB', 'Ethha_0139']"
+Ethha_0141,E6U649,E6U649_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-27),54901.6189,['Ethha_0141']
+Ethha_0143,E6U651,E6U651_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-28),32816.3355,['Ethha_0143']
+Ethha_0144,E6U652,E6U652_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-29),42043.6996,"['argD', 'Ethha_0144']"
+Ethha_0146,E6U654,E6U654_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-30),30582.1678,"['argB', 'Ethha_0146']"
+Ethha_0147,E6U655,E6U655_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-31),42578.196,"['argJ', 'Ethha_0147']"
+Ethha_0148,E6U656,E6U656_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-32),34777.3227,"['argC', 'Ethha_0148']"
+Ethha_0149,E6U657,E6U657_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-33),50583.273,"['argH', 'Ethha_0149']"
+Ethha_0150,E6U658,E6U658_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-34),45026.563,"['argG', 'Ethha_0150']"
+Ethha_0153,E6U661,E6U661_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-35),58584.7377,"['ilvD', 'Ethha_0153']"
+Ethha_0181,E6U6N5,E6U6N5_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-36),57301.058,['Ethha_0181']
+Ethha_0182,E6U6N6,E6U6N6_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-37),18856.5087,['Ethha_0182']
+Ethha_0183,E6U6N7,E6U6N7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-38),35895.7825,"['ilvC', 'Ethha_0183']"
+Ethha_0188 ,E6U6P2,E6U6P2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-39),17189.9709,"['purE', 'Ethha_0188']"
+Ethha_0189 ,E6U6P3,E6U6P3_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-40),26886.4265,"['purC', 'Ethha_0189']"
+Ethha_0190 ,E6U6P4,E6U6P4_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-41),54226.0296,"['purF', 'Ethha_0190']"
+Ethha_0191 ,E6U6P5,E6U6P5_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-42),36308.4838,"['purM', 'Ethha_0191']"
+Ethha_0192 ,E6U6P6,E6U6P6_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-43),22743.9066,"['purN', 'Ethha_0192']"
+Ethha_0193,E6U6P7,E6U6P7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-44),44078.2393,['Ethha_0193']
+Ethha_0196,E6U6Q0,E6U6Q0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-45),20145.7988,['Ethha_0196']
+Ethha_0197 ,E6U6Q1,E6U6Q1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-46),55589.0759,"['purH', 'Ethha_0197']"
+Ethha_0198 ,E6U6Q2,E6U6Q2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-47),44088.9668,"['purD', 'Ethha_0198']"
+Ethha_0200,E6U6Q4,E6U6Q4_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-48),25017.0731,['Ethha_0200']
+Ethha_0205,E6U6Q9,E6U6Q9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-49),53749.0157,['Ethha_0205']
+Ethha_0218,E6U6S2,E6U6S2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-50),38522.6475,['Ethha_0218']
+Ethha_0219 ,E6U6S3,E6U6S3_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-51),15754.9538,"['aroQ', 'Ethha_0219']"
+Ethha_0231,E6U783,E6U783_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-52),21584.7523,['Ethha_0231']
+Ethha_0232,E6U784,E6U784_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-53),28214.8718,['Ethha_0232']
+Ethha_0233,E6U785,E6U785_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-54),38356.6351,['Ethha_0233']
+Ethha_0234,E6U786,E6U786_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-55),7181.5618,['Ethha_0234']
+Ethha_0236 ,E6U788,E6U788_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-56),47285.425,"['thiC', 'Ethha_0236']"
+Ethha_0240,E6U792,E6U792_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-57),45484.6269,['Ethha_0240']
+Ethha_0242,E6U794,E6U794_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-58),43568.8149,['Ethha_0242']
+Ethha_0243 ,E6U795,E6U795_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-59),54377.4674,"['gltX', 'Ethha_0243']"
+Ethha_0244,E6U796,E6U796_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-60),31254.5192,['Ethha_0244']
+Ethha_0245,E6U797,E6U797_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-61),34725.877,['Ethha_0245']
+Ethha_0246,E6U798,E6U798_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-62),31852.9463,['Ethha_0246']
+Ethha_0247,E6U799,E6U799_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-63),28167.0642,['Ethha_0247']
+Ethha_0251,E6U7A3,E6U7A3_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-64),10303.6172,['Ethha_0251']
+Ethha_0252,E6U7A4,E6U7A4_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-65),46096.3178,['Ethha_0252']
+Ethha_0260,E6U7B1,E6U7B1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-66),31543.3946,['Ethha_0260']
+Ethha_0261,E6U7B2,E6U7B2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-67),41063.8695,['Ethha_0261']
+Ethha_0264,E6U7B5,E6U7B5_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-68),27948.6832,['Ethha_0264']
+Ethha_0277 ,E6U7C8,E6U7C8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-69),52684.1806,"['guaB', 'Ethha_0277']"
+Ethha_0288 ,E6U7D9,E6U7D9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-70),14808.0293,"['mgsA', 'Ethha_0288']"
+Ethha_0298,E6U7E9,E6U7E9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-71),15955.1789,['Ethha_0298']
+Ethha_0300,E6U7F1,E6U7F1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-72),20892.5641,['Ethha_0300']
+Ethha_0305,E6U7V9,E6U7V9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-73),51716.516,['Ethha_0305']
+Ethha_0306,E6U7W0,E6U7W0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-74),28676.7342,['Ethha_0306']
+Ethha_0316 ,E6U7X0,E6U7X0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-75),8343.089,"['acpP', 'Ethha_0316']"
+Ethha_0322,E6U7X6,E6U7X6_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-76),20408.6782,['Ethha_0322']
+Ethha_0325 ,E6U7X9,E6U7X9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-77),23134.2975,"['nadD', 'Ethha_0325']"
+Ethha_0331,E6U7Y5,E6U7Y5_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-78),27329.1734,['Ethha_0331']
+Ethha_0338,E6U7Z2,E6U7Z2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-79),81685.8993,['Ethha_0338']
+Ethha_0343,E6U7Z7,E6U7Z7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-80),38127.2625,['Ethha_0343']
+Ethha_0345,E6U7Z9,E6U7Z9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-81),28901.6059,['Ethha_0345']
+Ethha_0346,E6U800,E6U800_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-82),33685.8211,['Ethha_0346']
+Ethha_0354,E6U808,E6U808_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-83),31681.6361,['Ethha_0354']
+Ethha_0388 ,E6U8I2,E6U8I2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-84),23168.1756,"['adk', 'Ethha_0388']"
+Ethha_0389 ,E6U8I3,E6U8I3_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-85),26711.8884,"['map', 'Ethha_0389']"
+Ethha_0400,E6U8J4,E6U8J4_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-86),24501.9496,['Ethha_0400']
+Ethha_0401,E6U8J5,E6U8J5_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-87),49430.8004,['Ethha_0401']
+Ethha_0427 ,E6U8M1,E6U8M1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-88),64945.9138,"['glmS', 'Ethha_0427']"
+Ethha_0435,E6U8M9,E6U8M9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-89),55234.0242,['Ethha_0435']
+Ethha_0444 ,E6U8N8,E6U8N8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-90),47140.3248,"['lysA', 'Ethha_0444']"
+Ethha_0447 ,E6U8P1,E6U8P1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-91),45004.1033,"['glyA', 'Ethha_0447']"
+Ethha_0450,E6U8X1,E6U8X1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-92),28960.6729,['Ethha_0450']
+Ethha_0457 ,E6U8X8,E6U8X8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-93),39587.5421,"['murG', 'Ethha_0457']"
+Ethha_0459 ,E6U8Y0,E6U8Y0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-94),46622.9108,"['mntH', 'Ethha_0459']"
+Ethha_0547,E6U9D4,E6U9D4_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-95),193068.7376,['Ethha_0547']
+Ethha_0561,E6U9E7,E6U9E7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-96),30960.3397,['Ethha_0561']
+Ethha_0562,E6U9E8,E6U9E8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-97),28517.2491,['Ethha_0562']
+Ethha_0566,E6U9F2,E6U9F2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-98),35902.4025,['Ethha_0566']
+Ethha_0567,E6U9F3,E6U9F3_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-99),8891.1318,['Ethha_0567']
+Ethha_0568,E6U9F4,E6U9F4_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-100),48672.2481,['Ethha_0568']
+Ethha_0578,E6U9G4,E6U9G4_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-101),54001.7695,['Ethha_0578']
+Ethha_0579,E6U9G5,E6U9G5_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-102),50230.2409,['Ethha_0579']
+Ethha_0580,E6U9G6,E6U9G6_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-103),40176.5052,['Ethha_0580']
+Ethha_0584 ,E6U9H0,E6U9H0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-104),41226.2346,"['potA', 'Ethha_0584']"
+Ethha_0585,E6U9H1,E6U9H1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-105),32003.6501,['Ethha_0585']
+Ethha_0586,E6U9H2,E6U9H2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-106),70668.273,['Ethha_0586']
+Ethha_0587,E6U9H3,E6U9H3_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-107),49275.041,['Ethha_0587']
+Ethha_0591,E6U9H7,E6U9H7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-108),25877.5504,['Ethha_0591']
+Ethha_0604,E6U9I7,E6U9I7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-109),44358.4155,['Ethha_0604']
+Ethha_0611,E6U9R9,E6U9R9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-110),11552.2707,['Ethha_0611']
+Ethha_0625,E6U9T2,E6U9T2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-111),54474.5853,['Ethha_0625']
+Ethha_0634 ,E6U9U0,E6U9U0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-112),16484.7759,"['ribH', 'Ethha_0634']"
+Ethha_0635 ,E6U9U1,E6U9U1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-113),44323.3189,"['ribBA', 'Ethha_0635']"
+Ethha_0636,E6U9U2,E6U9U2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-114),22392.2594,['Ethha_0636']
+Ethha_0637,E6U9U3,E6U9U3_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-115),39696.2889,['Ethha_0637']
+Ethha_0653,E6U9V7,E6U9V7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-116),46748.4798,['Ethha_0653']
+Ethha_0654,E6U9V8,E6U9V8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-117),43149.0811,['Ethha_0654']
+Ethha_0655 ,E6U9V9,E6U9V9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-118),23203.8948,"['tal', 'Ethha_0655']"
+Ethha_0658,E6U9W1,E6U9W1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-119),19945.1118,['Ethha_0658']
+Ethha_0667,E6U9X0,E6U9X0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-120),47773.0686,['Ethha_0667']
+Ethha_0680,E6U9Y3,E6U9Y3_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-121),52005.6858,['Ethha_0680']
+Ethha_0685,E6U9Y8,E6U9Y8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-122),32370.7911,['Ethha_0685']
+Ethha_0705,E6U2I3,E6U2I3_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-123),31044.9563,['Ethha_0705']
+Ethha_0706,E6U2I4,E6U2I4_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-124),33236.9178,['Ethha_0706']
+Ethha_0707,E6U2I5,E6U2I5_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-125),97330.0442,['Ethha_0707']
+Ethha_0709,E6U2I7,E6U2I7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-126),40254.5762,['Ethha_0709']
+Ethha_0710 ,E6U2I8,E6U2I8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-127),45642.2913,"['murA', 'Ethha_0710']"
+Ethha_0719,E6U2J7,E6U2J7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-128),9078.3017,['Ethha_0719']
+Ethha_0720,E6U2J8,E6U2J8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-129),62216.1267,['Ethha_0720']
+Ethha_0722,E6U2K0,E6U2K0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-130),16965.2711,['Ethha_0722']
+Ethha_0730,E6U2K8,E6U2K8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-131),32755.9571,['Ethha_0730']
+Ethha_0732,E6U2L0,E6U2L0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-132),52800.7339,['Ethha_0732']
+Ethha_0733,E6U2L1,E6U2L1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-133),41845.1693,['Ethha_0733']
+Ethha_0734,E6U2L2,E6U2L2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-134),44744.5419,['Ethha_0734']
+Ethha_0735,E6U2L3,E6U2L3_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-135),33225.2281,"['speE', 'Ethha_0735']"
+Ethha_0736,E6U2L4,E6U2L4_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-136),52731.8077,['Ethha_0736']
+Ethha_0737,E6U2L5,E6U2L5_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-137),30093.0597,['Ethha_0737']
+Ethha_0738,E6U2L6,E6U2L6_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-138),19929.8441,['Ethha_0738']
+Ethha_0739,E6U2L7,E6U2L7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-139),41768.595,['Ethha_0739']
+Ethha_0743,E6U2M1,E6U2M1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-140),89792.7156,['Ethha_0743']
+Ethha_0748,E6U2M6,E6U2M6_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-141),63856.5077,['Ethha_0748']
+Ethha_0753,E6U2N1,E6U2N1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-142),32131.8647,['Ethha_0753']
+Ethha_0754,E6U2N2,E6U2N2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-143),30421.1439,['Ethha_0754']
+Ethha_0755,E6U2N3,E6U2N3_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-144),113050.3314,['Ethha_0755']
+Ethha_0756,E6U2N4,E6U2N4_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-145),86181.1767,['Ethha_0756']
+Ethha_0757,E6U2N5,E6U2N5_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-146),38454.5325,['Ethha_0757']
+Ethha_0758,E6U2N6,E6U2N6_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-147),45544.0173,['Ethha_0758']
+Ethha_0759,E6U2N7,E6U2N7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-148),38186.8723,['Ethha_0759']
+Ethha_0760,E6U2W2,E6U2W2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-149),37336.3215,['Ethha_0760']
+Ethha_0761,E6U2W3,E6U2W3_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-150),38524.8273,"['ddl', 'Ethha_0761']"
+Ethha_0762,E6U2W4,E6U2W4_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-151),29361.0482,"['murI', 'Ethha_0762']"
+Ethha_0766,E6U2W8,E6U2W8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-152),35418.2161,"['metAA', 'Ethha_0766']"
+Ethha_0770,E6U2X2,E6U2X2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-153),19245.6171,['Ethha_0770']
+Ethha_0775,E6U2X7,E6U2X7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-154),52175.0816,['Ethha_0775']
+Ethha_0777,E6U2X9,E6U2X9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-155),24314.5129,['Ethha_0777']
+Ethha_0781,E6U2Y3,E6U2Y3_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-156),22930.1383,['Ethha_0781']
+Ethha_0805,E6U307,E6U307_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-157),37159.9458,['Ethha_0805']
+Ethha_0815,E6U317,E6U317_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-158),31143.5672,['Ethha_0815']
+Ethha_0816,E6U318,E6U318_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-159),29899.1996,['Ethha_0816']
+Ethha_0817,E6U319,E6U319_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-160),18734.39,['Ethha_0817']
+Ethha_0818,E6U320,E6U320_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-161),15137.1643,['Ethha_0818']
+Ethha_0826,E6U328,E6U328_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-162),55331.8482,['Ethha_0826']
+Ethha_0827,E6U329,E6U329_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-163),50079.4612,['Ethha_0827']
+Ethha_0830,E6U3A7,E6U3A7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-164),20848.8153,"['xpt', 'Ethha_0830']"
+Ethha_0831,E6U3A8,E6U3A8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-165),24378.5272,['Ethha_0831']
+Ethha_0833,E6U3B0,E6U3B0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-166),64963.575,"['ade', 'Ethha_0833']"
+Ethha_0835,E6U3B2,E6U3B2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-167),50854.7687,['Ethha_0835']
+Ethha_0836,E6U3B3,E6U3B3_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-168),66507.5533,['Ethha_0836']
+Ethha_0838,E6U3B5,E6U3B5_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-169),53899.5769,['Ethha_0838']
+Ethha_0840,E6U3B7,E6U3B7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-170),52645.8713,['Ethha_0840']
+Ethha_0841,E6U3B8,E6U3B8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-171),12390.9358,['Ethha_0841']
+Ethha_0842,E6U3B9,E6U3B9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-172),11171.041,['Ethha_0842']
+Ethha_0843,E6U3C0,E6U3C0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-173),49393.2392,['Ethha_0843']
+Ethha_0848,E6U3C5,E6U3C5_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-174),37589.3394,['Ethha_0848']
+Ethha_0850,E6U3C7,E6U3C7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-175),35419.1302,"['moaA', 'Ethha_0850']"
+Ethha_0851,E6U3C8,E6U3C8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-176),17186.5321,['Ethha_0851']
+Ethha_0852,E6U3C9,E6U3C9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-177),43643.4024,['Ethha_0852']
+Ethha_0894,E6U3G2,E6U3G2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-178),63406.3274,['Ethha_0894']
+Ethha_0895,E6U3G3,E6U3G3_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-179),36544.9103,['Ethha_0895']
+Ethha_0897,E6U3G5,E6U3G5_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-180),50433.36,['Ethha_0897']
+Ethha_0898,E6U3G6,E6U3G6_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-181),83165.9913,['Ethha_0898']
+Ethha_0902,E6U3H0,E6U3H0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-182),39696.3063,['Ethha_0902']
+Ethha_0903,E6U3H1,E6U3H1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-183),31807.8755,['Ethha_0903']
+Ethha_0905,E6U3H3,E6U3H3_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-184),44880.0987,['Ethha_0905']
+Ethha_0911,E6U3Q4,E6U3Q4_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-185),34637.6912,['Ethha_0911']
+Ethha_0912,E6U3Q5,E6U3Q5_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-186),30827.6648,['Ethha_0912']
+Ethha_0913,E6U3Q6,E6U3Q6_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-187),51004.0414,['Ethha_0913']
+Ethha_0915,E6U3Q8,E6U3Q8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-188),27247.657,['Ethha_0915']
+Ethha_0918,E6U3R0,E6U3R0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-189),20198.8417,['Ethha_0918']
+Ethha_0919,E6U3R1,E6U3R1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-190),30850.1579,"['dapF', 'Ethha_0919']"
+Ethha_0920,E6U3R2,E6U3R2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-191),43511.554,"['dapL', 'Ethha_0920']"
+Ethha_0924,E6U3R6,E6U3R6_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-192),46808.8917,['Ethha_0924']
+Ethha_0925,E6U3R7,E6U3R7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-193),38564.9665,"['leuB', 'Ethha_0925']"
+Ethha_0926,E6U3R8,E6U3R8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-194),17611.8734,"['leuD', 'Ethha_0926']"
+Ethha_0927,E6U3R9,E6U3R9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-195),44508.9581,"['leuC', 'Ethha_0927']"
+Ethha_0929,E6U3S1,E6U3S1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-196),60003.7742,['Ethha_0929']
+Ethha_0978,E6U3W4,E6U3W4_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-197),60630.1003,['Ethha_0978']
+Ethha_0990,E6U443,E6U443_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-198),36449.8435,['Ethha_0990']
+Ethha_0993,E6U446,E6U446_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-199),80177.2741,['Ethha_0993']
+Ethha_0997,E6U450,E6U450_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-200),38249.6313,['Ethha_0997']
+Ethha_0998,E6U451,E6U451_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-201),53405.8044,['Ethha_0998']
+Ethha_1003,E6U456,E6U456_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-202),35985.8249,['Ethha_1003']
+Ethha_1004,E6U457,E6U457_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-203),27016.8352,['Ethha_1004']
+Ethha_1006,E6U459,E6U459_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-204),126891.8898,['Ethha_1006']
+Ethha_1013,E6U466,E6U466_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-205),20400.9742,['Ethha_1013']
+Ethha_1025,E6U478,E6U478_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-206),47105.2952,"['glmM', 'Ethha_1025']"
+Ethha_1044,E6U497,E6U497_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-207),54166.3485,['Ethha_1044']
+Ethha_1055,E6U4A8,E6U4A8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-208),31056.5664,['Ethha_1055']
+Ethha_1067,E6U4J2,E6U4J2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-209),77573.106,['Ethha_1067']
+Ethha_1080,E6U4K5,E6U4K5_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-210),23941.1868,['Ethha_1080']
+Ethha_1086,E6U4L1,E6U4L1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-211),38824.9277,['Ethha_1086']
+Ethha_1089,E6U4L4,E6U4L4_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-212),17523.0301,['Ethha_1089']
+Ethha_1092,E6U4L7,E6U4L7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-213),32330.4336,['Ethha_1092']
+Ethha_1097,E6U4M2,E6U4M2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-214),76063.3825,['Ethha_1097']
+Ethha_1105,E6U4N0,E6U4N0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-215),77787.9349,['Ethha_1105']
+Ethha_1125,E6U4P8,E6U4P8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-216),29605.0515,"['uppP', 'Ethha_1125']"
+Ethha_1144,E6U4Y9,E6U4Y9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-217),70072.2009,['Ethha_1144']
+Ethha_1145,E6U4Z0,E6U4Z0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-218),135481.9803,['Ethha_1145']
+Ethha_1148,E6U4Z3,E6U4Z3_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-219),43462.9525,['Ethha_1148']
+Ethha_1149,E6U4Z4,E6U4Z4_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-220),49011.1365,"['pgi', 'Ethha_1149']"
+Ethha_1156,E6U501,E6U501_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-221),36185.1273,"['gpsA', 'Ethha_1156']"
+Ethha_1161,E6U506,E6U506_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-222),41697.2873,['Ethha_1161']
+Ethha_1164,E6U509,E6U509_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-223),39940.3607,['Ethha_1164']
+Ethha_1171,E6U516,E6U516_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-224),50642.8468,['Ethha_1171']
+Ethha_1172,E6U517,E6U517_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-225),27156.1206,['Ethha_1172']
+Ethha_1173,E6U518,E6U518_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-226),44057.1383,['Ethha_1173']
+Ethha_1175,E6U520,E6U520_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-227),44618.7149,['Ethha_1175']
+Ethha_1181,E6U526,E6U526_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-228),48168.5051,['Ethha_1181']
+Ethha_1190,E6U535,E6U535_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-229),17917.1538,['Ethha_1190']
+Ethha_1212,E6U5K4,E6U5K4_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-230),32165.5492,['Ethha_1212']
+Ethha_1214,E6U5K6,E6U5K6_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-231),68916.0611,"['dxs', 'Ethha_1214']"
+Ethha_1216,E6U5K8,E6U5K8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-232),31158.9984,"['nadK', 'Ethha_1216']"
+Ethha_1278,E6U5R2,E6U5R2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-233),27238.2095,['Ethha_1278']
+Ethha_1306,E6U679,E6U679_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-234),35158.1266,"['moaC', 'Ethha_1306']"
+Ethha_1319,E6U692,E6U692_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-235),41976.0461,['Ethha_1319']
+Ethha_1320,E6U693,E6U693_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-236),53536.4506,"['trpE', 'Ethha_1320']"
+Ethha_1321,E6U694,E6U694_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-237),20963.0695,['Ethha_1321']
+Ethha_1322,E6U695,E6U695_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-238),35292.0595,"['trpD', 'Ethha_1322']"
+Ethha_1323,E6U696,E6U696_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-239),28887.8966,"['trpC', 'Ethha_1323']"
+Ethha_1324,E6U697,E6U697_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-240),22995.9964,"['trpF', 'Ethha_1324']"
+Ethha_1325,E6U698,E6U698_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-241),43086.6229,"['trpB', 'Ethha_1325']"
+Ethha_1326,E6U699,E6U699_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-242),28436.1427,"['trpA', 'Ethha_1326']"
+Ethha_1328,E6U6A1,E6U6A1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-243),11171.824,['Ethha_1328']
+Ethha_1330,E6U6A3,E6U6A3_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-244),24814.5007,"['ispD', 'Ethha_1330']"
+Ethha_1331,E6U6A4,E6U6A4_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-245),16757.1133,"['ispF', 'Ethha_1331']"
+Ethha_1333,E6U6A6,E6U6A6_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-246),61898.898,['Ethha_1333']
+Ethha_1334,E6U6A7,E6U6A7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-247),45006.3557,['Ethha_1334']
+Ethha_1342,E6U6B5,E6U6B5_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-248),32129.3783,"['murB', 'Ethha_1342']"
+Ethha_1347,E6U6C0,E6U6C0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-249),34790.5059,"['pfkA', 'Ethha_1347']"
+Ethha_1350,E6U6C3,E6U6C3_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-250),34791.3952,"['ldh', 'Ethha_1350']"
+Ethha_1367,E6U6T8,E6U6T8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-251),23429.7394,['Ethha_1367']
+Ethha_1370,E6U6U1,E6U6U1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-252),50143.047,"['murD', 'Ethha_1370']"
+Ethha_1376,E6U6U7,E6U6U7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-253),31766.0372,['Ethha_1376']
+Ethha_1377,E6U6U8,E6U6U8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-254),24049.6085,['Ethha_1377']
+Ethha_1378,E6U6U9,E6U6U9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-255),84975.2188,['Ethha_1378']
+Ethha_1379,E6U6V0,E6U6V0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-256),35754.5294,"['bioB', 'Ethha_1379']"
+Ethha_1380,E6U6V1,E6U6V1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-257),19565.6697,['Ethha_1380']
+Ethha_1381,E6U6V2,E6U6V2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-258),35108.7981,"['birA', 'Ethha_1381']"
+Ethha_1382,E6U6V3,E6U6V3_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-259),28065.5602,"['gpmA', 'Ethha_1382']"
+Ethha_1385,E6U6V6,E6U6V6_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-260),95529.8896,['Ethha_1385']
+Ethha_1388,E6U6V9,E6U6V9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-261),69246.7188,['Ethha_1388']
+Ethha_1397,E6U6W7,E6U6W7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-262),20831.5131,['Ethha_1397']
+Ethha_1405,E6U6X5,E6U6X5_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-263),19229.9847,['Ethha_1405']
+Ethha_1410,E6U6Y0,E6U6Y0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-264),27386.5376,['Ethha_1410']
+Ethha_1416,E6U6Y6,E6U6Y6_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-265),28013.1376,"['proC', 'Ethha_1416']"
+Ethha_1424,E6U6Z4,E6U6Z4_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-266),39981.6492,['Ethha_1424']
+Ethha_1425,E6U6Z5,E6U6Z5_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-267),32204.6332,"['dapA', 'Ethha_1425']"
+Ethha_1426,E6U6Z6,E6U6Z6_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-268),27572.061,"['dapB', 'Ethha_1426']"
+Ethha_1429,E6U6Z9,E6U6Z9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-269),101425.4128,['Ethha_1429']
+Ethha_1430,E6U700,E6U700_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-270),19532.4481,['Ethha_1430']
+Ethha_1431,E6U701,E6U701_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-271),27277.3273,['Ethha_1431']
+Ethha_1433,E6U703,E6U703_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-272),12171.5516,"['hisE', 'Ethha_1433']"
+Ethha_1434,E6U704,E6U704_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-273),12349.9217,"['hisI', 'Ethha_1434']"
+Ethha_1435,E6U705,E6U705_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-274),27213.7841,"['hisF', 'Ethha_1435']"
+Ethha_1436,E6U706,E6U706_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-275),26040.6031,"['hisA', 'Ethha_1436']"
+Ethha_1437,E6U707,E6U707_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-276),21747.8374,"['hisH', 'Ethha_1437']"
+Ethha_1438,E6U708,E6U708_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-277),20924.5782,"['hisB', 'Ethha_1438']"
+Ethha_1439,E6U7F3,E6U7F3_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-278),38081.1811,['Ethha_1439']
+Ethha_1440,E6U7F4,E6U7F4_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-279),45855.9126,"['hisD', 'Ethha_1440']"
+Ethha_1441,E6U7F5,E6U7F5_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-280),23192.9979,"['hisG', 'Ethha_1441']"
+Ethha_1442,E6U7F6,E6U7F6_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-281),44148.1774,"['hisZ', 'Ethha_1442']"
+Ethha_1445,E6U7F9,E6U7F9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-282),36177.1413,"['msrB', 'msrA', 'Ethha_1445']"
+Ethha_1446,E6U7G0,E6U7G0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-283),29597.6032,['Ethha_1446']
+Ethha_1449,E6U7G3,E6U7G3_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-284),34711.7962,['Ethha_1449']
+Ethha_1453,E6U7G7,E6U7G7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-285),50298.6927,['Ethha_1453']
+Ethha_1458,E6U7H2,E6U7H2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-286),72684.7456,"['ispH', 'Ethha_1458']"
+Ethha_1459,E6U7H3,E6U7H3_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-287),22151.7682,['Ethha_1459']
+Ethha_1460,E6U7H4,E6U7H4_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-288),23955.2261,"['cmk', 'Ethha_1460']"
+Ethha_1466,E6U7I0,E6U7I0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-289),16903.2791,['Ethha_1466']
+Ethha_1469,E6U7I3,E6U7I3_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-290),20928.238,['Ethha_1469']
+Ethha_1471,E6U7I5,E6U7I5_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-291),30310.6344,['Ethha_1471']
+Ethha_1473,E6U7I7,E6U7I7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-292),24296.3683,['Ethha_1473']
+Ethha_1475,E6U7I9,E6U7I9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-293),26561.6973,['Ethha_1475']
+Ethha_1477,E6U7J1,E6U7J1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-294),17012.1643,['Ethha_1477']
+Ethha_1481,E6U7J5,E6U7J5_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-295),24017.7931,['Ethha_1481']
+Ethha_1482,E6U7J6,E6U7J6_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-296),30773.5129,['Ethha_1482']
+Ethha_1484,E6U7J8,E6U7J8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-297),62481.4103,['Ethha_1484']
+Ethha_1485,E6U7J9,E6U7J9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-298),9997.3685,['Ethha_1485']
+Ethha_1486,E6U7K0,E6U7K0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-299),33339.7552,['Ethha_1486']
+Ethha_1490,E6U7K4,E6U7K4_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-300),45689.9886,['Ethha_1490']
+Ethha_1496,E6U7L0,E6U7L0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-301),27508.304,"['thiG', 'Ethha_1496']"
+Ethha_1497,E6U7L1,E6U7L1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-302),41697.2338,['Ethha_1497']
+Ethha_1498,E6U7L2,E6U7L2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-303),23800.2939,"['thiE', 'Ethha_1498']"
+Ethha_1502,E6U7L6,E6U7L6_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-304),21236.3011,['Ethha_1502']
+Ethha_1503,E6U7L7,E6U7L7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-305),36007.4642,['Ethha_1503']
+Ethha_1510,E6U7M3,E6U7M3_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-306),14465.4345,['Ethha_1510']
+Ethha_1521,E6U838,E6U838_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-307),39178.264,['Ethha_1521']
+Ethha_1531,E6U848,E6U848_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-308),39881.3353,"['pyrB', 'Ethha_1531']"
+Ethha_1535,E6U852,E6U852_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-309),26559.6054,['Ethha_1535']
+Ethha_1537,E6U854,E6U854_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-310),38601.2179,['Ethha_1537']
+Ethha_1538,E6U855,E6U855_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-311),20652.3088,['Ethha_1538']
+Ethha_1539,E6U856,E6U856_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-312),30610.2982,['Ethha_1539']
+Ethha_1541,E6U858,E6U858_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-313),31299.6853,['Ethha_1541']
+Ethha_1547,E6U864,E6U864_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-314),42119.704,"['pgk', 'Ethha_1547']"
+Ethha_1548,E6U865,E6U865_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-315),26493.9224,"['tpiA', 'Ethha_1548']"
+Ethha_1549,E6U866,E6U866_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-316),54366.996,"['gpmI', 'Ethha_1549']"
+Ethha_1558,E6U875,E6U875_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-317),30402.2994,['Ethha_1558']
+Ethha_1559,E6U876,E6U876_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-318),34968.7452,['Ethha_1559']
+Ethha_1563,E6U880,E6U880_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-319),50447.3135,['Ethha_1563']
+Ethha_1564,E6U881,E6U881_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-320),59405.9011,['Ethha_1564']
+Ethha_1567,E6U884,E6U884_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-321),29735.9399,"['nifH', 'Ethha_1567']"
+Ethha_1570,E6U887,E6U887_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-322),36295.2308,['Ethha_1570']
+Ethha_1577,E6U894,E6U894_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-323),13795.4076,['Ethha_1577']
+Ethha_1604,E6U8Q4,E6U8Q4_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-324),16836.9679,"['ureE', 'Ethha_1604']"
+Ethha_1608,E6U8Q8,E6U8Q8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-325),43273.3603,['Ethha_1608']
+Ethha_1611,E6U8R1,E6U8R1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-326),32567.634,['Ethha_1611']
+Ethha_1613,E6U8R3,E6U8R3_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-327),36441.319,"['speD', 'Ethha_1613']"
+Ethha_1617,E6U8R7,E6U8R7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-328),38213.9798,"['ispG', 'Ethha_1617']"
+Ethha_1619,E6U8R9,E6U8R9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-329),41899.735,"['dxr', 'Ethha_1619']"
+Ethha_1620,E6U8S0,E6U8S0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-330),31518.5888,['Ethha_1620']
+Ethha_1621,E6U8S1,E6U8S1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-331),27692.0873,['Ethha_1621']
+Ethha_1622,E6U8S2,E6U8S2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-332),20549.2757,"['frr', 'Ethha_1622']"
+Ethha_1623,E6U8S3,E6U8S3_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-333),26169.7534,"['pyrH', 'Ethha_1623']"
+Ethha_1628,E6U8S8,E6U8S8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-334),27206.1796,['Ethha_1628']
+Ethha_1630,E6U8T0,E6U8T0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-335),54301.234,['Ethha_1630']
+Ethha_1642,E6U8U2,E6U8U2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-336),46938.177,"['cinA', 'Ethha_1642']"
+Ethha_1645,E6U8U5,E6U8U5_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-337),59892.8313,"['pyrG', 'Ethha_1645']"
+Ethha_1649,E6U8U9,E6U8U9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-338),30106.6758,"['folD', 'Ethha_1649']"
+Ethha_1657,E6U8V7,E6U8V7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-339),84025.8611,['Ethha_1657']
+Ethha_1704,E6U972,E6U972_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-340),56443.8853,"['guaA', 'Ethha_1704']"
+Ethha_1706,E6U974,E6U974_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-341),58470.8198,"['fhs', 'Ethha_1706']"
+Ethha_1709,E6U977,E6U977_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-342),16027.182,['Ethha_1709']
+Ethha_1710,E6U978,E6U978_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-343),23089.8496,"['upp', 'Ethha_1710']"
+Ethha_1716,E6U984,E6U984_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-344),30333.1137,['Ethha_1716']
+Ethha_1717,E6U985,E6U985_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-345),25300.8836,['Ethha_1717']
+Ethha_1722,E6U990,E6U990_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-346),32535.6945,['Ethha_1722']
+Ethha_1723,E6U991,E6U991_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-347),53553.0483,['Ethha_1723']
+Ethha_1724,E6U992,E6U992_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-348),42671.2829,['Ethha_1724']
+Ethha_1725,E6U993,E6U993_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-349),44232.1326,['Ethha_1725']
+Ethha_1726,E6U994,E6U994_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-350),39902.1719,['Ethha_1726']
+Ethha_1727,E6U995,E6U995_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-351),25690.2899,['Ethha_1727']
+Ethha_1728,E6U996,E6U996_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-352),38165.926,['Ethha_1728']
+Ethha_1729,E6U997,E6U997_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-353),44525.9756,['Ethha_1729']
+Ethha_1730,E6U998,E6U998_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-354),30701.8229,['Ethha_1730']
+Ethha_1736,E6U9A4,E6U9A4_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-355),38787.7185,['Ethha_1736']
+Ethha_1745,E6U9B2,E6U9B2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-356),55586.1415,"['hcp', 'Ethha_1745']"
+Ethha_1755,E6U9J5,E6U9J5_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-357),21231.1401,"['kdpC', 'Ethha_1755']"
+Ethha_1756,E6U9J6,E6U9J6_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-358),72575.4275,"['kdpB', 'Ethha_1756']"
+Ethha_1757,E6U9J7,E6U9J7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-359),43805.3243,['Ethha_1757']
+Ethha_1782,E6U9M1,E6U9M1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-360),81603.2059,['Ethha_1782']
+Ethha_1786,E6U9M5,E6U9M5_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-361),46413.27,['Ethha_1786']
+Ethha_1787,E6U9M6,E6U9M6_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-362),37491.1378,['Ethha_1787']
+Ethha_1788,E6U9M7,E6U9M7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-363),56259.4578,['Ethha_1788']
+Ethha_1907,E6UA68,E6UA68_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-364),17830.8762,['Ethha_1907']
+Ethha_1925,E6U2Q5,E6U2Q5_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-365),28396.6723,"['uppP', 'Ethha_1925']"
+Ethha_1934,E6U2R1,E6U2R1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-366),59181.5069,"['hcp', 'Ethha_1934']"
+Ethha_1956,E6U2T2,E6U2T2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-367),69573.6653,"['nadE', 'Ethha_1956']"
+Ethha_1961,E6U2T7,E6U2T7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-368),13745.6425,"['acpS', 'Ethha_1961']"
+Ethha_1964,E6U2U0,E6U2U0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-369),18685.5198,['Ethha_1964']
+Ethha_1966,E6U2U2,E6U2U2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-370),72261.9442,"['fbp', 'Ethha_1966']"
+Ethha_1973,E6U2U9,E6U2U9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-371),45288.1455,"['purA', 'Ethha_1973']"
+Ethha_1977,E6U2V3,E6U2V3_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-372),19647.4776,['Ethha_1977']
+Ethha_1993,E6U339,E6U339_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-373),44124.9209,"['glgC', 'Ethha_1993']"
+Ethha_1994,E6U340,E6U340_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-374),40944.559,['Ethha_1994']
+Ethha_1995,E6U341,E6U341_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-375),53713.5631,"['glgA', 'Ethha_1995']"
+Ethha_2001,E6U347,E6U347_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-376),71245.7029,['Ethha_2001']
+Ethha_2002,E6U348,E6U348_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-377),34811.839,['Ethha_2002']
+Ethha_2004,E6U350,E6U350_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-378),43282.875,"['ackA', 'Ethha_2004']"
+Ethha_2007,E6U353,E6U353_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-379),30459.5707,['Ethha_2007']
+Ethha_2011,E6U357,E6U357_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-380),30227.8623,['Ethha_2011']
+Ethha_2036,E6U381,E6U381_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-381),36215.2523,['Ethha_2036']
+Ethha_2040,E6U385,E6U385_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-382),30469.0732,['Ethha_2040']
+Ethha_2047,E6U392,E6U392_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-383),26537.9413,['Ethha_2047']
+Ethha_2051,E6U396,E6U396_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-384),44074.7438,"['murA', 'Ethha_2051']"
+Ethha_2053,E6U398,E6U398_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-385),36400.6488,"['mraY', 'Ethha_2053']"
+Ethha_2054,E6U399,E6U399_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-386),49018.2541,"['murF', 'Ethha_2054']"
+Ethha_2055,E6U3A0,E6U3A0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-387),52427.5341,"['murE', 'Ethha_2055']"
+Ethha_2061,E6U3A6,E6U3A6_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-388),18624.1974,"['coaD', 'Ethha_2061']"
+Ethha_2082,E6U3J9,E6U3J9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-389),34274.1753,"['prs', 'Ethha_2082']"
+Ethha_2083,E6U3K0,E6U3K0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-390),49149.7964,"['glmU', 'Ethha_2083']"
+Ethha_2090,E6U3K7,E6U3K7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-391),19614.3662,['Ethha_2090']
+Ethha_2097,E6U3L4,E6U3L4_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-392),17231.2069,['Ethha_2097']
+Ethha_2102,E6U3L9,E6U3L9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-393),20970.079,"['folE', 'Ethha_2102']"
+Ethha_2103,E6U3M0,E6U3M0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-394),43214.1362,['Ethha_2103']
+Ethha_2104,E6U3M1,E6U3M1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-395),13644.6414,['Ethha_2104']
+Ethha_2105,E6U3M2,E6U3M2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-396),18662.3424,['Ethha_2105']
+Ethha_2108,E6U3M5,E6U3M5_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-397),23763.1149,['Ethha_2108']
+Ethha_2109,E6U3M6,E6U3M6_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-398),33588.0666,"['rsgA', 'Ethha_2109']"
+Ethha_2118,E6U3N5,E6U3N5_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-399),22278.8922,"['gmk', 'Ethha_2118']"
+Ethha_2122,E6U3N9,E6U3N9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-400),40982.526,['Ethha_2122']
+Ethha_2140,E6U3X7,E6U3X7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-401),86287.6334,"['metE', 'Ethha_2140']"
+Ethha_2148,E6U3Y5,E6U3Y5_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-402),55584.1026,['Ethha_2148']
+Ethha_2161,E6U3Z8,E6U3Z8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-403),27063.8142,['Ethha_2161']
+Ethha_2173,E6U410,E6U410_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-404),46895.3223,['Ethha_2173']
+Ethha_2174,E6U411,E6U411_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-405),39639.3048,['Ethha_2174']
+Ethha_2178,E6U415,E6U415_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-406),93002.7445,['Ethha_2178']
+Ethha_2180,E6U417,E6U417_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-407),27207.1966,"['coaX', 'Ethha_2180']"
+Ethha_2189,E6U426,E6U426_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-408),31797.7891,['Ethha_2189']
+Ethha_2193,E6U430,E6U430_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-409),31733.5063,['Ethha_2193']
+Ethha_2198,E6U435,E6U435_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-410),44544.9378,['Ethha_2198']
+Ethha_2204,E6U4B4,E6U4B4_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-411),44665.6693,['Ethha_2204']
+Ethha_2216,E6U4C4,E6U4C4_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-412),23978.5074,['Ethha_2216']
+Ethha_2222,E6U4D0,E6U4D0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-413),40655.2275,['Ethha_2222']
+Ethha_2242,E6U4E9,E6U4E9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-414),34230.2029,['Ethha_2242']
+Ethha_2246,E6U4F3,E6U4F3_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-415),40146.5918,"['hisC', 'Ethha_2246']"
+Ethha_2248,E6U4F5,E6U4F5_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-416),32011.6433,['Ethha_2248']
+Ethha_2251,E6U4F8,E6U4F8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-417),36037.6432,['Ethha_2251']
+Ethha_2261,E6U4G8,E6U4G8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-418),41362.2312,['Ethha_2261']
+Ethha_2281,E6U4Q9,E6U4Q9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-419),19510.9081,['Ethha_2281']
+Ethha_2288,E6U4R6,E6U4R6_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-420),81849.6528,['Ethha_2288']
+Ethha_2294,E6U4S2,E6U4S2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-421),66181.3001,['Ethha_2294']
+Ethha_2299,E6U4S6,E6U4S6_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-422),83091.6785,['Ethha_2299']
+Ethha_2301,E6U4S8,E6U4S8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-423),44426.0618,['Ethha_2301']
+Ethha_2302,E6U4S9,E6U4S9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-424),16292.7211,['Ethha_2302']
+Ethha_2307,E6U4T4,E6U4T4_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-425),38538.9547,['Ethha_2307']
+Ethha_2309,E6U4T6,E6U4T6_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-426),30133.2332,"['nifH', 'Ethha_2309']"
+Ethha_2312,E6U4T9,E6U4T9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-427),52346.3964,['Ethha_2312']
+Ethha_2313,E6U4U0,E6U4U0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-428),13368.9228,['Ethha_2313']
+Ethha_2314,E6U4U1,E6U4U1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-429),50780.7016,['Ethha_2314']
+Ethha_2319,E6U4U6,E6U4U6_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-430),39068.7303,['Ethha_2319']
+Ethha_2320,E6U4U7,E6U4U7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-431),29951.0909,['Ethha_2320']
+Ethha_2331,E6U4V7,E6U4V7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-432),33550.6796,['Ethha_2331']
+Ethha_2332,E6U4V8,E6U4V8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-433),22768.1038,['Ethha_2332']
+Ethha_2333,E6U4V9,E6U4V9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-434),25854.9119,['Ethha_2333']
+Ethha_2334,E6U4W0,E6U4W0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-435),28104.8472,['Ethha_2334']
+Ethha_2335,E6U4W1,E6U4W1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-436),39785.9585,['Ethha_2335']
+Ethha_2336,E6U4W2,E6U4W2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-437),30563.5291,['Ethha_2336']
+Ethha_2337,E6U4W3,E6U4W3_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-438),45383.97,['Ethha_2337']
+Ethha_2356,E6U4X6,E6U4X6_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-439),35480.1338,"['fcl', 'Ethha_2356']"
+Ethha_2358,E6U4X8,E6U4X8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-440),38806.5563,"['gmd', 'Ethha_2358']"
+Ethha_2383,E6U569,E6U569_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-441),30053.2771,"['uppP', 'Ethha_2383']"
+Ethha_2384,E6U570,E6U570_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-442),33153.8001,"['nadA', 'Ethha_2384']"
+Ethha_2397,E6U583,E6U583_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-443),49002.603,['Ethha_2397']
+Ethha_2399,E6U585,E6U585_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-444),35372.3759,['Ethha_2399']
+Ethha_2400,E6U586,E6U586_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-445),41198.2806,['Ethha_2400']
+Ethha_2411,E6U596,E6U596_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-446),47397.6959,['Ethha_2411']
+Ethha_2495,E6U5X1,E6U5X1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-447),18915.3762,['Ethha_2495']
+Ethha_2496,E6U5X2,E6U5X2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-448),88436.0643,['Ethha_2496']
+Ethha_2497,E6U5X3,E6U5X3_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-449),24816.0859,"['pyrE', 'Ethha_2497']"
+Ethha_2509,E6U5Y5,E6U5Y5_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-450),48711.7943,"['murC', 'Ethha_2509']"
+Ethha_2519,E6U6E2,E6U6E2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-451),43917.5768,['Ethha_2519']
+Ethha_2589,E6U712,E6U712_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-452),87848.4899,['Ethha_2589']
+Ethha_2590,E6U713,E6U713_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-453),58648.983,['Ethha_2590']
+Ethha_2604,E6U727,E6U727_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-454),36780.5737,['Ethha_2604']
+Ethha_2608,E6U731,E6U731_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-455),61740.4492,"['leuA', 'Ethha_2608']"
+Ethha_2610,E6U733,E6U733_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-456),42872.9725,['Ethha_2610']
+Ethha_2622,E6U745,E6U745_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-457),33491.3901,['Ethha_2622']
+Ethha_2643,E6U766,E6U766_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-458),8726.6991,"['acpP', 'Ethha_2643']"
+Ethha_2644,E6U767,E6U767_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-459),29478.3358,"['accA', 'Ethha_2644']"
+Ethha_2645,E6U768,E6U768_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-460),31564.7865,"['accD', 'Ethha_2645']"
+Ethha_2646,E6U769,E6U769_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-461),50148.8014,['Ethha_2646']
+Ethha_2647,E6U770,E6U770_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-462),16026.5332,['Ethha_2647']
+Ethha_2648,E6U771,E6U771_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-463),15815.8865,['Ethha_2648']
+Ethha_2649,E6U772,E6U772_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-464),43139.3518,['Ethha_2649']
+Ethha_2650,E6U773,E6U773_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-465),25525.2873,['Ethha_2650']
+Ethha_2651,E6U774,E6U774_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-466),35742.3968,"['fabH', 'Ethha_2651']"
+Ethha_2652,E6U775,E6U775_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-467),31641.6318,['Ethha_2652']
+Ethha_2653,E6U776,E6U776_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-468),29910.9134,"['aroE', 'Ethha_2653']"
+Ethha_2654,E6U777,E6U777_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-469),19648.4951,"['aroK', 'Ethha_2654']"
+Ethha_2656,E6U779,E6U779_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-470),36617.7042,['Ethha_2656']
+Ethha_2657,E6U780,E6U780_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-471),29994.873,['Ethha_2657']
+Ethha_2658,E6U781,E6U781_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-472),37500.6559,"['aroB', 'Ethha_2658']"
+Ethha_2659,E6U7M9,E6U7M9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-473),44188.2461,"['aroA', 'Ethha_2659']"
+Ethha_2660,E6U7N0,E6U7N0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-474),38659.124,"['aroC', 'Ethha_2660']"
+Ethha_2661,E6U7N1,E6U7N1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-475),42294.9745,['Ethha_2661']
+Ethha_2662,E6U7N2,E6U7N2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-476),45915.4253,"['eno', 'Ethha_2662']"
+Ethha_2667,E6U7N7,E6U7N7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-477),27537.2105,"['ureD', 'Ethha_2667']"
+Ethha_2668,E6U7N8,E6U7N8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-478),21872.7948,"['ureG', 'Ethha_2668']"
+Ethha_2669,E6U7N9,E6U7N9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-479),23864.0773,"['ureF', 'Ethha_2669']"
+Ethha_2670,E6U7P0,E6U7P0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-480),60754.5307,"['ureC', 'Ethha_2670']"
+Ethha_2671,E6U7P1,E6U7P1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-481),13183.7435,"['ureB', 'Ethha_2671']"
+Ethha_2672,E6U7P2,E6U7P2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-482),11246.8874,"['ureA', 'Ethha_2672']"
+Ethha_2675,E6U7P5,E6U7P5_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-483),17126.5307,['Ethha_2675']
+Ethha_2677,E6U7P7,E6U7P7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-484),79788.8867,"['ppk', 'Ethha_2677']"
+Ethha_2678,E6U7P8,E6U7P8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-485),33236.0714,['Ethha_2678']
+Ethha_2687,E6U7Q7,E6U7Q7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-486),53615.9384,['Ethha_2687']
+Ethha_2689,E6U7Q9,E6U7Q9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-487),37721.9679,['Ethha_2689']
+Ethha_2690,E6U7R0,E6U7R0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-488),16680.9247,['Ethha_2690']
+Ethha_2692,E6U7R2,E6U7R2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-489),38571.7807,"['hisC', 'Ethha_2692']"
+Ethha_2699,E6U7R9,E6U7R9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-490),165024.7165,['Ethha_2699']
+Ethha_2700,E6U7S0,E6U7S0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-491),53598.5141,['Ethha_2700']
+Ethha_2704,E6U7S4,E6U7S4_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-492),45145.8885,['Ethha_2704']
+Ethha_2705,E6U7S5,E6U7S5_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-493),34306.0623,"['ldh', 'Ethha_2705']"
+Ethha_2707,E6U7S7,E6U7S7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-494),30513.7556,['Ethha_2707']
+Ethha_2711,E6U7T1,E6U7T1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-495),34902.0831,['Ethha_2711']
+Ethha_2718,E6U7T8,E6U7T8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-496),22227.1327,"['coaE', 'Ethha_2718']"
+Ethha_2725,E6U7U5,E6U7U5_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-497),74761.1785,['Ethha_2725']
+Ethha_2728,E6U7U8,E6U7U8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-498),25011.1277,['Ethha_2728']
+Ethha_2729,E6U7U9,E6U7U9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-499),15619.9012,['Ethha_2729']
+Ethha_2731,E6U7V0,E6U7V0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-500),45756.6873,"['hemL', 'Ethha_2731']"
+Ethha_2732,E6U7V1,E6U7V1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-501),22965.7164,['Ethha_2732']
+Ethha_2733,E6U7V2,E6U7V2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-502),127392.6304,['Ethha_2733']
+Ethha_2738,E6U8B1,E6U8B1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-503),62957.9304,['Ethha_2738']
+Ethha_2751,E6U8C4,E6U8C4_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-504),73917.609,['Ethha_2751']
+Ethha_2752,E6U8C5,E6U8C5_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-505),264014.081,['Ethha_2752']
+Ethha_2754,E6U8C7,E6U8C7_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-506),61321.1902,['Ethha_2754']
+Ethha_2756,E6U8C9,E6U8C9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-507),16008.0925,['Ethha_2756']
+Ethha_2757,E6U8D0,E6U8D0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-508),44577.5523,"['mtlD', 'Ethha_2757']"
+Ethha_2758,E6U8D1,E6U8D1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-509),9691.0264,['Ethha_2758']
+Ethha_2765,E6U8D8,E6U8D8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-510),43112.671,['Ethha_2765']
+Ethha_2766,E6U8D9,E6U8D9_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-511),32100.6527,"['thrB', 'Ethha_2766']"
+Ethha_2767,E6U8E0,E6U8E0_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-512),44779.9054,['Ethha_2767']
+Ethha_2770,E6U8E3,E6U8E3_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-513),23760.897,['Ethha_2770']
+Ethha_2772,E6U8E5,E6U8E5_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-514),20310.0175,['Ethha_2772']
+Ethha_2775,E6U8E8,E6U8E8_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-515),20032.7864,"['dcd', 'Ethha_2775']"
+Ethha_2779,E6U8F2,E6U8F2_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-516),34384.0723,['Ethha_2779']
+Ethha_2788,E6U8G1,E6U8G1_ETHHY,Ethanoligenens harbinense (strain DSM 18485 / JCM 12961 / CGMCC 1.5033 / YUAN-517),27289.9038,['Ethha_2788']

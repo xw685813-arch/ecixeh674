@@ -1,0 +1,516 @@
+,UniProtID,proteinNames,txt_subunit,geneNames
+0,E6U5D7,['Bifunctional protein PyrR'],Homodimer and homohexamer; in equilibrium.,"['pyrR', 'Ethha_0013']"
+1,E6U5D8,"['Dihydroorotase', 'DHOase']",Homodimer and homohexamer; in equilibrium.,"['pyrC', 'Ethha_0014']"
+2,E6U5D9,["Orotidine 5'-phosphate decarboxylase"],Homodimer and homohexamer; in equilibrium.,"['pyrF', 'Ethha_0015']"
+3,E6U5E0,['Carbamoyl-phosphate synthase small chain'],"Composed of two chains; the small (or glutamine) chain promotes the hydrolysis of glutamine to ammonia, which is used by the large (or ammonia) chain to synthesize carbamoyl phosphate.","['carA', 'Ethha_0016']"
+4,E6U5E1,['Carbamoyl-phosphate synthase large chain'],"Composed of two chains; the small (or glutamine) chain promotes the hydrolysis of glutamine to ammonia, which is used by the large (or ammonia) chain to synthesize carbamoyl phosphate.","['carB', 'Ethha_0017']"
+5,E6U5E2,"['Dihydroorotate dehydrogenase, electron transfer subunit, iron-sulfur cluster binding domain']","Composed of two chains; the small (or glutamine) chain promotes the hydrolysis of glutamine to ammonia, which is used by the large (or ammonia) chain to synthesize carbamoyl phosphate.",['Ethha_0018']
+6,E6U5E3,['Dihydroorotate dehydrogenase'],"Composed of two chains; the small (or glutamine) chain promotes the hydrolysis of glutamine to ammonia, which is used by the large (or ammonia) chain to synthesize carbamoyl phosphate.","['pyrD', 'Ethha_0019']"
+7,E6U5F0,['Phosphate transporter'],"Composed of two chains; the small (or glutamine) chain promotes the hydrolysis of glutamine to ammonia, which is used by the large (or ammonia) chain to synthesize carbamoyl phosphate.",['Ethha_0026']
+8,E6U5F2,"['Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase', 'Hydroxymethylpyrimidine kinase', 'Hydroxymethylpyrimidine phosphate kinase']","Composed of two chains; the small (or glutamine) chain promotes the hydrolysis of glutamine to ammonia, which is used by the large (or ammonia) chain to synthesize carbamoyl phosphate.",['Ethha_0028']
+9,E6U5F6,['Phosphoserine aminotransferase'],Homodimer.,"['serC', 'Ethha_0032']"
+10,E6U5F7,['D-3-phosphoglycerate dehydrogenase'],Homodimer.,['Ethha_0033']
+11,E6U5G1,['Ribulose-phosphate 3-epimerase'],Homodimer.,"['rpe', 'Ethha_0037']"
+12,E6U5G3,['L-aspartate oxidase'],Homodimer.,['Ethha_0039']
+13,E6U5G4,['nicotinate-nucleotide diphosphorylase (carboxylating)'],Homodimer.,['Ethha_0040']
+14,E6U5G8,['Riboflavin transporter'],Homodimer.,['Ethha_0044']
+15,E6U5H2,['Fumarate lyase'],Homodimer.,['Ethha_0048']
+16,E6U5H4,['inorganic diphosphatase'],Homodimer.,['Ethha_0050']
+17,E6U5I9,['3-methyl-2-oxobutanoate hydroxymethyltransferase'],Homodecamer; pentamer of dimers.,"['panB', 'Ethha_0066']"
+18,E6U5J0,"['Pantothenate synthetase', 'PS', 'Pantoate--beta-alanine ligase', 'Pantoate-activating enzyme']",Homodimer.,"['panC', 'Ethha_0067']"
+19,E6U634,['Thioredoxin'],Homodimer.,['Ethha_0126']
+20,E6U642,"[""Pyridoxal 5'-phosphate synthase subunit PdxS"", 'PLP synthase subunit PdxS']","In the presence of PdxT, forms a dodecamer of heterodimers.","['pdxS', 'Ethha_0134']"
+21,E6U643,"[""Pyridoxal 5'-phosphate synthase subunit PdxT"", 'Pdx2', ""Pyridoxal 5'-phosphate synthase glutaminase subunit""]","In the presence of PdxS, forms a dodecamer of heterodimers. Only shows activity in the heterodimer.","['pdxT', 'Ethha_0135']"
+22,E6U646,"['Gamma-glutamyl phosphate reductase', 'GPR', 'Glutamate-5-semialdehyde dehydrogenase', 'Glutamyl-gamma-semialdehyde dehydrogenase', 'GSA dehydrogenase']","In the presence of PdxS, forms a dodecamer of heterodimers. Only shows activity in the heterodimer.","['proA', 'Ethha_0138']"
+23,E6U647,['Glutamate 5-kinase'],"In the presence of PdxS, forms a dodecamer of heterodimers. Only shows activity in the heterodimer.","['proB', 'Ethha_0139']"
+24,E6U649,['Biotin and thiamin synthesis associated'],"In the presence of PdxS, forms a dodecamer of heterodimers. Only shows activity in the heterodimer.",['Ethha_0141']
+25,E6U651,['ornithine carbamoyltransferase'],"In the presence of PdxS, forms a dodecamer of heterodimers. Only shows activity in the heterodimer.",['Ethha_0143']
+26,E6U652,"['Acetylornithine aminotransferase', 'ACOAT']",Homodimer.,"['argD', 'Ethha_0144']"
+27,E6U654,"['Acetylglutamate kinase', 'N-acetyl-L-glutamate 5-phosphotransferase', 'NAG kinase', 'NAGK']",Homodimer.,"['argB', 'Ethha_0146']"
+28,E6U655,['Arginine biosynthesis bifunctional protein ArgJ'],Heterotetramer of two alpha and two beta chains.,"['argJ', 'Ethha_0147']"
+29,E6U656,"['N-acetyl-gamma-glutamyl-phosphate reductase', 'AGPR']",Heterotetramer of two alpha and two beta chains.,"['argC', 'Ethha_0148']"
+30,E6U657,"['Argininosuccinate lyase', 'ASAL']",Heterotetramer of two alpha and two beta chains.,"['argH', 'Ethha_0149']"
+31,E6U658,['Argininosuccinate synthase'],Homotetramer.,"['argG', 'Ethha_0150']"
+32,E6U661,"['Dihydroxy-acid dehydratase', 'DAD']",Homodimer.,"['ilvD', 'Ethha_0153']"
+33,E6U6N5,['Acetolactate synthase'],Homodimer.,['Ethha_0181']
+34,E6U6N6,['Acetolactate synthase small subunit'],Dimer of large and small chains.,['Ethha_0182']
+35,E6U6N7,"['Ketol-acid reductoisomerase (NADP(+))', 'KARI', 'Acetohydroxy-acid isomeroreductase', 'AHIR', 'Alpha-keto-beta-hydroxylacyl reductoisomerase']",Dimer of large and small chains.,"['ilvC', 'Ethha_0183']"
+36,E6U6P2,"['N5-carboxyaminoimidazole ribonucleotide mutase', 'N5-CAIR mutase']",Dimer of large and small chains.,"['purE', 'Ethha_0188']"
+37,E6U6P3,['Phosphoribosylaminoimidazole-succinocarboxamide synthase'],Dimer of large and small chains.,"['purC', 'Ethha_0189']"
+38,E6U6P4,"['Amidophosphoribosyltransferase', 'ATase']",Dimer of large and small chains.,"['purF', 'Ethha_0190']"
+39,E6U6P5,"['Phosphoribosylformylglycinamidine cyclo-ligase', 'AIR synthase', 'AIRS', 'Phosphoribosyl-aminoimidazole synthetase']",Dimer of large and small chains.,"['purM', 'Ethha_0191']"
+40,E6U6P6,"['Phosphoribosylglycinamide formyltransferase', ""5'-phosphoribosylglycinamide transformylase"", 'GAR transformylase', 'GART']",Dimer of large and small chains.,"['purN', 'Ethha_0192']"
+41,E6U6P7,['ribose-phosphate diphosphokinase'],Dimer of large and small chains.,['Ethha_0193']
+42,E6U6Q0,['GCN5-related N-acetyltransferase'],Dimer of large and small chains.,['Ethha_0196']
+43,E6U6Q1,['Bifunctional purine biosynthesis protein PurH'],Dimer of large and small chains.,"['purH', 'Ethha_0197']"
+44,E6U6Q2,"['Phosphoribosylamine--glycine ligase', 'GARS', 'Glycinamide ribonucleotide synthetase', 'Phosphoribosylglycinamide synthetase']",Dimer of large and small chains.,"['purD', 'Ethha_0198']"
+45,E6U6Q4,['Phosphoglycerate mutase'],Dimer of large and small chains.,['Ethha_0200']
+46,E6U6Q9,['Extracellular solute-binding protein family 5'],Dimer of large and small chains.,['Ethha_0205']
+47,E6U6S2,['Peptidase M24'],Dimer of large and small chains.,['Ethha_0218']
+48,E6U6S3,"['3-dehydroquinate dehydratase', '3-dehydroquinase']",Homododecamer.,"['aroQ', 'Ethha_0219']"
+49,E6U783,"['Pyruvate/ketoisovalerate oxidoreductase, catalytic domain']",Homododecamer.,['Ethha_0231']
+50,E6U784,['Thiamine pyrophosphate TPP-binding domain-containing protein'],Homododecamer.,['Ethha_0232']
+51,E6U785,['Pyruvate flavodoxin/ferredoxin oxidoreductase domain protein'],Homododecamer.,['Ethha_0233']
+52,E6U786,"['2-oxoglutarate ferredoxin oxidoreductase, delta subunit']",Homododecamer.,['Ethha_0234']
+53,E6U788,"['Phosphomethylpyrimidine synthase', 'Hydroxymethylpyrimidine phosphate synthase']",Homododecamer.,"['thiC', 'Ethha_0236']"
+54,E6U792,"['Glycosyl transferase, family 4, conserved region']",Homododecamer.,['Ethha_0240']
+55,E6U794,"['Putative transcriptional regulator, GntR family']",Homododecamer.,['Ethha_0242']
+56,E6U795,['Glutamate--tRNA ligase'],Monomer.,"['gltX', 'Ethha_0243']"
+57,E6U796,['Phosphate-binding protein'],"The complex is composed of two ATP-binding proteins (PstB), two transmembrane proteins (PstC and PstA) and a solute-binding protein (PstS).",['Ethha_0244']
+58,E6U797,['Phosphate transport system permease protein'],"The complex is composed of two ATP-binding proteins (PstB), two transmembrane proteins (PstC and PstA) and a solute-binding protein (PstS).",['Ethha_0245']
+59,E6U798,['Phosphate transport system permease protein PstA'],"The complex is composed of two ATP-binding proteins (PstB), two transmembrane proteins (PstC and PstA) and a solute-binding protein (PstS).",['Ethha_0246']
+60,E6U799,"['Phosphate ABC transporter, ATPase subunit']","The complex is composed of two ATP-binding proteins (PstB), two transmembrane proteins (PstC and PstA) and a solute-binding protein (PstS).",['Ethha_0247']
+61,E6U7A3,['Acylphosphatase'],"The complex is composed of two ATP-binding proteins (PstB), two transmembrane proteins (PstC and PstA) and a solute-binding protein (PstS).",['Ethha_0251']
+62,E6U7A4,['O-acetylhomoserine/O-acetylserine sulfhydrylase'],"The complex is composed of two ATP-binding proteins (PstB), two transmembrane proteins (PstC and PstA) and a solute-binding protein (PstS).",['Ethha_0252']
+63,E6U7B1,['3-hydroxyacyl-CoA dehydrogenase NAD-binding protein'],"The complex is composed of two ATP-binding proteins (PstB), two transmembrane proteins (PstC and PstA) and a solute-binding protein (PstS).",['Ethha_0260']
+64,E6U7B2,['Acyl-CoA dehydrogenase domain-containing protein'],"The complex is composed of two ATP-binding proteins (PstB), two transmembrane proteins (PstC and PstA) and a solute-binding protein (PstS).",['Ethha_0261']
+65,E6U7B5,['ABC transporter related protein'],"The complex is composed of two ATP-binding proteins (PstB), two transmembrane proteins (PstC and PstA) and a solute-binding protein (PstS).",['Ethha_0264']
+66,E6U7C8,["Inosine-5'-monophosphate dehydrogenase"],Homotetramer.,"['guaB', 'Ethha_0277']"
+67,E6U7D9,"['Methylglyoxal synthase', 'MGS']",Homotetramer.,"['mgsA', 'Ethha_0288']"
+68,E6U7E9,['dUTP diphosphatase'],Homotetramer.,['Ethha_0298']
+69,E6U7F1,"['Alkyl hydroperoxide reductase C', 'Peroxiredoxin', 'Thioredoxin peroxidase']",Homodimer.,['Ethha_0300']
+70,E6U7V9,['Pyruvate kinase'],Homodimer.,['Ethha_0305']
+71,E6U7W0,['Serine-type D-Ala-D-Ala carboxypeptidase'],Homodimer.,['Ethha_0306']
+72,E6U7X0,"['Acyl carrier protein', 'ACP']",Homodimer.,"['acpP', 'Ethha_0316']"
+73,E6U7X6,"['dITP/XTP pyrophosphatase', 'Non-canonical purine NTP pyrophosphatase', 'Non-standard purine NTP pyrophosphatase', 'Nucleoside-triphosphate diphosphatase', 'Nucleoside-triphosphate pyrophosphatase', 'NTPase']",Homodimer.,['Ethha_0322']
+74,E6U7X9,"['Probable nicotinate-nucleotide adenylyltransferase', 'Deamido-NAD(+) diphosphorylase', 'Deamido-NAD(+) pyrophosphorylase', 'Nicotinate mononucleotide adenylyltransferase', 'NaMN adenylyltransferase']",Homodimer.,"['nadD', 'Ethha_0325']"
+75,E6U7Y5,['ABC transporter related protein'],Homodimer.,['Ethha_0331']
+76,E6U7Z2,['GTP diphosphokinase'],Homodimer.,['Ethha_0338']
+77,E6U7Z7,['Phosphoribulokinase / uridine kinase family protein'],Homodimer.,['Ethha_0343']
+78,E6U7Z9,['Purine nucleoside phosphorylase'],Homodimer.,['Ethha_0345']
+79,E6U800,['MazG family protein'],Homodimer.,['Ethha_0346']
+80,E6U808,['Thioredoxin reductase'],Homodimer.,['Ethha_0354']
+81,E6U8I2,"['Adenylate kinase', 'AK', 'ATP-AMP transphosphorylase', 'ATP:AMP phosphotransferase', 'Adenylate monophosphate kinase']",Monomer.,"['adk', 'Ethha_0388']"
+82,E6U8I3,['Methionine aminopeptidase'],Monomer.,"['map', 'Ethha_0389']"
+83,E6U8J4,['adenosylhomocysteine nucleosidase'],Monomer.,['Ethha_0400']
+84,E6U8J5,"['Glutamine synthetase', 'Glutamate--ammonia ligase', 'Glutamine synthetase I alpha']",Monomer.,['Ethha_0401']
+85,E6U8M1,"['Glutamine--fructose-6-phosphate aminotransferase [isomerizing]', 'D-fructose-6-phosphate amidotransferase', 'GFAT', 'Glucosamine-6-phosphate synthase', 'Hexosephosphate aminotransferase', 'L-glutamine--D-fructose-6-phosphate amidotransferase']",Homodimer.,"['glmS', 'Ethha_0427']"
+86,E6U8M9,['Threonine synthase'],Homodimer.,['Ethha_0435']
+87,E6U8N8,['Diaminopimelate decarboxylase'],Homodimer.,"['lysA', 'Ethha_0444']"
+88,E6U8P1,['Serine hydroxymethyltransferase'],Homodimer.,"['glyA', 'Ethha_0447']"
+89,E6U8X1,['Glycosyl transferase family 2'],Homodimer.,['Ethha_0450']
+90,E6U8X8,['UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase'],Homodimer.,"['murG', 'Ethha_0457']"
+91,E6U8Y0,['Divalent metal cation transporter MntH'],Homodimer.,"['mntH', 'Ethha_0459']"
+92,E6U9D4,['LPXTG-motif cell wall anchor domain protein'],Homodimer.,['Ethha_0547']
+93,E6U9E7,['Binding-protein-dependent transport systems inner membrane component'],Homodimer.,['Ethha_0561']
+94,E6U9E8,['Binding-protein-dependent transport systems inner membrane component'],Homodimer.,['Ethha_0562']
+95,E6U9F2,['Phosphohexomutase'],Homodimer.,['Ethha_0566']
+96,E6U9F3,"['Phosphotransferase system, phosphocarrier protein HPr']",Homodimer.,['Ethha_0567']
+97,E6U9F4,['protein-N(pi)-phosphohistidine--D-fructose phosphotransferase'],Homodimer.,['Ethha_0568']
+98,E6U9G4,['Aldehyde Dehydrogenase'],Homodimer.,['Ethha_0578']
+99,E6U9G5,['Aminotransferase class-III'],Homodimer.,['Ethha_0579']
+100,E6U9G6,['Iron-containing alcohol dehydrogenase'],Homodimer.,['Ethha_0580']
+101,E6U9H0,['Spermidine/putrescine import ATP-binding protein PotA'],"The complex is composed of two ATP-binding proteins (PotA), two transmembrane proteins (PotB and PotC) and a solute-binding protein (PotD).","['potA', 'Ethha_0584']"
+102,E6U9H1,['Binding-protein-dependent transport systems inner membrane component'],"The complex is composed of two ATP-binding proteins (PotA), two transmembrane proteins (PotB and PotC) and a solute-binding protein (PotD).",['Ethha_0585']
+103,E6U9H2,['Binding-protein-dependent transport systems inner membrane component'],"The complex is composed of two ATP-binding proteins (PotA), two transmembrane proteins (PotB and PotC) and a solute-binding protein (PotD).",['Ethha_0586']
+104,E6U9H3,['Aminotransferase class-III'],"The complex is composed of two ATP-binding proteins (PotA), two transmembrane proteins (PotB and PotC) and a solute-binding protein (PotD).",['Ethha_0587']
+105,E6U9H7,['ABC transporter related protein'],"The complex is composed of two ATP-binding proteins (PotA), two transmembrane proteins (PotB and PotC) and a solute-binding protein (PotD).",['Ethha_0591']
+106,E6U9I7,"['Putative transcriptional regulator, GntR family']","The complex is composed of two ATP-binding proteins (PotA), two transmembrane proteins (PotB and PotC) and a solute-binding protein (PotD).",['Ethha_0604']
+107,E6U9R9,['Thioredoxin'],"The complex is composed of two ATP-binding proteins (PotA), two transmembrane proteins (PotB and PotC) and a solute-binding protein (PotD).",['Ethha_0611']
+108,E6U9T2,['Aldehyde dehydrogenase domain-containing protein'],"The complex is composed of two ATP-binding proteins (PotA), two transmembrane proteins (PotB and PotC) and a solute-binding protein (PotD).",['Ethha_0625']
+109,E6U9U0,"['6,7-dimethyl-8-ribityllumazine synthase']","The complex is composed of two ATP-binding proteins (PotA), two transmembrane proteins (PotB and PotC) and a solute-binding protein (PotD).","['ribH', 'Ethha_0634']"
+110,E6U9U1,['Riboflavin biosynthesis protein RibBA'],"The complex is composed of two ATP-binding proteins (PotA), two transmembrane proteins (PotB and PotC) and a solute-binding protein (PotD).","['ribBA', 'Ethha_0635']"
+111,E6U9U2,['Riboflavin synthase'],"The complex is composed of two ATP-binding proteins (PotA), two transmembrane proteins (PotB and PotC) and a solute-binding protein (PotD).",['Ethha_0636']
+112,E6U9U3,['Riboflavin biosynthesis protein RibD'],"The complex is composed of two ATP-binding proteins (PotA), two transmembrane proteins (PotB and PotC) and a solute-binding protein (PotD).",['Ethha_0637']
+113,E6U9V7,['UDP-glucose 6-dehydrogenase'],"The complex is composed of two ATP-binding proteins (PotA), two transmembrane proteins (PotB and PotC) and a solute-binding protein (PotD).",['Ethha_0653']
+114,E6U9V8,['UDP-galactopyranose mutase'],"The complex is composed of two ATP-binding proteins (PotA), two transmembrane proteins (PotB and PotC) and a solute-binding protein (PotD).",['Ethha_0654']
+115,E6U9V9,['Probable transaldolase'],"The complex is composed of two ATP-binding proteins (PotA), two transmembrane proteins (PotB and PotC) and a solute-binding protein (PotD).","['tal', 'Ethha_0655']"
+116,E6U9W1,['Biotin transporter'],"The complex is composed of two ATP-binding proteins (PotA), two transmembrane proteins (PotB and PotC) and a solute-binding protein (PotD).",['Ethha_0658']
+117,E6U9X0,['Nucleotide sugar dehydrogenase'],"The complex is composed of two ATP-binding proteins (PotA), two transmembrane proteins (PotB and PotC) and a solute-binding protein (PotD).",['Ethha_0667']
+118,E6U9Y3,['Aldehyde Dehydrogenase'],"The complex is composed of two ATP-binding proteins (PotA), two transmembrane proteins (PotB and PotC) and a solute-binding protein (PotD).",['Ethha_0680']
+119,E6U9Y8,['Cysteine synthase'],"The complex is composed of two ATP-binding proteins (PotA), two transmembrane proteins (PotB and PotC) and a solute-binding protein (PotD).",['Ethha_0685']
+120,E6U2I3,['Transketolase domain-containing protein'],"The complex is composed of two ATP-binding proteins (PotA), two transmembrane proteins (PotB and PotC) and a solute-binding protein (PotD).",['Ethha_0705']
+121,E6U2I4,['Transketolase central region'],"The complex is composed of two ATP-binding proteins (PotA), two transmembrane proteins (PotB and PotC) and a solute-binding protein (PotD).",['Ethha_0706']
+122,E6U2I5,['P-type Ca(2+) transporter'],"The complex is composed of two ATP-binding proteins (PotA), two transmembrane proteins (PotB and PotC) and a solute-binding protein (PotD).",['Ethha_0707']
+123,E6U2I7,['Branched-chain-amino-acid aminotransferase'],"The complex is composed of two ATP-binding proteins (PotA), two transmembrane proteins (PotB and PotC) and a solute-binding protein (PotD).",['Ethha_0709']
+124,E6U2I8,"['UDP-N-acetylglucosamine 1-carboxyvinyltransferase', 'Enoylpyruvate transferase', 'UDP-N-acetylglucosamine enolpyruvyl transferase', 'EPT']","The complex is composed of two ATP-binding proteins (PotA), two transmembrane proteins (PotB and PotC) and a solute-binding protein (PotD).","['murA', 'Ethha_0710']"
+125,E6U2J7,"['Phosphotransferase system, phosphocarrier protein HPr']","The complex is composed of two ATP-binding proteins (PotA), two transmembrane proteins (PotB and PotC) and a solute-binding protein (PotD).",['Ethha_0719']
+126,E6U2J8,['Phosphoenolpyruvate-protein phosphotransferase'],"The complex is composed of two ATP-binding proteins (PotA), two transmembrane proteins (PotB and PotC) and a solute-binding protein (PotD).",['Ethha_0720']
+127,E6U2K0,"['PTS system, glucose subfamily, IIA subunit']","The complex is composed of two ATP-binding proteins (PotA), two transmembrane proteins (PotB and PotC) and a solute-binding protein (PotD).",['Ethha_0722']
+128,E6U2K8,['fructose-bisphosphate aldolase'],"The complex is composed of two ATP-binding proteins (PotA), two transmembrane proteins (PotB and PotC) and a solute-binding protein (PotD).",['Ethha_0730']
+129,E6U2L0,['Glutamate decarboxylase'],"The complex is composed of two ATP-binding proteins (PotA), two transmembrane proteins (PotB and PotC) and a solute-binding protein (PotD).",['Ethha_0732']
+130,E6U2L1,['Carboxynorspermidine/carboxyspermidine decarboxylase'],Homodimer.,['Ethha_0733']
+131,E6U2L2,['Saccharopine dehydrogenase'],Homodimer.,['Ethha_0734']
+132,E6U2L3,"['Polyamine aminopropyltransferase', 'Putrescine aminopropyltransferase', 'PAPT', 'Spermidine synthase']",Homodimer or homotetramer.,"['speE', 'Ethha_0735']"
+133,E6U2L4,['Orn/Lys/Arg decarboxylase major region'],Homodimer or homotetramer.,['Ethha_0736']
+134,E6U2L5,"['Hydro-lyase, Fe-S type, tartrate/fumarate subfamily, alpha subunit']",Homodimer or homotetramer.,['Ethha_0737']
+135,E6U2L6,['L(+)-tartrate dehydratase subunit beta'],Heterotetramer of two alpha and two beta subunits.,['Ethha_0738']
+136,E6U2L7,['Malic protein NAD-binding protein'],Heterotetramer of two alpha and two beta subunits.,['Ethha_0739']
+137,E6U2M1,['Alpha-glucosidase'],Heterotetramer of two alpha and two beta subunits.,['Ethha_0743']
+138,E6U2M6,['Alpha amylase catalytic region'],Heterotetramer of two alpha and two beta subunits.,['Ethha_0748']
+139,E6U2N1,['Binding-protein-dependent transport systems inner membrane component'],Heterotetramer of two alpha and two beta subunits.,['Ethha_0753']
+140,E6U2N2,['Binding-protein-dependent transport systems inner membrane component'],Heterotetramer of two alpha and two beta subunits.,['Ethha_0754']
+141,E6U2N3,['Beta-galactosidase'],Heterotetramer of two alpha and two beta subunits.,['Ethha_0755']
+142,E6U2N4,['Beta-galactosidase'],Heterotetramer of two alpha and two beta subunits.,['Ethha_0756']
+143,E6U2N5,['Aldose 1-epimerase'],Heterotetramer of two alpha and two beta subunits.,['Ethha_0757']
+144,E6U2N6,['Galactokinase'],Heterotetramer of two alpha and two beta subunits.,['Ethha_0758']
+145,E6U2N7,['Galactose-1-phosphate uridylyltransferase'],Heterotetramer of two alpha and two beta subunits.,['Ethha_0759']
+146,E6U2W2,['UDP-glucose 4-epimerase'],Homodimer.,['Ethha_0760']
+147,E6U2W3,"['D-alanine--D-alanine ligase', 'D-Ala-D-Ala ligase', 'D-alanylalanine synthetase']",Homodimer.,"['ddl', 'Ethha_0761']"
+148,E6U2W4,['Glutamate racemase'],Homodimer.,"['murI', 'Ethha_0762']"
+149,E6U2W8,"['Homoserine O-acetyltransferase', 'HAT']",Homodimer.,"['metAA', 'Ethha_0766']"
+150,E6U2X2,['GCN5-related N-acetyltransferase'],Homodimer.,['Ethha_0770']
+151,E6U2X7,['Citrate synthase'],Homodimer.,['Ethha_0775']
+152,E6U2X9,['Serine acetyltransferase'],Homodimer.,['Ethha_0777']
+153,E6U2Y3,['ribose-5-phosphate isomerase'],Homodimer.,['Ethha_0781']
+154,E6U307,['UDP-glucose 4-epimerase'],Homodimer.,['Ethha_0805']
+155,E6U317,['PTS system mannose/fructose/sorbose family IID component'],Homodimer.,['Ethha_0815']
+156,E6U318,['Phosphotransferase system PTS sorbose-specific IIC subunit'],Homodimer.,['Ethha_0816']
+157,E6U319,['PTS system sorbose subfamily IIB component'],Homodimer.,['Ethha_0817']
+158,E6U320,['PTS system fructose subfamily IIA component'],Homodimer.,['Ethha_0818']
+159,E6U328,['Sucrose-6-phosphate hydrolase'],Homodimer.,['Ethha_0826']
+160,E6U329,"['PTS system, sucrose-specific IIBC subunit']",Homodimer.,['Ethha_0827']
+161,E6U3A7,"['Xanthine phosphoribosyltransferase', 'XPRTase']",Homodimer.,"['xpt', 'Ethha_0830']"
+162,E6U3A8,"['HAD-superfamily hydrolase, subfamily IA, variant 1']",Homodimer.,['Ethha_0831']
+163,E6U3B0,['Adenine deaminase'],Homodimer.,"['ade', 'Ethha_0833']"
+164,E6U3B2,['N-acylglucosamine 2-epimerase'],Homodimer.,['Ethha_0835']
+165,E6U3B3,"['Glucokinase', 'Glucose kinase', 'Phosphohexomutase', 'Phosphomannose isomerase']",Homodimer.,['Ethha_0836']
+166,E6U3B5,['6-phospho-beta-glucosidase'],Homodimer.,['Ethha_0838']
+167,E6U3B7,['Glycoside hydrolase family 1'],Homodimer.,['Ethha_0840']
+168,E6U3B8,['Phosphotransferase system PTS lactose/cellobiose-specific IIA subunit'],Homodimer.,['Ethha_0841']
+169,E6U3B9,['Phosphotransferase system lactose/cellobiose-specific IIB subunit'],Homodimer.,['Ethha_0842']
+170,E6U3C0,['Permease IIC component'],Homodimer.,['Ethha_0843']
+171,E6U3C5,['Transport system permease protein'],Homodimer.,['Ethha_0848']
+172,E6U3C7,"[""GTP 3',8-cyclase""]",Monomer and homodimer.,"['moaA', 'Ethha_0850']"
+173,E6U3C8,['Molybdenum cofactor synthesis domain protein'],Monomer and homodimer.,['Ethha_0851']
+174,E6U3C9,['Molybdopterin molybdenumtransferase'],Monomer and homodimer.,['Ethha_0852']
+175,E6U3G2,"['Phosphoglucomutase', 'Alpha-phosphoglucomutase', 'Glucose phosphomutase']",Monomer and homodimer.,['Ethha_0894']
+176,E6U3G3,['Phosphohexomutase'],Monomer and homodimer.,['Ethha_0895']
+177,E6U3G5,['Beta-glucosidase'],Monomer and homodimer.,['Ethha_0897']
+178,E6U3G6,['Alpha-galactosidase'],Monomer and homodimer.,['Ethha_0898']
+179,E6U3H0,['Binding-protein-dependent transport systems inner membrane component'],Monomer and homodimer.,['Ethha_0902']
+180,E6U3H1,['Binding-protein-dependent transport systems inner membrane component'],Monomer and homodimer.,['Ethha_0903']
+181,E6U3H3,"['Cellobiose 2-epimerase', 'CE']",Monomer and homodimer.,['Ethha_0905']
+182,E6U3Q4,['Binding-protein-dependent transport systems inner membrane component'],Monomer and homodimer.,['Ethha_0911']
+183,E6U3Q5,['Binding-protein-dependent transport systems inner membrane component'],Monomer and homodimer.,['Ethha_0912']
+184,E6U3Q6,['Extracellular solute-binding protein family 1'],Monomer and homodimer.,['Ethha_0913']
+185,E6U3Q8,['Glycerophosphoryl diester phosphodiesterase'],Monomer and homodimer.,['Ethha_0915']
+186,E6U3R0,['NUDIX hydrolase'],Monomer and homodimer.,['Ethha_0918']
+187,E6U3R1,"['Diaminopimelate epimerase', 'DAP epimerase']",Homodimer.,"['dapF', 'Ethha_0919']"
+188,E6U3R2,['LL-diaminopimelate aminotransferase'],Homodimer.,"['dapL', 'Ethha_0920']"
+189,E6U3R6,['Amidohydrolase'],Homodimer.,['Ethha_0924']
+190,E6U3R7,"['3-isopropylmalate dehydrogenase', '3-IPM-DH', 'Beta-IPM dehydrogenase', 'IMDH']",Homodimer.,"['leuB', 'Ethha_0925']"
+191,E6U3R8,"['3-isopropylmalate dehydratase small subunit', 'Alpha-IPM isomerase', 'IPMI', 'Isopropylmalate isomerase']",Heterodimer of LeuC and LeuD.,"['leuD', 'Ethha_0926']"
+192,E6U3R9,"['3-isopropylmalate dehydratase large subunit', 'Alpha-IPM isomerase', 'IPMI', 'Isopropylmalate isomerase']",Heterodimer of LeuC and LeuD.,"['leuC', 'Ethha_0927']"
+193,E6U3S1,['Acetolactate synthase'],Heterodimer of LeuC and LeuD.,['Ethha_0929']
+194,E6U3W4,['FAD-dependent pyridine nucleotide-disulfide oxidoreductase'],Heterodimer of LeuC and LeuD.,['Ethha_0978']
+195,E6U443,['Transport system permease protein'],Heterodimer of LeuC and LeuD.,['Ethha_0990']
+196,E6U446,['P-type Cu(+) transporter'],Heterodimer of LeuC and LeuD.,['Ethha_0993']
+197,E6U450,['Transport system permease protein'],Heterodimer of LeuC and LeuD.,['Ethha_0997']
+198,E6U451,['LPXTG-motif cell wall anchor domain protein'],Heterodimer of LeuC and LeuD.,['Ethha_0998']
+199,E6U456,['Transport system permease protein'],Heterodimer of LeuC and LeuD.,['Ethha_1003']
+200,E6U457,['DUF364 domain-containing protein'],Heterodimer of LeuC and LeuD.,['Ethha_1004']
+201,E6U459,['Pyruvate carboxylase'],Heterodimer of LeuC and LeuD.,['Ethha_1006']
+202,E6U466,['Isochorismatase hydrolase'],Heterodimer of LeuC and LeuD.,['Ethha_1013']
+203,E6U478,['Phosphoglucosamine mutase'],Heterodimer of LeuC and LeuD.,"['glmM', 'Ethha_1025']"
+204,E6U497,['Nicotinate phosphoribosyltransferase'],Heterodimer of LeuC and LeuD.,['Ethha_1044']
+205,E6U4A8,['Cysteine synthase'],Heterodimer of LeuC and LeuD.,['Ethha_1055']
+206,E6U4J2,['P-type Cu(+) transporter'],Heterodimer of LeuC and LeuD.,['Ethha_1067']
+207,E6U4K5,"['HAD-superfamily hydrolase, subfamily IA, variant 3']",Heterodimer of LeuC and LeuD.,['Ethha_1080']
+208,E6U4L1,['GTP cyclohydrolase 1 type 2 homolog'],Heterodimer of LeuC and LeuD.,['Ethha_1086']
+209,E6U4L4,['GCN5-related N-acetyltransferase'],Heterodimer of LeuC and LeuD.,['Ethha_1089']
+210,E6U4L7,['Fumarylacetoacetate (FAA) hydrolase'],Heterodimer of LeuC and LeuD.,['Ethha_1092']
+211,E6U4M2,['Glutamine synthetase catalytic region'],Heterodimer of LeuC and LeuD.,['Ethha_1097']
+212,E6U4N0,['Ferrous iron transport protein B'],Heterodimer of LeuC and LeuD.,['Ethha_1105']
+213,E6U4P8,"['Undecaprenyl-diphosphatase', 'Bacitracin resistance protein', 'Undecaprenyl pyrophosphate phosphatase']",Heterodimer of LeuC and LeuD.,"['uppP', 'Ethha_1125']"
+214,E6U4Y9,['asparagine synthase (glutamine-hydrolyzing)'],Heterodimer of LeuC and LeuD.,['Ethha_1144']
+215,E6U4Z0,['Phosphoribosylformylglycinamidine synthase'],Heterodimer of LeuC and LeuD.,['Ethha_1145']
+216,E6U4Z3,['serine-type D-Ala-D-Ala carboxypeptidase'],Heterodimer of LeuC and LeuD.,['Ethha_1148']
+217,E6U4Z4,"['Glucose-6-phosphate isomerase', 'GPI', 'Phosphoglucose isomerase', 'PGI', 'Phosphohexose isomerase', 'PHI']",Heterodimer of LeuC and LeuD.,"['pgi', 'Ethha_1149']"
+218,E6U501,['Glycerol-3-phosphate dehydrogenase [NAD(P)+]'],Heterodimer of LeuC and LeuD.,"['gpsA', 'Ethha_1156']"
+219,E6U506,['O-antigen polymerase'],Heterodimer of LeuC and LeuD.,['Ethha_1161']
+220,E6U509,['Iron-containing alcohol dehydrogenase'],Heterodimer of LeuC and LeuD.,['Ethha_1164']
+221,E6U516,['Dihydropyrimidinase'],Heterodimer of LeuC and LeuD.,['Ethha_1171']
+222,E6U517,['Dihydroprymidine dehydrogenase domain-containing protein'],Heterodimer of LeuC and LeuD.,['Ethha_1172']
+223,E6U518,['Dihydrothymine dehydrogenase'],Heterodimer of LeuC and LeuD.,['Ethha_1173']
+224,E6U520,"['Amidase, hydantoinase/carbamoylase family']",Heterodimer of LeuC and LeuD.,['Ethha_1175']
+225,E6U526,['serine-type D-Ala-D-Ala carboxypeptidase'],Heterodimer of LeuC and LeuD.,['Ethha_1181']
+226,E6U535,['Diacylglycerol kinase'],Heterodimer of LeuC and LeuD.,['Ethha_1190']
+227,E6U5K4,['Polyprenyl synthetase'],Heterodimer of LeuC and LeuD.,['Ethha_1212']
+228,E6U5K6,['1-deoxy-D-xylulose-5-phosphate synthase'],Homodimer.,"['dxs', 'Ethha_1214']"
+229,E6U5K8,['NAD kinase'],Homodimer.,"['nadK', 'Ethha_1216']"
+230,E6U5R2,['AAA ATPase'],Homodimer.,['Ethha_1278']
+231,E6U679,['Cyclic pyranopterin monophosphate synthase'],Homohexamer; trimer of dimers.,"['moaC', 'Ethha_1306']"
+232,E6U692,['MscS Mechanosensitive ion channel'],Homohexamer; trimer of dimers.,['Ethha_1319']
+233,E6U693,['Anthranilate synthase component 1'],Heterotetramer consisting of two non-identical subunits: a beta subunit (TrpG) and a large alpha subunit (TrpE).,"['trpE', 'Ethha_1320']"
+234,E6U694,['Glutamine amidotransferase of anthranilate synthase'],Heterotetramer consisting of two non-identical subunits: a beta subunit (TrpG) and a large alpha subunit (TrpE).,['Ethha_1321']
+235,E6U695,['Anthranilate phosphoribosyltransferase'],Homodimer.,"['trpD', 'Ethha_1322']"
+236,E6U696,"['Indole-3-glycerol phosphate synthase', 'IGPS']",Homodimer.,"['trpC', 'Ethha_1323']"
+237,E6U697,"[""N-(5'-phosphoribosyl)anthranilate isomerase"", 'PRAI']",Homodimer.,"['trpF', 'Ethha_1324']"
+238,E6U698,['Tryptophan synthase beta chain'],Tetramer of two alpha and two beta chains.,"['trpB', 'Ethha_1325']"
+239,E6U699,['Tryptophan synthase alpha chain'],Tetramer of two alpha and two beta chains.,"['trpA', 'Ethha_1326']"
+240,E6U6A1,['Thioredoxin'],Tetramer of two alpha and two beta chains.,['Ethha_1328']
+241,E6U6A3,"['2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase', '4-diphosphocytidyl-2C-methyl-D-erythritol synthase', 'MEP cytidylyltransferase', 'MCT']",Tetramer of two alpha and two beta chains.,"['ispD', 'Ethha_1330']"
+242,E6U6A4,"['2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase']",Homotrimer.,"['ispF', 'Ethha_1331']"
+243,E6U6A6,['AMP-dependent synthetase and ligase'],Homotrimer.,['Ethha_1333']
+244,E6U6A7,['Natural resistance-associated macrophage protein'],Homotrimer.,['Ethha_1334']
+245,E6U6B5,['UDP-N-acetylenolpyruvoylglucosamine reductase'],Homotrimer.,"['murB', 'Ethha_1342']"
+246,E6U6C0,['ATP-dependent 6-phosphofructokinase'],Homotetramer.,"['pfkA', 'Ethha_1347']"
+247,E6U6C3,"['L-lactate dehydrogenase', 'L-LDH']",Homotetramer.,"['ldh', 'Ethha_1350']"
+248,E6U6T8,['Trk system potassium uptake protein TrkA'],Homotetramer.,['Ethha_1367']
+249,E6U6U1,"['UDP-N-acetylmuramoylalanine--D-glutamate ligase', 'D-glutamic acid-adding enzyme', 'UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase']",Homotetramer.,"['murD', 'Ethha_1370']"
+250,E6U6U7,['Methylenetetrahydrofolate reductase'],Homotetramer.,['Ethha_1376']
+251,E6U6U8,['Vitamin B12 dependent methionine synthase activation region'],Homotetramer.,['Ethha_1377']
+252,E6U6U9,['Methionine synthase'],Homotetramer.,['Ethha_1378']
+253,E6U6V0,['Biotin synthase'],Homodimer.,"['bioB', 'Ethha_1379']"
+254,E6U6V1,['Biotin transporter'],Homodimer.,['Ethha_1380']
+255,E6U6V2,"['Bifunctional ligase/repressor BirA', 'Biotin--[acetyl-CoA-carboxylase] ligase', 'Biotin--protein ligase', 'Biotin-[acetyl-CoA carboxylase] synthetase']",Homodimer.,"['birA', 'Ethha_1381']"
+256,E6U6V3,"['2,3-bisphosphoglycerate-dependent phosphoglycerate mutase']",Homodimer.,"['gpmA', 'Ethha_1382']"
+257,E6U6V6,['Aldehyde-alcohol dehydrogenase'],Homodimer.,['Ethha_1385']
+258,E6U6V9,"['Aconitate hydratase A', 'Iron-responsive protein-like', 'RNA-binding protein']",Monomer.,['Ethha_1388']
+259,E6U6W7,['GCN5-related N-acetyltransferase'],Monomer.,['Ethha_1397']
+260,E6U6X5,['GCN5-related N-acetyltransferase'],Monomer.,['Ethha_1405']
+261,E6U6Y0,['Cell wall hydrolase/autolysin'],Monomer.,['Ethha_1410']
+262,E6U6Y6,['Pyrroline-5-carboxylate reductase'],Monomer.,"['proC', 'Ethha_1416']"
+263,E6U6Z4,['Aspartate-semialdehyde dehydrogenase'],Monomer.,['Ethha_1424']
+264,E6U6Z5,"['4-hydroxy-tetrahydrodipicolinate synthase', 'HTPA synthase']",Homotetramer; dimer of dimers.,"['dapA', 'Ethha_1425']"
+265,E6U6Z6,"['4-hydroxy-tetrahydrodipicolinate reductase', 'HTPA reductase']",Homotetramer.,"['dapB', 'Ethha_1426']"
+266,E6U6Z9,['Mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase'],Homotetramer.,['Ethha_1429']
+267,E6U700,['Phosphopantothenoylcysteine decarboxylase'],Homotetramer.,['Ethha_1430']
+268,E6U701,['DNA/pantothenate metabolism flavoprotein domain protein'],Homotetramer.,['Ethha_1431']
+269,E6U703,"['Phosphoribosyl-ATP pyrophosphatase', 'PRA-PH']",Homotetramer.,"['hisE', 'Ethha_1433']"
+270,E6U704,"['Phosphoribosyl-AMP cyclohydrolase', 'PRA-CH']",Homodimer.,"['hisI', 'Ethha_1434']"
+271,E6U705,"['Imidazole glycerol phosphate synthase subunit HisF', 'IGP synthase cyclase subunit', 'IGP synthase subunit HisF', 'ImGP synthase subunit HisF', 'IGPS subunit HisF']",Heterodimer of HisH and HisF.,"['hisF', 'Ethha_1435']"
+272,E6U706,['1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase'],Heterodimer of HisH and HisF.,"['hisA', 'Ethha_1436']"
+273,E6U707,"['Imidazole glycerol phosphate synthase subunit HisH', 'IGP synthase glutaminase subunit', 'IGP synthase subunit HisH', 'ImGP synthase subunit HisH', 'IGPS subunit HisH']",Heterodimer of HisH and HisF.,"['hisH', 'Ethha_1437']"
+274,E6U708,"['Imidazoleglycerol-phosphate dehydratase', 'IGPD']",Heterodimer of HisH and HisF.,"['hisB', 'Ethha_1438']"
+275,E6U7F3,['Aminotransferase class I and II'],Heterodimer of HisH and HisF.,['Ethha_1439']
+276,E6U7F4,"['Histidinol dehydrogenase', 'HDH']",Heterodimer of HisH and HisF.,"['hisD', 'Ethha_1440']"
+277,E6U7F5,['ATP phosphoribosyltransferase'],Heteromultimer composed of HisG and HisZ subunits.,"['hisG', 'Ethha_1441']"
+278,E6U7F6,['ATP phosphoribosyltransferase regulatory subunit'],Heteromultimer composed of HisG and HisZ subunits.,"['hisZ', 'Ethha_1442']"
+279,E6U7F9,['Multifunctional fusion protein'],Heteromultimer composed of HisG and HisZ subunits.,"['msrB', 'msrA', 'Ethha_1445']"
+280,E6U7G0,['Trans-aconitate 2-methyltransferase'],Heteromultimer composed of HisG and HisZ subunits.,['Ethha_1446']
+281,E6U7G3,['ABC transporter related protein'],Heteromultimer composed of HisG and HisZ subunits.,['Ethha_1449']
+282,E6U7G7,['Glycoside hydrolase family 1'],Heteromultimer composed of HisG and HisZ subunits.,['Ethha_1453']
+283,E6U7H2,"['4-hydroxy-3-methylbut-2-enyl diphosphate reductase', 'HMBPP reductase']",Heteromultimer composed of HisG and HisZ subunits.,"['ispH', 'Ethha_1458']"
+284,E6U7H3,['1-acyl-sn-glycerol-3-phosphate acyltransferase'],Heteromultimer composed of HisG and HisZ subunits.,['Ethha_1459']
+285,E6U7H4,"['Cytidylate kinase', 'CK']",Heteromultimer composed of HisG and HisZ subunits.,"['cmk', 'Ethha_1460']"
+286,E6U7I0,['nucleoside-diphosphate kinase'],Heteromultimer composed of HisG and HisZ subunits.,['Ethha_1466']
+287,E6U7I3,['5-formyltetrahydrofolate cyclo-ligase'],Heteromultimer composed of HisG and HisZ subunits.,['Ethha_1469']
+288,E6U7I5,['GCN5-related N-acetyltransferase'],Heteromultimer composed of HisG and HisZ subunits.,['Ethha_1471']
+289,E6U7I7,['Guanylate kinase/L-type calcium channel region'],Heteromultimer composed of HisG and HisZ subunits.,['Ethha_1473']
+290,E6U7I9,"['Glycosyl transferase, WecB/TagA/CpsF family']",Heteromultimer composed of HisG and HisZ subunits.,['Ethha_1475']
+291,E6U7J1,"['S-ribosylhomocysteine lyase', 'AI-2 synthesis protein', 'Autoinducer-2 production protein LuxS']",Homodimer.,['Ethha_1477']
+292,E6U7J5,['Cytidylate kinase'],Homodimer.,['Ethha_1481']
+293,E6U7J6,['Cof-like hydrolase'],Homodimer.,['Ethha_1482']
+294,E6U7J8,['Phosphoenolpyruvate-protein phosphotransferase'],Homodimer.,['Ethha_1484']
+295,E6U7J9,"['Phosphotransferase system, phosphocarrier protein HPr']",Homodimer.,['Ethha_1485']
+296,E6U7K0,['Tagatose-6-phosphate kinase'],Homodimer.,['Ethha_1486']
+297,E6U7K4,['tetrahydrofolate synthase'],Monomer.,['Ethha_1490']
+298,E6U7L0,['Thiazole synthase'],Homotetramer. Forms heterodimers with either ThiH or ThiS.,"['thiG', 'Ethha_1496']"
+299,E6U7L1,['Thiazole biosynthesis protein ThiH'],Homotetramer. Forms heterodimers with either ThiH or ThiS.,['Ethha_1497']
+300,E6U7L2,['Thiamine-phosphate synthase'],Homotetramer. Forms heterodimers with either ThiH or ThiS.,"['thiE', 'Ethha_1498']"
+301,E6U7L6,['Isochorismatase hydrolase'],Homotetramer. Forms heterodimers with either ThiH or ThiS.,['Ethha_1502']
+302,E6U7L7,['Glyceraldehyde-3-phosphate dehydrogenase'],Homotetramer.,['Ethha_1503']
+303,E6U7M3,['Carboxymuconolactone decarboxylase'],Homotetramer.,['Ethha_1510']
+304,E6U838,['Peptidase S11 D-alanyl-D-alanine carboxypeptidase 1'],Homotetramer.,['Ethha_1521']
+305,E6U848,['Aspartate carbamoyltransferase'],Homotetramer.,"['pyrB', 'Ethha_1531']"
+306,E6U852,['ABC transporter related protein'],Homotetramer.,['Ethha_1535']
+307,E6U854,"['dTDP-glucose 4,6-dehydratase']",Homotetramer.,['Ethha_1537']
+308,E6U855,"['dTDP-4-dehydrorhamnose 3,5-epimerase']",Homodimer.,['Ethha_1538']
+309,E6U856,['dTDP-4-dehydrorhamnose reductase'],Homodimer.,['Ethha_1539']
+310,E6U858,['Glucose-1-phosphate thymidylyltransferase'],Homodimer.,['Ethha_1541']
+311,E6U864,['Phosphoglycerate kinase'],Monomer.,"['pgk', 'Ethha_1547']"
+312,E6U865,['Triosephosphate isomerase'],Homodimer.,"['tpiA', 'Ethha_1548']"
+313,E6U866,"['2,3-bisphosphoglycerate-independent phosphoglycerate mutase']",Monomer.,"['gpmI', 'Ethha_1549']"
+314,E6U875,['Pyruvate carboxyltransferase'],Monomer.,['Ethha_1558']
+315,E6U876,['Pyruvate carboxyltransferase'],Monomer.,['Ethha_1559']
+316,E6U880,['Nitrogenase molybdenum-iron protein beta chain'],Tetramer of two alpha and two beta chains. Forms complex with the iron protein (nitrogenase component 2).,['Ethha_1563']
+317,E6U881,['Nitrogenase protein alpha chain'],Tetramer of two alpha and two beta chains. Forms complex with the iron protein (nitrogenase component 2).,['Ethha_1564']
+318,E6U884,"['Nitrogenase iron protein', 'Nitrogenase Fe protein', 'Nitrogenase component II', 'Nitrogenase reductase']",Homodimer.,"['nifH', 'Ethha_1567']"
+319,E6U887,"['DNA binding domain protein, excisionase family']",Homodimer.,['Ethha_1570']
+320,E6U894,"['Aldoketomutase', 'Ketone-aldehyde mutase', 'Methylglyoxalase', 'S-D-lactoylglutathione methylglyoxal lyase']",Homodimer.,['Ethha_1577']
+321,E6U8Q4,['Urease accessory protein UreE'],Homodimer.,"['ureE', 'Ethha_1604']"
+322,E6U8Q8,['UDP-N-acetylglucosamine 2-epimerase (non-hydrolyzing)'],Homodimer.,['Ethha_1608']
+323,E6U8R1,['Agmatinase'],Homodimer.,['Ethha_1611']
+324,E6U8R3,['S-adenosylmethionine decarboxylase proenzyme'],Heterooctamer of four alpha and four beta chains arranged as a tetramer of alpha/beta heterodimers.,"['speD', 'Ethha_1613']"
+325,E6U8R7,['4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)'],Heterooctamer of four alpha and four beta chains arranged as a tetramer of alpha/beta heterodimers.,"['ispG', 'Ethha_1617']"
+326,E6U8R9,"['1-deoxy-D-xylulose 5-phosphate reductoisomerase', 'DXP reductoisomerase', '1-deoxyxylulose-5-phosphate reductoisomerase', '2-C-methyl-D-erythritol 4-phosphate synthase']",Heterooctamer of four alpha and four beta chains arranged as a tetramer of alpha/beta heterodimers.,"['dxr', 'Ethha_1619']"
+327,E6U8S0,['Phosphatidate cytidylyltransferase'],Heterooctamer of four alpha and four beta chains arranged as a tetramer of alpha/beta heterodimers.,['Ethha_1620']
+328,E6U8S1,['Isoprenyl transferase'],Homodimer.,['Ethha_1621']
+329,E6U8S2,"['Ribosome-recycling factor', 'RRF']",Homodimer.,"['frr', 'Ethha_1622']"
+330,E6U8S3,"['Uridylate kinase', 'UK']",Homohexamer.,"['pyrH', 'Ethha_1623']"
+331,E6U8S8,['RNA polymerase sigma factor'],Homohexamer.,['Ethha_1628']
+332,E6U8T0,['Sugar (Glycoside-Pentoside-Hexuronide) transporter'],Homohexamer.,['Ethha_1630']
+333,E6U8U2,['Putative competence-damage inducible protein'],Homohexamer.,"['cinA', 'Ethha_1642']"
+334,E6U8U5,"['CTP synthase', ""Cytidine 5'-triphosphate synthase"", 'Cytidine triphosphate synthetase']",Homotetramer.,"['pyrG', 'Ethha_1645']"
+335,E6U8U9,['Bifunctional protein FolD'],Homodimer.,"['folD', 'Ethha_1649']"
+336,E6U8V7,['Formate acetyltransferase'],Homodimer.,['Ethha_1657']
+337,E6U972,"['GMP synthase [glutamine-hydrolyzing]', 'GMP synthetase', 'Glutamine amidotransferase']",Homodimer.,"['guaA', 'Ethha_1704']"
+338,E6U974,['Formate--tetrahydrofolate ligase'],Homodimer.,"['fhs', 'Ethha_1706']"
+339,E6U977,"['Sugar-phosphate isomerase, RpiB/LacA/LacB family']",Homodimer.,['Ethha_1709']
+340,E6U978,"['Uracil phosphoribosyltransferase', 'UMP pyrophosphorylase', 'UPRTase']",Homodimer.,"['upp', 'Ethha_1710']"
+341,E6U984,['ABC-3 protein'],Homodimer.,['Ethha_1716']
+342,E6U985,['ABC transporter related protein'],Homodimer.,['Ethha_1717']
+343,E6U990,['O-acetylserine (thiol)-lyase'],Homodimer.,['Ethha_1722']
+344,E6U991,['Cys/Met metabolism pyridoxal-phosphate-dependent protein'],Homodimer.,['Ethha_1723']
+345,E6U992,['Cys/Met metabolism pyridoxal-phosphate-dependent protein'],Homodimer.,['Ethha_1724']
+346,E6U993,['Aminotransferase'],Homodimer.,['Ethha_1725']
+347,E6U994,['Iron-containing alcohol dehydrogenase'],Homodimer.,['Ethha_1726']
+348,E6U995,['Binding-protein-dependent transport systems inner membrane component'],Homodimer.,['Ethha_1727']
+349,E6U996,['ABC transporter related protein'],Homodimer.,['Ethha_1728']
+350,E6U997,['Aminotransferase class I and II'],Homodimer.,['Ethha_1729']
+351,E6U998,['NLPA lipoprotein'],Homodimer.,['Ethha_1730']
+352,E6U9A4,['Glycerol dehydrogenase'],Homodimer.,['Ethha_1736']
+353,E6U9B2,"['Hydroxylamine reductase', 'Hybrid-cluster protein', 'HCP', 'Prismane protein']",Homodimer.,"['hcp', 'Ethha_1745']"
+354,E6U9J5,"['Potassium-transporting ATPase KdpC subunit', 'ATP phosphohydrolase [potassium-transporting] C chain', 'Potassium-binding and translocating subunit C', 'Potassium-translocating ATPase C chain']","The system is composed of three essential subunits: KdpA, KdpB and KdpC.","['kdpC', 'Ethha_1755']"
+355,E6U9J6,"['Potassium-transporting ATPase ATP-binding subunit', 'ATP phosphohydrolase [potassium-transporting] B chain', 'Potassium-binding and translocating subunit B', 'Potassium-translocating ATPase B chain']","The system is composed of three essential subunits: KdpA, KdpB and KdpC.","['kdpB', 'Ethha_1756']"
+356,E6U9J7,"['Potassium-transporting ATPase, A subunit']","The system is composed of three essential subunits: KdpA, KdpB and KdpC.",['Ethha_1757']
+357,E6U9M1,['Alpha-galactosidase'],"The system is composed of three essential subunits: KdpA, KdpB and KdpC.",['Ethha_1782']
+358,E6U9M5,['Galactokinase'],"The system is composed of three essential subunits: KdpA, KdpB and KdpC.",['Ethha_1786']
+359,E6U9M6,['Galactose-1-phosphate uridylyltransferase'],"The system is composed of three essential subunits: KdpA, KdpB and KdpC.",['Ethha_1787']
+360,E6U9M7,['Sucrose 6(F)-phosphate phosphorylase'],"The system is composed of three essential subunits: KdpA, KdpB and KdpC.",['Ethha_1788']
+361,E6UA68,['GCN5-related N-acetyltransferase'],"The system is composed of three essential subunits: KdpA, KdpB and KdpC.",['Ethha_1907']
+362,E6U2Q5,"['Undecaprenyl-diphosphatase', 'Bacitracin resistance protein', 'Undecaprenyl pyrophosphate phosphatase']","The system is composed of three essential subunits: KdpA, KdpB and KdpC.","['uppP', 'Ethha_1925']"
+363,E6U2R1,"['Hydroxylamine reductase', 'Hybrid-cluster protein', 'HCP', 'Prismane protein']","The system is composed of three essential subunits: KdpA, KdpB and KdpC.","['hcp', 'Ethha_1934']"
+364,E6U2T2,['Glutamine-dependent NAD(+) synthetase'],"The system is composed of three essential subunits: KdpA, KdpB and KdpC.","['nadE', 'Ethha_1956']"
+365,E6U2T7,"['Holo-[acyl-carrier-protein] synthase', 'Holo-ACP synthase']","The system is composed of three essential subunits: KdpA, KdpB and KdpC.","['acpS', 'Ethha_1961']"
+366,E6U2U0,['ATP:corrinoid adenosyltransferase BtuR/CobO/CobP'],"The system is composed of three essential subunits: KdpA, KdpB and KdpC.",['Ethha_1964']
+367,E6U2U2,"['Fructose-1,6-bisphosphatase class 3', 'FBPase class 3']","The system is composed of three essential subunits: KdpA, KdpB and KdpC.","['fbp', 'Ethha_1966']"
+368,E6U2U9,['Adenylosuccinate synthetase'],Homodimer.,"['purA', 'Ethha_1973']"
+369,E6U2V3,['CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase'],Homodimer.,['Ethha_1977']
+370,E6U339,"['Glucose-1-phosphate adenylyltransferase', 'ADP-glucose pyrophosphorylase', 'ADPGlc PPase', 'ADP-glucose synthase']",Homotetramer.,"['glgC', 'Ethha_1993']"
+371,E6U340,"['Glucose-1-phosphate adenylyltransferase, GlgD subunit']",Homotetramer.,['Ethha_1994']
+372,E6U341,['Glycogen synthase'],Homotetramer.,"['glgA', 'Ethha_1995']"
+373,E6U347,"['PTS system, fructose subfamily, IIC subunit']",Homotetramer.,['Ethha_2001']
+374,E6U348,['PfkB domain protein'],Homotetramer.,['Ethha_2002']
+375,E6U350,['Acetate kinase'],Homodimer.,"['ackA', 'Ethha_2004']"
+376,E6U353,['pyridoxal kinase'],Homodimer.,['Ethha_2007']
+377,E6U357,"['Histidinol-phosphatase', 'HolPase']",Homodimer.,['Ethha_2011']
+378,E6U381,['Aminoglycoside phosphotransferase'],Homodimer.,['Ethha_2036']
+379,E6U385,['UBA/THIF-type NAD/FAD binding protein'],Homodimer.,['Ethha_2040']
+380,E6U392,['Uridine phosphorylase'],Homodimer.,['Ethha_2047']
+381,E6U396,"['UDP-N-acetylglucosamine 1-carboxyvinyltransferase', 'Enoylpyruvate transferase', 'UDP-N-acetylglucosamine enolpyruvyl transferase', 'EPT']",Homodimer.,"['murA', 'Ethha_2051']"
+382,E6U398,['Phospho-N-acetylmuramoyl-pentapeptide-transferase'],Homodimer.,"['mraY', 'Ethha_2053']"
+383,E6U399,['UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase'],Homodimer.,"['murF', 'Ethha_2054']"
+384,E6U3A0,"['UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase', 'Meso-A2pm-adding enzyme', 'Meso-diaminopimelate-adding enzyme', 'UDP-MurNAc-L-Ala-D-Glu:meso-diaminopimelate ligase', 'UDP-MurNAc-tripeptide synthetase', 'UDP-N-acetylmuramyl-tripeptide synthetase']",Homodimer.,"['murE', 'Ethha_2055']"
+385,E6U3A6,"['Phosphopantetheine adenylyltransferase', 'Dephospho-CoA pyrophosphorylase', 'Pantetheine-phosphate adenylyltransferase', 'PPAT']",Homohexamer.,"['coaD', 'Ethha_2061']"
+386,E6U3J9,"['Ribose-phosphate pyrophosphokinase', 'RPPK', '5-phospho-D-ribosyl alpha-1-diphosphate synthase', 'Phosphoribosyl diphosphate synthase', 'Phosphoribosyl pyrophosphate synthase']",Homohexamer.,"['prs', 'Ethha_2082']"
+387,E6U3K0,['Bifunctional protein GlmU'],Homotrimer.,"['glmU', 'Ethha_2083']"
+388,E6U3K7,['Phosphoribosyltransferase'],Homotrimer.,['Ethha_2090']
+389,E6U3L4,['Superoxide dismutase copper/zinc binding protein'],Homotrimer.,['Ethha_2097']
+390,E6U3L9,['GTP cyclohydrolase 1'],Homopolymer.,"['folE', 'Ethha_2102']"
+391,E6U3M0,['Dihydropteroate synthase'],Homopolymer.,['Ethha_2103']
+392,E6U3M1,"['7,8-dihydroneopterin aldolase']",Homopolymer.,['Ethha_2104']
+393,E6U3M2,['2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase'],Homopolymer.,['Ethha_2105']
+394,E6U3M5,['thiamine diphosphokinase'],Homopolymer.,['Ethha_2108']
+395,E6U3M6,['Small ribosomal subunit biogenesis GTPase RsgA'],"Monomer. Associates with 30S ribosomal subunit, binds 16S rRNA.","['rsgA', 'Ethha_2109']"
+396,E6U3N5,['Guanylate kinase'],"Monomer. Associates with 30S ribosomal subunit, binds 16S rRNA.","['gmk', 'Ethha_2118']"
+397,E6U3N9,['serine-type D-Ala-D-Ala carboxypeptidase'],"Monomer. Associates with 30S ribosomal subunit, binds 16S rRNA.",['Ethha_2122']
+398,E6U3X7,"['5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase', 'Cobalamin-independent methionine synthase', 'Methionine synthase, vitamin-B12 independent isozyme']","Monomer. Associates with 30S ribosomal subunit, binds 16S rRNA.","['metE', 'Ethha_2140']"
+399,E6U3Y5,['Ammonium transporter'],"Monomer. Associates with 30S ribosomal subunit, binds 16S rRNA.",['Ethha_2148']
+400,E6U3Z8,['biotin--[biotin carboxyl-carrier protein] ligase'],"Monomer. Associates with 30S ribosomal subunit, binds 16S rRNA.",['Ethha_2161']
+401,E6U410,['Arginine decarboxylase'],"Monomer. Associates with 30S ribosomal subunit, binds 16S rRNA.",['Ethha_2173']
+402,E6U411,['Alanine racemase'],"Monomer. Associates with 30S ribosomal subunit, binds 16S rRNA.",['Ethha_2174']
+403,E6U415,"['ATPase, P-type (Transporting), HAD superfamily, subfamily IC']","Monomer. Associates with 30S ribosomal subunit, binds 16S rRNA.",['Ethha_2178']
+404,E6U417,"['Type III pantothenate kinase', 'PanK-III', 'Pantothenic acid kinase']",Homodimer.,"['coaX', 'Ethha_2180']"
+405,E6U426,['Aldo/keto reductase'],Homodimer.,['Ethha_2189']
+406,E6U430,['UTP--glucose-1-phosphate uridylyltransferase'],Homodimer.,['Ethha_2193']
+407,E6U435,['Ammonium transporter'],Homodimer.,['Ethha_2198']
+408,E6U4B4,['Aminotransferase'],Homodimer.,['Ethha_2204']
+409,E6U4C4,['deoxyribose-phosphate aldolase'],Homodimer.,['Ethha_2216']
+410,E6U4D0,['ABC transporter related protein'],Homodimer.,['Ethha_2222']
+411,E6U4E9,["Pyridoxal-5'-phosphate-dependent protein beta subunit"],Homodimer.,['Ethha_2242']
+412,E6U4F3,['Histidinol-phosphate aminotransferase'],Homodimer.,"['hisC', 'Ethha_2246']"
+413,E6U4F5,['Amidinotransferase'],Homodimer.,['Ethha_2248']
+414,E6U4F8,['D-isomer specific 2-hydroxyacid dehydrogenase NAD-binding protein'],Homodimer.,['Ethha_2251']
+415,E6U4G8,['Sodium/hydrogen exchanger'],Homodimer.,['Ethha_2261']
+416,E6U4Q9,['Hypoxanthine phosphoribosyltransferase'],Homodimer.,['Ethha_2281']
+417,E6U4R6,['Nucleotidyl transferase'],Homodimer.,['Ethha_2288']
+418,E6U4S2,['glutamate synthase (NADPH)'],Homodimer.,['Ethha_2294']
+419,E6U4S6,["5'-Nucleotidase domain-containing protein"],Homodimer.,['Ethha_2299']
+420,E6U4S8,['FAD-dependent pyridine nucleotide-disulfide oxidoreductase'],Homodimer.,['Ethha_2301']
+421,E6U4S9,['Anaerobic-type carbon monoxide dehydrogenase electron transfer subunit'],Homodimer.,['Ethha_2302']
+422,E6U4T4,['Transport system permease protein'],Homodimer.,['Ethha_2307']
+423,E6U4T6,"['Nitrogenase iron protein', 'Nitrogenase Fe protein', 'Nitrogenase component II', 'Nitrogenase reductase']",Homodimer.,"['nifH', 'Ethha_2309']"
+424,E6U4T9,['nitrogenase'],Homodimer.,['Ethha_2312']
+425,E6U4U0,['nitrogenase'],"Hexamer of two alpha, two beta, and two delta chains.",['Ethha_2313']
+426,E6U4U1,['Oxidoreductase/nitrogenase component 1'],"Hexamer of two alpha, two beta, and two delta chains.",['Ethha_2314']
+427,E6U4U6,['Pyruvate carboxyltransferase'],"Hexamer of two alpha, two beta, and two delta chains.",['Ethha_2319']
+428,E6U4U7,['Homocitrate synthase'],"Hexamer of two alpha, two beta, and two delta chains.",['Ethha_2320']
+429,E6U4V7,['Nitrilase/cyanide hydratase and apolipoprotein N-acyltransferase'],"Hexamer of two alpha, two beta, and two delta chains.",['Ethha_2331']
+430,E6U4V8,['Biotin carboxylase'],"Hexamer of two alpha, two beta, and two delta chains.",['Ethha_2332']
+431,E6U4V9,"['Urea ABC transporter, ATP-binding protein UrtE']","Hexamer of two alpha, two beta, and two delta chains.",['Ethha_2333']
+432,E6U4W0,"['Urea ABC transporter, ATP-binding protein UrtD']","Hexamer of two alpha, two beta, and two delta chains.",['Ethha_2334']
+433,E6U4W1,['Inner-membrane translocator'],"Hexamer of two alpha, two beta, and two delta chains.",['Ethha_2335']
+434,E6U4W2,['Inner-membrane translocator'],"Hexamer of two alpha, two beta, and two delta chains.",['Ethha_2336']
+435,E6U4W3,"['ABC transporter, periplasmic solute-binding protein, putative']","Hexamer of two alpha, two beta, and two delta chains.",['Ethha_2337']
+436,E6U4X6,['GDP-L-fucose synthase'],"Hexamer of two alpha, two beta, and two delta chains.","['fcl', 'Ethha_2356']"
+437,E6U4X8,"['GDP-mannose 4,6-dehydratase']","Hexamer of two alpha, two beta, and two delta chains.","['gmd', 'Ethha_2358']"
+438,E6U569,"['Undecaprenyl-diphosphatase', 'Bacitracin resistance protein', 'Undecaprenyl pyrophosphate phosphatase']","Hexamer of two alpha, two beta, and two delta chains.","['uppP', 'Ethha_2383']"
+439,E6U570,['Quinolinate synthase'],"Hexamer of two alpha, two beta, and two delta chains.","['nadA', 'Ethha_2384']"
+440,E6U583,['Extracellular solute-binding protein family 1'],"Hexamer of two alpha, two beta, and two delta chains.",['Ethha_2397']
+441,E6U585,['Binding-protein-dependent transport systems inner membrane component'],"Hexamer of two alpha, two beta, and two delta chains.",['Ethha_2399']
+442,E6U586,['ABC transporter related protein'],"Hexamer of two alpha, two beta, and two delta chains.",['Ethha_2400']
+443,E6U596,['Amidase'],"Hexamer of two alpha, two beta, and two delta chains.",['Ethha_2411']
+444,E6U5X1,['Anaerobic ribonucleoside-triphosphate reductase-activating protein'],"Hexamer of two alpha, two beta, and two delta chains.",['Ethha_2495']
+445,E6U5X2,['Anaerobic ribonucleoside-triphosphate reductase'],"Hexamer of two alpha, two beta, and two delta chains.",['Ethha_2496']
+446,E6U5X3,['Orotate phosphoribosyltransferase'],Homodimer.,"['pyrE', 'Ethha_2497']"
+447,E6U5Y5,['UDP-N-acetylmuramate--L-alanine ligase'],Homodimer.,"['murC', 'Ethha_2509']"
+448,E6U6E2,['TDP-4-keto-6-deoxy-D-glucose transaminase'],Homodimer.,['Ethha_2519']
+449,E6U712,"['Alpha-1,4 glucan phosphorylase']",Homodimer.,['Ethha_2589']
+450,E6U713,"['4-alpha-glucanotransferase', 'Amylomaltase', 'Disproportionating enzyme']",Homodimer.,['Ethha_2590']
+451,E6U727,['Glyceraldehyde-3-phosphate dehydrogenase'],Homotetramer.,['Ethha_2604']
+452,E6U731,"['2-isopropylmalate synthase', 'Alpha-IPM synthase', 'Alpha-isopropylmalate synthase']",Homodimer.,"['leuA', 'Ethha_2608']"
+453,E6U733,['Alanine racemase'],Homodimer.,['Ethha_2610']
+454,E6U745,['2-dehydropantoate 2-reductase'],Homodimer.,['Ethha_2622']
+455,E6U766,"['Acyl carrier protein', 'ACP']",Homodimer.,"['acpP', 'Ethha_2643']"
+456,E6U767,['Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha'],"Acetyl-CoA carboxylase is a heterohexamer composed of biotin carboxyl carrier protein (AccB), biotin carboxylase (AccC) and two subunits each of ACCase subunit alpha (AccA) and ACCase subunit beta (AccD).","['accA', 'Ethha_2644']"
+457,E6U768,['Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta'],"Acetyl-CoA carboxylase is a heterohexamer composed of biotin carboxyl carrier protein (AccB), biotin carboxylase (AccC) and two subunits each of ACCase subunit alpha (AccA) and ACCase subunit beta (AccD).","['accD', 'Ethha_2645']"
+458,E6U769,['Biotin carboxylase'],"Acetyl-CoA carboxylase is a heterohexamer of biotin carboxyl carrier protein, biotin carboxylase and the two subunits of carboxyl transferase in a 2:2 complex.",['Ethha_2646']
+459,E6U770,['Beta-hydroxyacyl-(Acyl-carrier-protein) dehydratase FabA/FabZ'],"Acetyl-CoA carboxylase is a heterohexamer of biotin carboxyl carrier protein, biotin carboxylase and the two subunits of carboxyl transferase in a 2:2 complex.",['Ethha_2647']
+460,E6U771,['Biotin carboxyl carrier protein of acetyl-CoA carboxylase'],"Acetyl-CoA carboxylase is a heterohexamer of biotin carboxyl carrier protein, biotin carboxylase and the two subunits of carboxyl transferase in a 2:2 complex.",['Ethha_2648']
+461,E6U772,['3-oxoacyl-[acyl-carrier-protein] synthase 2'],"Acetyl-CoA carboxylase is a heterohexamer of biotin carboxyl carrier protein, biotin carboxylase and the two subunits of carboxyl transferase in a 2:2 complex.",['Ethha_2649']
+462,E6U773,['3-oxoacyl-[acyl-carrier-protein] reductase'],Homotetramer.,['Ethha_2650']
+463,E6U774,"['Beta-ketoacyl-[acyl-carrier-protein] synthase III', '3-oxoacyl-[acyl-carrier-protein] synthase 3', '3-oxoacyl-[acyl-carrier-protein] synthase III']",Homodimer.,"['fabH', 'Ethha_2651']"
+464,E6U775,['Malonyl CoA-acyl carrier protein transacylase'],Homodimer.,['Ethha_2652']
+465,E6U776,"['Shikimate dehydrogenase (NADP(+))', 'SDH']",Homodimer.,"['aroE', 'Ethha_2653']"
+466,E6U777,"['Shikimate kinase', 'SK']",Monomer.,"['aroK', 'Ethha_2654']"
+467,E6U779,['Phospho-2-dehydro-3-deoxyheptonate aldolase'],Monomer.,['Ethha_2656']
+468,E6U780,['Prephenate dehydrogenase'],Monomer.,['Ethha_2657']
+469,E6U781,"['3-dehydroquinate synthase', 'DHQS']",Monomer.,"['aroB', 'Ethha_2658']"
+470,E6U7M9,['3-phosphoshikimate 1-carboxyvinyltransferase'],Monomer.,"['aroA', 'Ethha_2659']"
+471,E6U7N0,"['Chorismate synthase', 'CS']",Homotetramer.,"['aroC', 'Ethha_2660']"
+472,E6U7N1,"['Bifunctional chorismate mutase/prephenate dehydratase', 'Chorismate mutase-prephenate dehydratase', 'p-protein']",Homotetramer.,['Ethha_2661']
+473,E6U7N2,"['Enolase', '2-phospho-D-glycerate hydro-lyase', '2-phosphoglycerate dehydratase']",Homotetramer.,"['eno', 'Ethha_2662']"
+474,E6U7N7,['Urease accessory protein UreD'],"UreD, UreF and UreG form a complex that acts as a GTP-hydrolysis-dependent molecular chaperone, activating the urease apoprotein by helping to assemble the nickel containing metallocenter of UreC. The UreE protein probably delivers the nickel.","['ureD', 'Ethha_2667']"
+475,E6U7N8,['Urease accessory protein UreG'],"Homodimer. UreD, UreF and UreG form a complex that acts as a GTP-hydrolysis-dependent molecular chaperone, activating the urease apoprotein by helping to assemble the nickel containing metallocenter of UreC. The UreE protein probably delivers the nickel.","['ureG', 'Ethha_2668']"
+476,E6U7N9,['Urease accessory protein UreF'],"UreD, UreF and UreG form a complex that acts as a GTP-hydrolysis-dependent molecular chaperone, activating the urease apoprotein by helping to assemble the nickel containing metallocenter of UreC. The UreE protein probably delivers the nickel.","['ureF', 'Ethha_2669']"
+477,E6U7P0,['Urease subunit alpha'],"Heterotrimer of UreA (gamma), UreB (beta) and UreC (alpha) subunits. Three heterotrimers associate to form the active enzyme.","['ureC', 'Ethha_2670']"
+478,E6U7P1,['Urease subunit beta'],"Heterotrimer of UreA (gamma), UreB (beta) and UreC (alpha) subunits. Three heterotrimers associate to form the active enzyme.","['ureB', 'Ethha_2671']"
+479,E6U7P2,['Urease subunit gamma'],"Heterotrimer of UreA (gamma), UreB (beta) and UreC (alpha) subunits. Three heterotrimers associate to form the active enzyme.","['ureA', 'Ethha_2672']"
+480,E6U7P5,['Ribose 5-phosphate isomerase B'],"Heterotrimer of UreA (gamma), UreB (beta) and UreC (alpha) subunits. Three heterotrimers associate to form the active enzyme.",['Ethha_2675']
+481,E6U7P7,"['Polyphosphate kinase', 'ATP-polyphosphate phosphotransferase', 'Polyphosphoric acid kinase']","Heterotrimer of UreA (gamma), UreB (beta) and UreC (alpha) subunits. Three heterotrimers associate to form the active enzyme.","['ppk', 'Ethha_2677']"
+482,E6U7P8,['Ppx/GppA phosphatase'],"Heterotrimer of UreA (gamma), UreB (beta) and UreC (alpha) subunits. Three heterotrimers associate to form the active enzyme.",['Ethha_2678']
+483,E6U7Q7,"['Adenylosuccinate lyase', 'ASL']","Heterotrimer of UreA (gamma), UreB (beta) and UreC (alpha) subunits. Three heterotrimers associate to form the active enzyme.",['Ethha_2687']
+484,E6U7Q9,['Lactonase family protein'],"Heterotrimer of UreA (gamma), UreB (beta) and UreC (alpha) subunits. Three heterotrimers associate to form the active enzyme.",['Ethha_2689']
+485,E6U7R0,['GCN5-related N-acetyltransferase'],"Heterotrimer of UreA (gamma), UreB (beta) and UreC (alpha) subunits. Three heterotrimers associate to form the active enzyme.",['Ethha_2690']
+486,E6U7R2,['Histidinol-phosphate aminotransferase'],Homodimer.,"['hisC', 'Ethha_2692']"
+487,E6U7R9,['Glutamate synthase (Ferredoxin)'],Homodimer.,['Ethha_2699']
+488,E6U7S0,['glutamate synthase (NADPH)'],Homodimer.,['Ethha_2700']
+489,E6U7S4,['Natural resistance-associated macrophage protein'],Homodimer.,['Ethha_2704']
+490,E6U7S5,"['L-lactate dehydrogenase', 'L-LDH']",Homotetramer.,"['ldh', 'Ethha_2705']"
+491,E6U7S7,"['Fructose-1,6-bisphosphate aldolase, class II']",Homotetramer.,['Ethha_2707']
+492,E6U7T1,['Phosphate acetyltransferase'],Homotetramer.,['Ethha_2711']
+493,E6U7T8,['Dephospho-CoA kinase'],Homotetramer.,"['coaE', 'Ethha_2718']"
+494,E6U7U5,['Cd(2+)-exporting ATPase'],Homotetramer.,['Ethha_2725']
+495,E6U7U8,['Carbonate dehydratase'],Homotetramer.,['Ethha_2728']
+496,E6U7U9,['GCN5-related N-acetyltransferase'],Homotetramer.,['Ethha_2729']
+497,E6U7V0,"['Glutamate-1-semialdehyde 2,1-aminomutase', 'GSA']",Homodimer.,"['hemL', 'Ethha_2731']"
+498,E6U7V1,['GCN5-related N-acetyltransferase'],Homodimer.,['Ethha_2732']
+499,E6U7V2,['Pyruvate:ferredoxin oxidoreductase'],Homodimer.,['Ethha_2733']
+500,E6U8B1,"['Phosphoglucomutase', 'Alpha-phosphoglucomutase', 'Glucose phosphomutase']",Homodimer.,['Ethha_2738']
+501,E6U8C4,['Penicillin-binding protein 1A'],Homodimer.,['Ethha_2751']
+502,E6U8C5,['Conserved repeat domain protein'],Homodimer.,['Ethha_2752']
+503,E6U8C7,['PTS system mannitol-specific EIICB component'],Homodimer.,['Ethha_2754']
+504,E6U8C9,"['Mannitol-specific phosphotransferase enzyme IIA component', 'EIIA', 'EIII', 'PTS system mannitol-specific EIIA component']",Homodimer.,['Ethha_2756']
+505,E6U8D0,['Mannitol-1-phosphate 5-dehydrogenase'],Homodimer.,"['mtlD', 'Ethha_2757']"
+506,E6U8D1,"['Phosphotransferase system, phosphocarrier protein HPr']",Homodimer.,['Ethha_2758']
+507,E6U8D8,['Aspartokinase'],Homodimer.,['Ethha_2765']
+508,E6U8D9,['Homoserine kinase'],Homodimer.,"['thrB', 'Ethha_2766']"
+509,E6U8E0,['Homoserine dehydrogenase'],Homodimer.,['Ethha_2767']
+510,E6U8E3,['Haloacid dehalogenase domain protein hydrolase'],Homodimer.,['Ethha_2770']
+511,E6U8E5,['Glutathione peroxidase'],Homodimer.,['Ethha_2772']
+512,E6U8E8,"['dCTP deaminase, dUMP-forming', 'Bifunctional dCTP deaminase:dUTPase', 'DCD-DUT']",Homotrimer.,"['dcd', 'Ethha_2775']"
+513,E6U8F2,['Riboflavin biosynthesis protein'],Homotrimer.,['Ethha_2779']
+514,E6U8G1,['Acyl-ACP thioesterase'],Homotrimer.,['Ethha_2788']
