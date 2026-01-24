@@ -1,10 +1,10 @@
-# Ethanoligenens harbinense YUAN-3
+# *Ethanoligenens harbinense* YUAN-3
 
 This repository contains the genome-scale metabolic model (GEM),
 enzyme-constrained GEM (ecGEM), datasets, and scripts used to reproduce
 the computational results reported in the manuscript.
 
----
+
 
 ## Contents
 
@@ -23,7 +23,7 @@ the computational results reported in the manuscript.
 - `requirements.txt`  
   Conda environment specification.
 
----
+
 
 ## Environment
 
