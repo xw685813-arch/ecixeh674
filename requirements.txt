@@ -1,5 +1,5 @@
 cobra==0.26.3\
-ecmpy==\
+ecmpy2.0\
 python=3.8\
 scikit-learn==1.2.2\
 torch==2.0.1\
