@@ -1,4 +1,4 @@
-# Code and data for this study
+# Ethanoligenens harbinense YUAN-3
 
 This repository contains the genome-scale metabolic model (GEM),
 enzyme-constrained GEM (ecGEM), datasets, and scripts used to reproduce
@@ -8,6 +8,9 @@ the computational results reported in the manuscript.
 
 ## Contents
 
+- `analysis/`  
+  Intermediate files and results generated during kcat prediction.
+  
 - `models/`  
   Curated GEM and ecGEM used in this study.
 
